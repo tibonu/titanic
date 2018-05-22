@@ -78,10 +78,20 @@ function build_query_criteria(req) {
         criteria.destination = {isUndefined: false, likenocase: pvalue};
       }
       else if (pname == "agemin") {
-        criteria.age = {gte: pvalue};
+        if (criteria.age) {
+          criteria.age.gte = pvalue;
+        }
+        else {
+          criteria.age = {gte: pvalue};
+        }
       }
       else if (pname == "agemax") {
-        criteria.age = {lte: pvalue};
+        if (criteria.age) {
+          criteria.age.lte = pvalue;
+        }
+        else {
+          criteria.age = {lte: pvalue};
+        }
       }
     }
   }
