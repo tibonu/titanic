@@ -12,8 +12,7 @@ const data = [{
     "fare": 211.3375,
     "cabin": "B5",
     "portOfEmbarkation": "Southampton",
-    "destination": "St Louis, MO",
-    "source": "kaggle.com"
+    "destination": "St Louis, MO"
 }, {
     "id": 2,
     "class": 1,
@@ -28,8 +27,7 @@ const data = [{
     "fare": 151.55,
     "cabin": "C22 C26",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ / Chesterville, ON",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ / Chesterville, ON"
 }, {
     "id": 3,
     "class": 1,
@@ -43,8 +41,7 @@ const data = [{
     "fare": 151.55,
     "cabin": "C22 C26",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ / Chesterville, ON",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ / Chesterville, ON"
 }, {
     "id": 4,
     "class": 1,
@@ -58,8 +55,7 @@ const data = [{
     "fare": 151.55,
     "cabin": "C22 C26",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ / Chesterville, ON",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ / Chesterville, ON"
 }, {
     "id": 5,
     "class": 1,
@@ -73,8 +69,7 @@ const data = [{
     "fare": 151.55,
     "cabin": "C22 C26",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ / Chesterville, ON",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ / Chesterville, ON"
 }, {
     "id": 6,
     "class": 1,
@@ -89,8 +84,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "E12",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 7,
     "class": 1,
@@ -105,8 +99,7 @@ const data = [{
     "fare": 77.9583,
     "cabin": "D7",
     "portOfEmbarkation": "Southampton",
-    "destination": "Hudson, NY",
-    "source": "kaggle.com"
+    "destination": "Hudson, NY"
 }, {
     "id": 8,
     "class": 1,
@@ -120,8 +113,7 @@ const data = [{
     "fare": 0.0,
     "cabin": "A36",
     "portOfEmbarkation": "Southampton",
-    "destination": "Belfast, NI",
-    "source": "kaggle.com"
+    "destination": "Belfast, NI"
 }, {
     "id": 9,
     "class": 1,
@@ -136,8 +128,7 @@ const data = [{
     "fare": 51.4792,
     "cabin": "C101",
     "portOfEmbarkation": "Southampton",
-    "destination": "Bayside, Queens, NY",
-    "source": "kaggle.com"
+    "destination": "Bayside, Queens, NY"
 }, {
     "id": 10,
     "class": 1,
@@ -150,8 +141,7 @@ const data = [{
     "ticketId": "PC 17609",
     "fare": 49.5042,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Montevideo, Uruguay",
-    "source": "kaggle.com"
+    "destination": "Montevideo, Uruguay"
 }, {
     "id": 11,
     "class": 1,
@@ -165,8 +155,7 @@ const data = [{
     "fare": 227.525,
     "cabin": "C62 C64",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 12,
     "class": 1,
@@ -181,8 +170,7 @@ const data = [{
     "fare": 227.525,
     "cabin": "C62 C64",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 13,
     "class": 1,
@@ -197,8 +185,7 @@ const data = [{
     "fare": 69.3,
     "cabin": "B35",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 14,
     "class": 1,
@@ -211,8 +198,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "19877",
     "fare": 78.85,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 15,
     "class": 1,
@@ -227,8 +213,7 @@ const data = [{
     "fare": 30.0,
     "cabin": "A23",
     "portOfEmbarkation": "Southampton",
-    "destination": "Hessle, Yorks",
-    "source": "kaggle.com"
+    "destination": "Hessle, Yorks"
 }, {
     "id": 16,
     "class": 1,
@@ -241,8 +226,7 @@ const data = [{
     "ticketId": "PC 17318",
     "fare": 25.925,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 17,
     "class": 1,
@@ -256,8 +240,7 @@ const data = [{
     "fare": 247.5208,
     "cabin": "B58 B60",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 18,
     "class": 1,
@@ -272,8 +255,7 @@ const data = [{
     "fare": 247.5208,
     "cabin": "B58 B60",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 19,
     "class": 1,
@@ -287,8 +269,7 @@ const data = [{
     "ticketId": "11813",
     "fare": 76.2917,
     "cabin": "D15",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 20,
     "class": 1,
@@ -302,8 +283,7 @@ const data = [{
     "fare": 75.2417,
     "cabin": "C6",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Winnipeg, MN",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MN"
 }, {
     "id": 21,
     "class": 1,
@@ -318,8 +298,7 @@ const data = [{
     "fare": 52.5542,
     "cabin": "D35",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 22,
     "class": 1,
@@ -334,8 +313,7 @@ const data = [{
     "fare": 52.5542,
     "cabin": "D35",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 23,
     "class": 1,
@@ -350,8 +328,7 @@ const data = [{
     "fare": 30.0,
     "cabin": "C148",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 24,
     "class": 1,
@@ -364,8 +341,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "PC 17757",
     "fare": 227.525,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 25,
     "class": 1,
@@ -379,8 +355,7 @@ const data = [{
     "ticketId": "PC 17483",
     "fare": 221.7792,
     "cabin": "C97",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 26,
     "class": 1,
@@ -393,8 +368,7 @@ const data = [{
     "ticketId": "13905",
     "fare": 26.0,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "San Francisco, CA",
-    "source": "kaggle.com"
+    "destination": "San Francisco, CA"
 }, {
     "id": 27,
     "class": 1,
@@ -409,8 +383,7 @@ const data = [{
     "fare": 91.0792,
     "cabin": "B49",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Dowagiac, MI",
-    "source": "kaggle.com"
+    "destination": "Dowagiac, MI"
 }, {
     "id": 28,
     "class": 1,
@@ -425,8 +398,7 @@ const data = [{
     "fare": 91.0792,
     "cabin": "B49",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Dowagiac, MI",
-    "source": "kaggle.com"
+    "destination": "Dowagiac, MI"
 }, {
     "id": 29,
     "class": 1,
@@ -440,8 +412,7 @@ const data = [{
     "ticketId": "PC 17760",
     "fare": 135.6333,
     "cabin": "C99",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 30,
     "class": 1,
@@ -456,8 +427,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "C52",
     "portOfEmbarkation": "Southampton",
-    "destination": "Stockholm, Sweden / Washington, DC",
-    "source": "kaggle.com"
+    "destination": "Stockholm, Sweden / Washington, DC"
 }, {
     "id": 31,
     "class": 1,
@@ -471,8 +441,7 @@ const data = [{
     "fare": 35.5,
     "cabin": "T",
     "portOfEmbarkation": "Southampton",
-    "destination": "Trenton, NJ",
-    "source": "kaggle.com"
+    "destination": "Trenton, NJ"
 }, {
     "id": 32,
     "class": 1,
@@ -487,8 +456,7 @@ const data = [{
     "fare": 31.0,
     "cabin": "A31",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Glen Ridge, NJ",
-    "source": "kaggle.com"
+    "destination": "Glen Ridge, NJ"
 }, {
     "id": 33,
     "class": 1,
@@ -503,8 +471,7 @@ const data = [{
     "fare": 164.8667,
     "cabin": "C7",
     "portOfEmbarkation": "Southampton",
-    "destination": "Youngstown, OH",
-    "source": "kaggle.com"
+    "destination": "Youngstown, OH"
 }, {
     "id": 34,
     "class": 1,
@@ -519,8 +486,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "C103",
     "portOfEmbarkation": "Southampton",
-    "destination": "Birkdale, England Cleveland, Ohio",
-    "source": "kaggle.com"
+    "destination": "Birkdale, England Cleveland, Ohio"
 }, {
     "id": 35,
     "class": 1,
@@ -534,8 +500,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "D22",
     "portOfEmbarkation": "Southampton",
-    "destination": "London / Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "London / Winnipeg, MB"
 }, {
     "id": 36,
     "class": 1,
@@ -549,8 +514,7 @@ const data = [{
     "ticketId": "PC 17608",
     "fare": 262.375,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Cooperstown, NY",
-    "source": "kaggle.com"
+    "destination": "Cooperstown, NY"
 }, {
     "id": 37,
     "class": 1,
@@ -565,8 +529,7 @@ const data = [{
     "fare": 55.0,
     "cabin": "E33",
     "portOfEmbarkation": "Southampton",
-    "destination": "St Leonards-on-Sea, England Ohio",
-    "source": "kaggle.com"
+    "destination": "St Leonards-on-Sea, England Ohio"
 }, {
     "id": 38,
     "class": 1,
@@ -580,8 +543,7 @@ const data = [{
     "ticketId": "111427",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "Los Angeles, CA",
-    "source": "kaggle.com"
+    "destination": "Los Angeles, CA"
 }, {
     "id": 39,
     "class": 1,
@@ -595,8 +557,7 @@ const data = [{
     "fare": 30.5,
     "cabin": "A21",
     "portOfEmbarkation": "Southampton",
-    "destination": "Pomeroy, WA",
-    "source": "kaggle.com"
+    "destination": "Pomeroy, WA"
 }, {
     "id": 40,
     "class": 1,
@@ -610,8 +571,7 @@ const data = [{
     "fare": 50.4958,
     "cabin": "B10",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Omaha, NE",
-    "source": "kaggle.com"
+    "destination": "Omaha, NE"
 }, {
     "id": 41,
     "class": 1,
@@ -624,8 +584,7 @@ const data = [{
     "ticketId": "112379",
     "fare": 39.6,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Philadelphia, PA"
 }, {
     "id": 42,
     "class": 1,
@@ -640,8 +599,7 @@ const data = [{
     "fare": 27.7208,
     "cabin": "B4",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Denver, CO",
-    "source": "kaggle.com"
+    "destination": "Denver, CO"
 }, {
     "id": 43,
     "class": 1,
@@ -656,8 +614,7 @@ const data = [{
     "fare": 51.4792,
     "cabin": "C101",
     "portOfEmbarkation": "Southampton",
-    "destination": "Belmont, MA",
-    "source": "kaggle.com"
+    "destination": "Belmont, MA"
 }, {
     "id": 44,
     "class": 1,
@@ -672,8 +629,7 @@ const data = [{
     "fare": 76.2917,
     "cabin": "D15",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Philadelphia, PA"
 }, {
     "id": 45,
     "class": 1,
@@ -687,8 +643,7 @@ const data = [{
     "ticketId": "16966",
     "fare": 134.5,
     "cabin": "E40",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 46,
     "class": 1,
@@ -702,8 +657,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "B38",
     "portOfEmbarkation": "Southampton",
-    "destination": "Washington, DC",
-    "source": "kaggle.com"
+    "destination": "Washington, DC"
 }, {
     "id": 47,
     "class": 1,
@@ -715,8 +669,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "113798",
     "fare": 31.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 48,
     "class": 1,
@@ -731,8 +684,7 @@ const data = [{
     "fare": 26.2875,
     "cabin": "E24",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 49,
     "class": 1,
@@ -746,8 +698,7 @@ const data = [{
     "ticketId": "PC 17606",
     "fare": 27.4458,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Washington, DC",
-    "source": "kaggle.com"
+    "destination": "Washington, DC"
 }, {
     "id": 50,
     "class": 1,
@@ -762,8 +713,7 @@ const data = [{
     "fare": 512.3292,
     "cabin": "B51 B53 B55",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Austria-Hungary / Germantown, Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Austria-Hungary / Germantown, Philadelphia, PA"
 }, {
     "id": 51,
     "class": 1,
@@ -778,8 +728,7 @@ const data = [{
     "fare": 512.3292,
     "cabin": "B51 B53 B55",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Germantown, Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Germantown, Philadelphia, PA"
 }, {
     "id": 52,
     "class": 1,
@@ -793,8 +742,7 @@ const data = [{
     "fare": 5.0,
     "cabin": "B51 B53 B55",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 53,
     "class": 1,
@@ -807,8 +755,7 @@ const data = [{
     "ticketId": "113059",
     "fare": 47.1,
     "portOfEmbarkation": "Southampton",
-    "destination": "Montevideo, Uruguay",
-    "source": "kaggle.com"
+    "destination": "Montevideo, Uruguay"
 }, {
     "id": 54,
     "class": 1,
@@ -821,8 +768,7 @@ const data = [{
     "ticketId": "113059",
     "fare": 47.1,
     "portOfEmbarkation": "Southampton",
-    "destination": "Montevideo, Uruguay",
-    "source": "kaggle.com"
+    "destination": "Montevideo, Uruguay"
 }, {
     "id": 55,
     "class": 1,
@@ -837,8 +783,7 @@ const data = [{
     "fare": 120.0,
     "cabin": "B96 B98",
     "portOfEmbarkation": "Southampton",
-    "destination": "Bryn Mawr, PA",
-    "source": "kaggle.com"
+    "destination": "Bryn Mawr, PA"
 }, {
     "id": 56,
     "class": 1,
@@ -853,8 +798,7 @@ const data = [{
     "fare": 120.0,
     "cabin": "B96 B98",
     "portOfEmbarkation": "Southampton",
-    "destination": "Bryn Mawr, PA",
-    "source": "kaggle.com"
+    "destination": "Bryn Mawr, PA"
 }, {
     "id": 57,
     "class": 1,
@@ -869,8 +813,7 @@ const data = [{
     "fare": 120.0,
     "cabin": "B96 B98",
     "portOfEmbarkation": "Southampton",
-    "destination": "Bryn Mawr, PA",
-    "source": "kaggle.com"
+    "destination": "Bryn Mawr, PA"
 }, {
     "id": 58,
     "class": 1,
@@ -885,8 +828,7 @@ const data = [{
     "fare": 120.0,
     "cabin": "B96 B98",
     "portOfEmbarkation": "Southampton",
-    "destination": "Bryn Mawr, PA",
-    "source": "kaggle.com"
+    "destination": "Bryn Mawr, PA"
 }, {
     "id": 59,
     "class": 1,
@@ -899,8 +841,7 @@ const data = [{
     "ticketId": "19924",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ascot, Berkshire / Rochester, NY",
-    "source": "kaggle.com"
+    "destination": "Ascot, Berkshire / Rochester, NY"
 }, {
     "id": 60,
     "class": 1,
@@ -914,8 +855,7 @@ const data = [{
     "ticketId": "17770",
     "fare": 27.7208,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 61,
     "class": 1,
@@ -929,8 +869,7 @@ const data = [{
     "fare": 78.85,
     "cabin": "C46",
     "portOfEmbarkation": "Southampton",
-    "destination": "Little Onn Hall, Staffs",
-    "source": "kaggle.com"
+    "destination": "Little Onn Hall, Staffs"
 }, {
     "id": 62,
     "class": 1,
@@ -945,8 +884,7 @@ const data = [{
     "fare": 78.85,
     "cabin": "C46",
     "portOfEmbarkation": "Southampton",
-    "destination": "Little Onn Hall, Staffs",
-    "source": "kaggle.com"
+    "destination": "Little Onn Hall, Staffs"
 }, {
     "id": 63,
     "class": 1,
@@ -960,8 +898,7 @@ const data = [{
     "fare": 61.175,
     "cabin": "E31",
     "portOfEmbarkation": "Southampton",
-    "destination": "Amenia, ND",
-    "source": "kaggle.com"
+    "destination": "Amenia, ND"
 }, {
     "id": 64,
     "class": 1,
@@ -976,8 +913,7 @@ const data = [{
     "fare": 61.175,
     "cabin": "E31",
     "portOfEmbarkation": "Southampton",
-    "destination": "Amenia, ND",
-    "source": "kaggle.com"
+    "destination": "Amenia, ND"
 }, {
     "id": 65,
     "class": 1,
@@ -992,8 +928,7 @@ const data = [{
     "fare": 53.1,
     "cabin": "E8",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY / Ithaca, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY / Ithaca, NY"
 }, {
     "id": 66,
     "class": 1,
@@ -1008,8 +943,7 @@ const data = [{
     "fare": 53.1,
     "cabin": "E8",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY / Ithaca, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY / Ithaca, NY"
 }, {
     "id": 67,
     "class": 1,
@@ -1023,8 +957,7 @@ const data = [{
     "ticketId": "PC 17608",
     "fare": 262.375,
     "cabin": "B61",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 68,
     "class": 1,
@@ -1039,8 +972,7 @@ const data = [{
     "fare": 86.5,
     "cabin": "B77",
     "portOfEmbarkation": "Southampton",
-    "destination": "London, England",
-    "source": "kaggle.com"
+    "destination": "London, England"
 }, {
     "id": 69,
     "class": 1,
@@ -1055,8 +987,7 @@ const data = [{
     "fare": 29.7,
     "cabin": "A9",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 70,
     "class": 1,
@@ -1071,8 +1002,7 @@ const data = [{
     "fare": 55.0,
     "cabin": "E33",
     "portOfEmbarkation": "Southampton",
-    "destination": "St Leonards-on-Sea, England Ohio",
-    "source": "kaggle.com"
+    "destination": "St Leonards-on-Sea, England Ohio"
 }, {
     "id": 71,
     "class": 1,
@@ -1085,8 +1015,7 @@ const data = [{
     "ticketId": "112051",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Liverpool, England / Belfast",
-    "source": "kaggle.com"
+    "destination": "Liverpool, England / Belfast"
 }, {
     "id": 72,
     "class": 1,
@@ -1100,8 +1029,7 @@ const data = [{
     "fare": 136.7792,
     "cabin": "C89",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Los Angeles, CA",
-    "source": "kaggle.com"
+    "destination": "Los Angeles, CA"
 }, {
     "id": 73,
     "class": 1,
@@ -1116,8 +1044,7 @@ const data = [{
     "fare": 136.7792,
     "cabin": "C89",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Los Angeles, CA",
-    "source": "kaggle.com"
+    "destination": "Los Angeles, CA"
 }, {
     "id": 74,
     "class": 1,
@@ -1130,8 +1057,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "113781",
     "fare": 151.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 75,
     "class": 1,
@@ -1145,8 +1071,7 @@ const data = [{
     "fare": 52.0,
     "cabin": "A14",
     "portOfEmbarkation": "Southampton",
-    "destination": "Stoughton, MA",
-    "source": "kaggle.com"
+    "destination": "Stoughton, MA"
 }, {
     "id": 76,
     "class": 1,
@@ -1160,8 +1085,7 @@ const data = [{
     "fare": 25.5875,
     "cabin": "E58",
     "portOfEmbarkation": "Southampton",
-    "destination": "Victoria, BC",
-    "source": "kaggle.com"
+    "destination": "Victoria, BC"
 }, {
     "id": 77,
     "class": 1,
@@ -1176,8 +1100,7 @@ const data = [{
     "fare": 83.1583,
     "cabin": "E49",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Lakewood, NJ",
-    "source": "kaggle.com"
+    "destination": "Lakewood, NJ"
 }, {
     "id": 78,
     "class": 1,
@@ -1191,8 +1114,7 @@ const data = [{
     "fare": 83.1583,
     "cabin": "E52",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Lakewood, NJ",
-    "source": "kaggle.com"
+    "destination": "Lakewood, NJ"
 }, {
     "id": 79,
     "class": 1,
@@ -1207,8 +1129,7 @@ const data = [{
     "fare": 83.1583,
     "cabin": "E45",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Lakewood, NJ",
-    "source": "kaggle.com"
+    "destination": "Lakewood, NJ"
 }, {
     "id": 80,
     "class": 1,
@@ -1223,8 +1144,7 @@ const data = [{
     "fare": 25.7,
     "cabin": "C101",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 81,
     "class": 1,
@@ -1237,8 +1157,7 @@ const data = [{
     "ticketId": "113791",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "Roachdale, IN",
-    "source": "kaggle.com"
+    "destination": "Roachdale, IN"
 }, {
     "id": 82,
     "class": 1,
@@ -1252,8 +1171,7 @@ const data = [{
     "fare": 71.0,
     "cabin": "B22",
     "portOfEmbarkation": "Southampton",
-    "destination": "Milwaukee, WI",
-    "source": "kaggle.com"
+    "destination": "Milwaukee, WI"
 }, {
     "id": 83,
     "class": 1,
@@ -1268,8 +1186,7 @@ const data = [{
     "fare": 71.0,
     "cabin": "B22",
     "portOfEmbarkation": "Southampton",
-    "destination": "Milwaukee, WI",
-    "source": "kaggle.com"
+    "destination": "Milwaukee, WI"
 }, {
     "id": 84,
     "class": 1,
@@ -1284,8 +1201,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "B26",
     "portOfEmbarkation": "Southampton",
-    "destination": "Milwaukee, WI",
-    "source": "kaggle.com"
+    "destination": "Milwaukee, WI"
 }, {
     "id": 85,
     "class": 1,
@@ -1299,8 +1215,7 @@ const data = [{
     "fare": 71.2833,
     "cabin": "C85",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 86,
     "class": 1,
@@ -1315,8 +1230,7 @@ const data = [{
     "fare": 71.2833,
     "cabin": "C85",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 87,
     "class": 1,
@@ -1331,8 +1245,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "E17",
     "portOfEmbarkation": "Southampton",
-    "destination": "Lima, Peru",
-    "source": "kaggle.com"
+    "destination": "Lima, Peru"
 }, {
     "id": 88,
     "class": 1,
@@ -1346,8 +1259,7 @@ const data = [{
     "ticketId": "113804",
     "fare": 30.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Philadelphia, PA"
 }, {
     "id": 89,
     "class": 1,
@@ -1360,8 +1272,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "113781",
     "fare": 151.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 90,
     "class": 1,
@@ -1375,8 +1286,7 @@ const data = [{
     "fare": 52.0,
     "cabin": "B71",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 91,
     "class": 1,
@@ -1391,8 +1301,7 @@ const data = [{
     "fare": 52.0,
     "cabin": "B71",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 92,
     "class": 1,
@@ -1407,8 +1316,7 @@ const data = [{
     "fare": 57.0,
     "cabin": "B20",
     "portOfEmbarkation": "Southampton",
-    "destination": "Calgary, AB",
-    "source": "kaggle.com"
+    "destination": "Calgary, AB"
 }, {
     "id": 93,
     "class": 1,
@@ -1423,8 +1331,7 @@ const data = [{
     "fare": 57.0,
     "cabin": "B20",
     "portOfEmbarkation": "Southampton",
-    "destination": "Calgary, AB",
-    "source": "kaggle.com"
+    "destination": "Calgary, AB"
 }, {
     "id": 94,
     "class": 1,
@@ -1439,8 +1346,7 @@ const data = [{
     "fare": 81.8583,
     "cabin": "A34",
     "portOfEmbarkation": "Southampton",
-    "destination": "San Francisco, CA",
-    "source": "kaggle.com"
+    "destination": "San Francisco, CA"
 }, {
     "id": 95,
     "class": 1,
@@ -1455,8 +1361,7 @@ const data = [{
     "fare": 81.8583,
     "cabin": "A34",
     "portOfEmbarkation": "Southampton",
-    "destination": "San Francisco, CA",
-    "source": "kaggle.com"
+    "destination": "San Francisco, CA"
 }, {
     "id": 96,
     "class": 1,
@@ -1471,8 +1376,7 @@ const data = [{
     "fare": 81.8583,
     "cabin": "A34",
     "portOfEmbarkation": "Southampton",
-    "destination": "San Francisco, CA",
-    "source": "kaggle.com"
+    "destination": "San Francisco, CA"
 }, {
     "id": 97,
     "class": 1,
@@ -1486,8 +1390,7 @@ const data = [{
     "fare": 106.425,
     "cabin": "C86",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Deephaven, MN / Cedar Rapids, IA",
-    "source": "kaggle.com"
+    "destination": "Deephaven, MN / Cedar Rapids, IA"
 }, {
     "id": 98,
     "class": 1,
@@ -1502,8 +1405,7 @@ const data = [{
     "fare": 247.5208,
     "cabin": "B58 B60",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 99,
     "class": 1,
@@ -1518,8 +1420,7 @@ const data = [{
     "fare": 106.425,
     "cabin": "C86",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Deephaven, MN / Cedar Rapids, IA",
-    "source": "kaggle.com"
+    "destination": "Deephaven, MN / Cedar Rapids, IA"
 }, {
     "id": 100,
     "class": 1,
@@ -1534,8 +1435,7 @@ const data = [{
     "fare": 39.6,
     "cabin": "A16",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "London / Paris",
-    "source": "kaggle.com"
+    "destination": "London / Paris"
 }, {
     "id": 101,
     "class": 1,
@@ -1550,8 +1450,7 @@ const data = [{
     "fare": 56.9292,
     "cabin": "A20",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "London / Paris",
-    "source": "kaggle.com"
+    "destination": "London / Paris"
 }, {
     "id": 102,
     "class": 1,
@@ -1565,8 +1464,7 @@ const data = [{
     "fare": 29.7,
     "cabin": "A18",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Philadelphia, PA"
 }, {
     "id": 103,
     "class": 1,
@@ -1581,8 +1479,7 @@ const data = [{
     "fare": 83.1583,
     "cabin": "C54",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Mt Airy, Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Mt Airy, Philadelphia, PA"
 }, {
     "id": 104,
     "class": 1,
@@ -1597,8 +1494,7 @@ const data = [{
     "fare": 227.525,
     "cabin": "C45",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 105,
     "class": 1,
@@ -1613,8 +1509,7 @@ const data = [{
     "fare": 78.2667,
     "cabin": "D20",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Brookline, MA",
-    "source": "kaggle.com"
+    "destination": "Brookline, MA"
 }, {
     "id": 106,
     "class": 1,
@@ -1628,8 +1523,7 @@ const data = [{
     "fare": 31.6792,
     "cabin": "A29",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 107,
     "class": 1,
@@ -1642,8 +1536,7 @@ const data = [{
     "ticketId": "PC 17483",
     "fare": 221.7792,
     "cabin": "C95",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 108,
     "class": 1,
@@ -1657,8 +1550,7 @@ const data = [{
     "ticketId": "PC 17598",
     "fare": 31.6833,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 109,
     "class": 1,
@@ -1671,8 +1563,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "17421",
     "fare": 110.8833,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 110,
     "class": 1,
@@ -1687,8 +1578,7 @@ const data = [{
     "fare": 26.3875,
     "cabin": "E25",
     "portOfEmbarkation": "Southampton",
-    "destination": "Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Brooklyn, NY"
 }, {
     "id": 111,
     "class": 1,
@@ -1702,8 +1592,7 @@ const data = [{
     "fare": 27.75,
     "cabin": "C111",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 112,
     "class": 1,
@@ -1718,8 +1607,7 @@ const data = [{
     "fare": 263.0,
     "cabin": "C23 C25 C27",
     "portOfEmbarkation": "Southampton",
-    "destination": "Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MB"
 }, {
     "id": 113,
     "class": 1,
@@ -1734,8 +1622,7 @@ const data = [{
     "fare": 263.0,
     "cabin": "C23 C25 C27",
     "portOfEmbarkation": "Southampton",
-    "destination": "Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MB"
 }, {
     "id": 114,
     "class": 1,
@@ -1750,8 +1637,7 @@ const data = [{
     "fare": 263.0,
     "cabin": "C23 C25 C27",
     "portOfEmbarkation": "Southampton",
-    "destination": "Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MB"
 }, {
     "id": 115,
     "class": 1,
@@ -1765,8 +1651,7 @@ const data = [{
     "fare": 263.0,
     "cabin": "C23 C25 C27",
     "portOfEmbarkation": "Southampton",
-    "destination": "Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MB"
 }, {
     "id": 116,
     "class": 1,
@@ -1780,8 +1665,7 @@ const data = [{
     "fare": 263.0,
     "cabin": "C23 C25 C27",
     "portOfEmbarkation": "Southampton",
-    "destination": "Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MB"
 }, {
     "id": 117,
     "class": 1,
@@ -1796,8 +1680,7 @@ const data = [{
     "fare": 263.0,
     "cabin": "C23 C25 C27",
     "portOfEmbarkation": "Southampton",
-    "destination": "Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MB"
 }, {
     "id": 118,
     "class": 1,
@@ -1811,8 +1694,7 @@ const data = [{
     "ticketId": "PC 17485",
     "fare": 56.9292,
     "cabin": "E36",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 119,
     "class": 1,
@@ -1826,8 +1708,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "D34",
     "portOfEmbarkation": "Southampton",
-    "destination": "Westcliff-on-Sea, Essex",
-    "source": "kaggle.com"
+    "destination": "Westcliff-on-Sea, Essex"
 }, {
     "id": 120,
     "class": 1,
@@ -1841,8 +1722,7 @@ const data = [{
     "ticketId": "PC 17611",
     "fare": 133.65,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 121,
     "class": 1,
@@ -1857,8 +1737,7 @@ const data = [{
     "fare": 27.7208,
     "cabin": "D40",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 122,
     "class": 1,
@@ -1872,8 +1751,7 @@ const data = [{
     "ticketId": "PC 17611",
     "fare": 133.65,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 123,
     "class": 1,
@@ -1888,8 +1766,7 @@ const data = [{
     "fare": 49.5,
     "cabin": "B39",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Zurich, Switzerland",
-    "source": "kaggle.com"
+    "destination": "Zurich, Switzerland"
 }, {
     "id": 124,
     "class": 1,
@@ -1904,8 +1781,7 @@ const data = [{
     "fare": 79.2,
     "cabin": "B41",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Zurich, Switzerland",
-    "source": "kaggle.com"
+    "destination": "Zurich, Switzerland"
 }, {
     "id": 125,
     "class": 1,
@@ -1920,8 +1796,7 @@ const data = [{
     "fare": 79.2,
     "cabin": "B41",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Zurich, Switzerland",
-    "source": "kaggle.com"
+    "destination": "Zurich, Switzerland"
 }, {
     "id": 126,
     "class": 1,
@@ -1934,8 +1809,7 @@ const data = [{
     "ticketId": "112058",
     "fare": 0.0,
     "cabin": "B102",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 127,
     "class": 1,
@@ -1949,8 +1823,7 @@ const data = [{
     "fare": 53.1,
     "cabin": "C123",
     "portOfEmbarkation": "Southampton",
-    "destination": "Scituate, MA",
-    "source": "kaggle.com"
+    "destination": "Scituate, MA"
 }, {
     "id": 128,
     "class": 1,
@@ -1965,8 +1838,7 @@ const data = [{
     "fare": 53.1,
     "cabin": "C123",
     "portOfEmbarkation": "Southampton",
-    "destination": "Scituate, MA",
-    "source": "kaggle.com"
+    "destination": "Scituate, MA"
 }, {
     "id": 129,
     "class": 1,
@@ -1980,8 +1852,7 @@ const data = [{
     "fare": 38.5,
     "cabin": "E63",
     "portOfEmbarkation": "Southampton",
-    "destination": "St Anne's-on-Sea, Lancashire",
-    "source": "kaggle.com"
+    "destination": "St Anne's-on-Sea, Lancashire"
 }, {
     "id": 130,
     "class": 1,
@@ -1995,8 +1866,7 @@ const data = [{
     "ticketId": "113503",
     "fare": 211.5,
     "cabin": "C130",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 131,
     "class": 1,
@@ -2010,8 +1880,7 @@ const data = [{
     "ticketId": "112378",
     "fare": 59.4,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 132,
     "class": 1,
@@ -2025,8 +1894,7 @@ const data = [{
     "ticketId": "112378",
     "fare": 59.4,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 133,
     "class": 1,
@@ -2039,8 +1907,7 @@ const data = [{
     "ticketId": "PC 17593",
     "fare": 79.2,
     "cabin": "B86",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 134,
     "class": 1,
@@ -2055,8 +1922,7 @@ const data = [{
     "fare": 89.1042,
     "cabin": "C92",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France / New York, NY",
-    "source": "kaggle.com"
+    "destination": "Paris, France / New York, NY"
 }, {
     "id": 135,
     "class": 1,
@@ -2071,8 +1937,7 @@ const data = [{
     "fare": 89.1042,
     "cabin": "C92",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France / New York, NY",
-    "source": "kaggle.com"
+    "destination": "Paris, France / New York, NY"
 }, {
     "id": 136,
     "class": 1,
@@ -2086,8 +1951,7 @@ const data = [{
     "fare": 34.6542,
     "cabin": "A5",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 137,
     "class": 1,
@@ -2102,8 +1966,7 @@ const data = [{
     "fare": 28.5,
     "cabin": "C51",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Washington, DC",
-    "source": "kaggle.com"
+    "destination": "Washington, DC"
 }, {
     "id": 138,
     "class": 1,
@@ -2118,8 +1981,7 @@ const data = [{
     "fare": 30.0,
     "cabin": "B42",
     "portOfEmbarkation": "Southampton",
-    "destination": "Greenwich, CT",
-    "source": "kaggle.com"
+    "destination": "Greenwich, CT"
 }, {
     "id": 139,
     "class": 1,
@@ -2133,8 +1995,7 @@ const data = [{
     "fare": 153.4625,
     "cabin": "C91",
     "portOfEmbarkation": "Southampton",
-    "destination": "Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MB"
 }, {
     "id": 140,
     "class": 1,
@@ -2149,8 +2010,7 @@ const data = [{
     "fare": 153.4625,
     "cabin": "C125",
     "portOfEmbarkation": "Southampton",
-    "destination": "Greenwich, CT",
-    "source": "kaggle.com"
+    "destination": "Greenwich, CT"
 }, {
     "id": 141,
     "class": 1,
@@ -2165,8 +2025,7 @@ const data = [{
     "fare": 63.3583,
     "cabin": "D10 D12",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 142,
     "class": 1,
@@ -2181,8 +2040,7 @@ const data = [{
     "fare": 63.3583,
     "cabin": "D10 D12",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 143,
     "class": 1,
@@ -2196,8 +2054,7 @@ const data = [{
     "fare": 79.2,
     "cabin": "B82 B84",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 144,
     "class": 1,
@@ -2212,8 +2069,7 @@ const data = [{
     "fare": 55.4417,
     "cabin": "E50",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Brooklyn, NY"
 }, {
     "id": 145,
     "class": 1,
@@ -2228,8 +2084,7 @@ const data = [{
     "fare": 55.4417,
     "cabin": "E50",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Brooklyn, NY"
 }, {
     "id": 146,
     "class": 1,
@@ -2244,8 +2099,7 @@ const data = [{
     "fare": 76.7292,
     "cabin": "D33",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 147,
     "class": 1,
@@ -2260,8 +2114,7 @@ const data = [{
     "fare": 76.7292,
     "cabin": "D33",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 148,
     "class": 1,
@@ -2273,8 +2126,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "113796",
     "fare": 42.4,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 149,
     "class": 1,
@@ -2288,8 +2140,7 @@ const data = [{
     "fare": 83.475,
     "cabin": "C83",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 150,
     "class": 1,
@@ -2304,8 +2155,7 @@ const data = [{
     "fare": 83.475,
     "cabin": "C83",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 151,
     "class": 1,
@@ -2318,8 +2168,7 @@ const data = [{
     "ticketId": "112059",
     "fare": 0.0,
     "cabin": "B94",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 152,
     "class": 1,
@@ -2333,8 +2182,7 @@ const data = [{
     "ticketId": "PC 17572",
     "fare": 76.7292,
     "cabin": "D49",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 153,
     "class": 1,
@@ -2349,8 +2197,7 @@ const data = [{
     "fare": 30.0,
     "cabin": "D45",
     "portOfEmbarkation": "Southampton",
-    "destination": "Kingston, Surrey",
-    "source": "kaggle.com"
+    "destination": "Kingston, Surrey"
 }, {
     "id": 154,
     "class": 1,
@@ -2365,8 +2212,7 @@ const data = [{
     "fare": 83.1583,
     "cabin": "C54",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 155,
     "class": 1,
@@ -2380,8 +2226,7 @@ const data = [{
     "fare": 93.5,
     "cabin": "B69",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 156,
     "class": 1,
@@ -2396,8 +2241,7 @@ const data = [{
     "fare": 93.5,
     "cabin": "B69",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 157,
     "class": 1,
@@ -2411,8 +2255,7 @@ const data = [{
     "fare": 42.5,
     "cabin": "B11",
     "portOfEmbarkation": "Southampton",
-    "destination": "London / Middlesex",
-    "source": "kaggle.com"
+    "destination": "London / Middlesex"
 }, {
     "id": 158,
     "class": 1,
@@ -2426,8 +2269,7 @@ const data = [{
     "fare": 51.8625,
     "cabin": "E46",
     "portOfEmbarkation": "Southampton",
-    "destination": "Brighton, MA",
-    "source": "kaggle.com"
+    "destination": "Brighton, MA"
 }, {
     "id": 159,
     "class": 1,
@@ -2441,8 +2283,7 @@ const data = [{
     "fare": 50.0,
     "cabin": "C39",
     "portOfEmbarkation": "Southampton",
-    "destination": "London / Birmingham",
-    "source": "kaggle.com"
+    "destination": "London / Birmingham"
 }, {
     "id": 160,
     "class": 1,
@@ -2457,8 +2298,7 @@ const data = [{
     "fare": 57.9792,
     "cabin": "B18",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Chicago, IL"
 }, {
     "id": 161,
     "class": 1,
@@ -2473,8 +2313,7 @@ const data = [{
     "fare": 57.9792,
     "cabin": "B18",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Chicago, IL"
 }, {
     "id": 162,
     "class": 1,
@@ -2489,8 +2328,7 @@ const data = [{
     "fare": 77.9583,
     "cabin": "D11",
     "portOfEmbarkation": "Southampton",
-    "destination": "Hudson, NY",
-    "source": "kaggle.com"
+    "destination": "Hudson, NY"
 }, {
     "id": 163,
     "class": 1,
@@ -2503,8 +2341,7 @@ const data = [{
     "ticketId": "113789",
     "fare": 52.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 164,
     "class": 1,
@@ -2518,8 +2355,7 @@ const data = [{
     "ticketId": "113789",
     "fare": 52.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 165,
     "class": 1,
@@ -2533,8 +2369,7 @@ const data = [{
     "ticketId": "111426",
     "fare": 26.55,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Indianapolis, IN",
-    "source": "kaggle.com"
+    "destination": "Indianapolis, IN"
 }, {
     "id": 166,
     "class": 1,
@@ -2549,8 +2384,7 @@ const data = [{
     "fare": 90.0,
     "cabin": "C93",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY /  Stamford CT",
-    "source": "kaggle.com"
+    "destination": "New York, NY /  Stamford CT"
 }, {
     "id": 167,
     "class": 1,
@@ -2563,8 +2397,7 @@ const data = [{
     "ticketId": "PC 17600",
     "fare": 30.6958,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 168,
     "class": 1,
@@ -2579,8 +2412,7 @@ const data = [{
     "fare": 90.0,
     "cabin": "C93",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY /  Stamford CT",
-    "source": "kaggle.com"
+    "destination": "New York, NY /  Stamford CT"
 }, {
     "id": 169,
     "class": 1,
@@ -2594,8 +2426,7 @@ const data = [{
     "ticketId": "113572",
     "fare": 80.0,
     "cabin": "B28",
-    "portOfEmbarkation": "",
-    "source": "kaggle.com"
+    "portOfEmbarkation": ""
 }, {
     "id": 170,
     "class": 1,
@@ -2609,8 +2440,7 @@ const data = [{
     "fare": 28.7125,
     "cabin": "C49",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France New York, NY",
-    "source": "kaggle.com"
+    "destination": "Paris, France New York, NY"
 }, {
     "id": 171,
     "class": 1,
@@ -2625,8 +2455,7 @@ const data = [{
     "fare": 0.0,
     "cabin": "B52 B54 B56",
     "portOfEmbarkation": "Southampton",
-    "destination": "Liverpool",
-    "source": "kaggle.com"
+    "destination": "Liverpool"
 }, {
     "id": 172,
     "class": 1,
@@ -2639,8 +2468,7 @@ const data = [{
     "ticketId": "694",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bennington, VT",
-    "source": "kaggle.com"
+    "destination": "Bennington, VT"
 }, {
     "id": 173,
     "class": 1,
@@ -2654,8 +2482,7 @@ const data = [{
     "fare": 26.0,
     "cabin": "E60",
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 174,
     "class": 1,
@@ -2668,8 +2495,7 @@ const data = [{
     "ticketId": "113503",
     "fare": 211.5,
     "cabin": "C132",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 175,
     "class": 1,
@@ -2683,8 +2509,7 @@ const data = [{
     "fare": 29.7,
     "cabin": "B37",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Buffalo, NY",
-    "source": "kaggle.com"
+    "destination": "Buffalo, NY"
 }, {
     "id": 176,
     "class": 1,
@@ -2698,8 +2523,7 @@ const data = [{
     "fare": 51.8625,
     "cabin": "D21",
     "portOfEmbarkation": "Southampton",
-    "destination": "Southington / Noank, CT",
-    "source": "kaggle.com"
+    "destination": "Southington / Noank, CT"
 }, {
     "id": 177,
     "class": 1,
@@ -2714,8 +2538,7 @@ const data = [{
     "fare": 51.8625,
     "cabin": "D21",
     "portOfEmbarkation": "Southampton",
-    "destination": "Southington / Noank, CT",
-    "source": "kaggle.com"
+    "destination": "Southington / Noank, CT"
 }, {
     "id": 178,
     "class": 1,
@@ -2730,8 +2553,7 @@ const data = [{
     "fare": 52.5542,
     "cabin": "D19",
     "portOfEmbarkation": "Southampton",
-    "destination": "Boston, MA",
-    "source": "kaggle.com"
+    "destination": "Boston, MA"
 }, {
     "id": 179,
     "class": 1,
@@ -2746,8 +2568,7 @@ const data = [{
     "fare": 52.5542,
     "cabin": "D19",
     "portOfEmbarkation": "Southampton",
-    "destination": "Boston, MA",
-    "source": "kaggle.com"
+    "destination": "Boston, MA"
 }, {
     "id": 180,
     "class": 1,
@@ -2761,8 +2582,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "C124",
     "portOfEmbarkation": "Southampton",
-    "destination": "Portland, OR",
-    "source": "kaggle.com"
+    "destination": "Portland, OR"
 }, {
     "id": 181,
     "class": 1,
@@ -2775,8 +2595,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "24160",
     "fare": 211.3375,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 182,
     "class": 1,
@@ -2791,8 +2610,7 @@ const data = [{
     "fare": 25.9292,
     "cabin": "D17",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 183,
     "class": 1,
@@ -2805,8 +2623,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "PC 17761",
     "fare": 106.425,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 184,
     "class": 1,
@@ -2820,8 +2637,7 @@ const data = [{
     "ticketId": "PC 17755",
     "fare": 512.3292,
     "cabin": "B101",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 185,
     "class": 1,
@@ -2834,8 +2650,7 @@ const data = [{
     "ticketId": "PC 17612",
     "fare": 27.7208,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Chicago, IL"
 }, {
     "id": 186,
     "class": 1,
@@ -2848,8 +2663,7 @@ const data = [{
     "ticketId": "17475",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "Stockholm, Sweden",
-    "source": "kaggle.com"
+    "destination": "Stockholm, Sweden"
 }, {
     "id": 187,
     "class": 1,
@@ -2863,8 +2677,7 @@ const data = [{
     "ticketId": "112377",
     "fare": 27.7208,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Stockholm, Sweden",
-    "source": "kaggle.com"
+    "destination": "Stockholm, Sweden"
 }, {
     "id": 188,
     "class": 1,
@@ -2879,8 +2692,7 @@ const data = [{
     "fare": 39.4,
     "cabin": "D28",
     "portOfEmbarkation": "Southampton",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 189,
     "class": 1,
@@ -2895,8 +2707,7 @@ const data = [{
     "fare": 39.4,
     "cabin": "D28",
     "portOfEmbarkation": "Southampton",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 190,
     "class": 1,
@@ -2910,8 +2721,7 @@ const data = [{
     "fare": 30.0,
     "cabin": "D6",
     "portOfEmbarkation": "Southampton",
-    "destination": "Springfield, MA",
-    "source": "kaggle.com"
+    "destination": "Springfield, MA"
 }, {
     "id": 191,
     "class": 1,
@@ -2926,8 +2736,7 @@ const data = [{
     "fare": 77.9583,
     "cabin": "D9",
     "portOfEmbarkation": "Southampton",
-    "destination": "Hudson, NY",
-    "source": "kaggle.com"
+    "destination": "Hudson, NY"
 }, {
     "id": 192,
     "class": 1,
@@ -2940,8 +2749,7 @@ const data = [{
     "ticketId": "113801",
     "fare": 45.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "London / New York, NY",
-    "source": "kaggle.com"
+    "destination": "London / New York, NY"
 }, {
     "id": 193,
     "class": 1,
@@ -2954,8 +2762,7 @@ const data = [{
     "ticketId": "PC 17569",
     "fare": 146.5208,
     "cabin": "B80",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 194,
     "class": 1,
@@ -2970,8 +2777,7 @@ const data = [{
     "fare": 211.3375,
     "cabin": "B5",
     "portOfEmbarkation": "Southampton",
-    "destination": "St Louis, MO",
-    "source": "kaggle.com"
+    "destination": "St Louis, MO"
 }, {
     "id": 195,
     "class": 1,
@@ -2985,8 +2791,7 @@ const data = [{
     "fare": 26.0,
     "cabin": "C106",
     "portOfEmbarkation": "Southampton",
-    "destination": "Brockton, MA",
-    "source": "kaggle.com"
+    "destination": "Brockton, MA"
 }, {
     "id": 196,
     "class": 1,
@@ -3000,8 +2805,7 @@ const data = [{
     "ticketId": "110152",
     "fare": 86.5,
     "cabin": "B79",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 197,
     "class": 1,
@@ -3016,8 +2820,7 @@ const data = [{
     "fare": 29.7,
     "cabin": "C47",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 198,
     "class": 1,
@@ -3031,8 +2834,7 @@ const data = [{
     "fare": 53.1,
     "cabin": "D30",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 199,
     "class": 1,
@@ -3047,8 +2849,7 @@ const data = [{
     "fare": 53.1,
     "cabin": "D30",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 200,
     "class": 1,
@@ -3063,8 +2864,7 @@ const data = [{
     "fare": 49.5042,
     "cabin": "C90",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Belgium  Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Belgium  Montreal, PQ"
 }, {
     "id": 201,
     "class": 1,
@@ -3078,8 +2878,7 @@ const data = [{
     "fare": 75.2417,
     "cabin": "C6",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Vancouver, BC",
-    "source": "kaggle.com"
+    "destination": "Vancouver, BC"
 }, {
     "id": 202,
     "class": 1,
@@ -3093,8 +2892,7 @@ const data = [{
     "fare": 51.8625,
     "cabin": "E46",
     "portOfEmbarkation": "Southampton",
-    "destination": "Dorchester, MA",
-    "source": "kaggle.com"
+    "destination": "Dorchester, MA"
 }, {
     "id": 203,
     "class": 1,
@@ -3109,8 +2907,7 @@ const data = [{
     "fare": 26.2875,
     "cabin": "E25",
     "portOfEmbarkation": "Southampton",
-    "destination": "Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Philadelphia, PA"
 }, {
     "id": 204,
     "class": 1,
@@ -3123,8 +2920,7 @@ const data = [{
     "ticketId": "PC 17604",
     "fare": 82.1708,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 205,
     "class": 1,
@@ -3138,8 +2934,7 @@ const data = [{
     "ticketId": "PC 17604",
     "fare": 82.1708,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 206,
     "class": 1,
@@ -3153,8 +2948,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "E38",
     "portOfEmbarkation": "Southampton",
-    "destination": "East Bridgewater, MA",
-    "source": "kaggle.com"
+    "destination": "East Bridgewater, MA"
 }, {
     "id": 207,
     "class": 1,
@@ -3168,8 +2962,7 @@ const data = [{
     "fare": 90.0,
     "cabin": "C78",
     "portOfEmbarkation": "Queenstown",
-    "destination": "Fond du Lac, WI",
-    "source": "kaggle.com"
+    "destination": "Fond du Lac, WI"
 }, {
     "id": 208,
     "class": 1,
@@ -3184,8 +2977,7 @@ const data = [{
     "fare": 90.0,
     "cabin": "C78",
     "portOfEmbarkation": "Queenstown",
-    "destination": "Green Bay, WI",
-    "source": "kaggle.com"
+    "destination": "Green Bay, WI"
 }, {
     "id": 209,
     "class": 1,
@@ -3200,8 +2992,7 @@ const data = [{
     "fare": 90.0,
     "cabin": "C78",
     "portOfEmbarkation": "Queenstown",
-    "destination": "Fond du Lac, WI",
-    "source": "kaggle.com"
+    "destination": "Fond du Lac, WI"
 }, {
     "id": 210,
     "class": 1,
@@ -3216,8 +3007,7 @@ const data = [{
     "fare": 57.75,
     "cabin": "C78",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 211,
     "class": 1,
@@ -3231,8 +3021,7 @@ const data = [{
     "fare": 30.5,
     "cabin": "C30",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 212,
     "class": 1,
@@ -3245,8 +3034,7 @@ const data = [{
     "ticketId": "113796",
     "fare": 42.4,
     "portOfEmbarkation": "Southampton",
-    "destination": "Washington, DC",
-    "source": "kaggle.com"
+    "destination": "Washington, DC"
 }, {
     "id": 213,
     "class": 1,
@@ -3260,8 +3048,7 @@ const data = [{
     "fare": 29.7,
     "cabin": "C118",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Brooklyn, NY"
 }, {
     "id": 214,
     "class": 1,
@@ -3276,8 +3063,7 @@ const data = [{
     "fare": 113.275,
     "cabin": "D36",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Lexington, MA",
-    "source": "kaggle.com"
+    "destination": "Lexington, MA"
 }, {
     "id": 215,
     "class": 1,
@@ -3292,8 +3078,7 @@ const data = [{
     "fare": 113.275,
     "cabin": "D36",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Lexington, MA",
-    "source": "kaggle.com"
+    "destination": "Lexington, MA"
 }, {
     "id": 216,
     "class": 1,
@@ -3307,8 +3092,7 @@ const data = [{
     "fare": 113.275,
     "cabin": "D48",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Lexington, MA",
-    "source": "kaggle.com"
+    "destination": "Lexington, MA"
 }, {
     "id": 217,
     "class": 1,
@@ -3323,8 +3107,7 @@ const data = [{
     "fare": 26.2833,
     "cabin": "D47",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 218,
     "class": 1,
@@ -3337,8 +3120,7 @@ const data = [{
     "ticketId": "693",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Isle of Wight, England",
-    "source": "kaggle.com"
+    "destination": "Isle of Wight, England"
 }, {
     "id": 219,
     "class": 1,
@@ -3352,8 +3134,7 @@ const data = [{
     "ticketId": "PC 17758",
     "fare": 108.9,
     "cabin": "C105",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 220,
     "class": 1,
@@ -3367,8 +3148,7 @@ const data = [{
     "ticketId": "F.C. 12998",
     "fare": 25.7417,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 221,
     "class": 1,
@@ -3383,8 +3163,7 @@ const data = [{
     "fare": 61.9792,
     "cabin": "B36",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Providence, RI",
-    "source": "kaggle.com"
+    "destination": "Providence, RI"
 }, {
     "id": 222,
     "class": 1,
@@ -3398,8 +3177,7 @@ const data = [{
     "fare": 61.9792,
     "cabin": "B30",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Providence, RI",
-    "source": "kaggle.com"
+    "destination": "Providence, RI"
 }, {
     "id": 223,
     "class": 1,
@@ -3413,8 +3191,7 @@ const data = [{
     "fare": 27.7208,
     "cabin": "D43",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "?Havana, Cuba",
-    "source": "kaggle.com"
+    "destination": "?Havana, Cuba"
 }, {
     "id": 224,
     "class": 1,
@@ -3427,8 +3204,7 @@ const data = [{
     "ticketId": "112052",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Belfast",
-    "source": "kaggle.com"
+    "destination": "Belfast"
 }, {
     "id": 225,
     "class": 1,
@@ -3442,8 +3218,7 @@ const data = [{
     "fare": 28.5,
     "cabin": "C124",
     "portOfEmbarkation": "Southampton",
-    "destination": "Surbiton Hill, Surrey",
-    "source": "kaggle.com"
+    "destination": "Surbiton Hill, Surrey"
 }, {
     "id": 226,
     "class": 1,
@@ -3457,8 +3232,7 @@ const data = [{
     "fare": 93.5,
     "cabin": "B24",
     "portOfEmbarkation": "Southampton",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 227,
     "class": 1,
@@ -3472,8 +3246,7 @@ const data = [{
     "fare": 66.6,
     "cabin": "C2",
     "portOfEmbarkation": "Southampton",
-    "destination": "Isleworth, England",
-    "source": "kaggle.com"
+    "destination": "Isleworth, England"
 }, {
     "id": 228,
     "class": 1,
@@ -3488,8 +3261,7 @@ const data = [{
     "fare": 66.6,
     "cabin": "C2",
     "portOfEmbarkation": "Southampton",
-    "destination": "Isleworth, England",
-    "source": "kaggle.com"
+    "destination": "Isleworth, England"
 }, {
     "id": 229,
     "class": 1,
@@ -3503,8 +3275,7 @@ const data = [{
     "fare": 108.9,
     "cabin": "C65",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Madrid, Spain",
-    "source": "kaggle.com"
+    "destination": "Madrid, Spain"
 }, {
     "id": 230,
     "class": 1,
@@ -3519,8 +3290,7 @@ const data = [{
     "fare": 108.9,
     "cabin": "C65",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Madrid, Spain",
-    "source": "kaggle.com"
+    "destination": "Madrid, Spain"
 }, {
     "id": 231,
     "class": 1,
@@ -3534,8 +3304,7 @@ const data = [{
     "ticketId": "12749",
     "fare": 93.5,
     "cabin": "B73",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 232,
     "class": 1,
@@ -3550,8 +3319,7 @@ const data = [{
     "fare": 30.5,
     "cabin": "C104",
     "portOfEmbarkation": "Southampton",
-    "destination": "Toronto, ON",
-    "source": "kaggle.com"
+    "destination": "Toronto, ON"
 }, {
     "id": 233,
     "class": 1,
@@ -3565,8 +3333,7 @@ const data = [{
     "fare": 52.0,
     "cabin": "C110",
     "portOfEmbarkation": "Southampton",
-    "destination": "Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Worcester, MA"
 }, {
     "id": 234,
     "class": 1,
@@ -3581,8 +3348,7 @@ const data = [{
     "fare": 83.1583,
     "cabin": "C50",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Mt Airy, Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Mt Airy, Philadelphia, PA"
 }, {
     "id": 235,
     "class": 1,
@@ -3595,8 +3361,7 @@ const data = [{
     "ticketId": "19972",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rotterdam, Netherlands",
-    "source": "kaggle.com"
+    "destination": "Rotterdam, Netherlands"
 }, {
     "id": 236,
     "class": 1,
@@ -3610,8 +3375,7 @@ const data = [{
     "ticketId": "PC 17607",
     "fare": 39.6,
     "portOfEmbarkation": "Southampton",
-    "destination": "Paris /  New York, NY",
-    "source": "kaggle.com"
+    "destination": "Paris /  New York, NY"
 }, {
     "id": 237,
     "class": 1,
@@ -3623,8 +3387,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "PC 17760",
     "fare": 135.6333,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 238,
     "class": 1,
@@ -3636,8 +3399,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "PC 17757",
     "fare": 227.525,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 239,
     "class": 1,
@@ -3652,8 +3414,7 @@ const data = [{
     "fare": 211.3375,
     "cabin": "B3",
     "portOfEmbarkation": "Southampton",
-    "destination": "St Louis, MO",
-    "source": "kaggle.com"
+    "destination": "St Louis, MO"
 }, {
     "id": 240,
     "class": 1,
@@ -3667,8 +3428,7 @@ const data = [{
     "fare": 50.4958,
     "cabin": "A24",
     "portOfEmbarkation": "Southampton",
-    "destination": "Trenton, NJ",
-    "source": "kaggle.com"
+    "destination": "Trenton, NJ"
 }, {
     "id": 241,
     "class": 1,
@@ -3682,8 +3442,7 @@ const data = [{
     "ticketId": "111428",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 242,
     "class": 1,
@@ -3697,8 +3456,7 @@ const data = [{
     "fare": 50.0,
     "cabin": "A32",
     "portOfEmbarkation": "Southampton",
-    "destination": "Seattle, WA",
-    "source": "kaggle.com"
+    "destination": "Seattle, WA"
 }, {
     "id": 243,
     "class": 1,
@@ -3713,8 +3471,7 @@ const data = [{
     "fare": 27.7208,
     "cabin": "A11",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 244,
     "class": 1,
@@ -3727,8 +3484,7 @@ const data = [{
     "ticketId": "PC 17585",
     "fare": 79.2,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 245,
     "class": 1,
@@ -3742,8 +3498,7 @@ const data = [{
     "fare": 40.125,
     "cabin": "A10",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Winnipeg, MB"
 }, {
     "id": 246,
     "class": 1,
@@ -3758,8 +3513,7 @@ const data = [{
     "fare": 86.5,
     "cabin": "B77",
     "portOfEmbarkation": "Southampton",
-    "destination": "London  Vancouver, BC",
-    "source": "kaggle.com"
+    "destination": "London  Vancouver, BC"
 }, {
     "id": 247,
     "class": 1,
@@ -3772,8 +3526,7 @@ const data = [{
     "ticketId": "PC 17603",
     "fare": 59.4,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 248,
     "class": 1,
@@ -3787,8 +3540,7 @@ const data = [{
     "ticketId": "PC 17603",
     "fare": 59.4,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 249,
     "class": 1,
@@ -3801,8 +3553,7 @@ const data = [{
     "ticketId": "113790",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 250,
     "class": 1,
@@ -3817,8 +3568,7 @@ const data = [{
     "fare": 262.375,
     "cabin": "B57 B59 B63 B66",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA / Cooperstown, NY",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA / Cooperstown, NY"
 }, {
     "id": 251,
     "class": 1,
@@ -3833,8 +3583,7 @@ const data = [{
     "fare": 262.375,
     "cabin": "B57 B59 B63 B66",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA / Cooperstown, NY",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA / Cooperstown, NY"
 }, {
     "id": 252,
     "class": 1,
@@ -3849,8 +3598,7 @@ const data = [{
     "fare": 262.375,
     "cabin": "B57 B59 B63 B66",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA / Cooperstown, NY",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA / Cooperstown, NY"
 }, {
     "id": 253,
     "class": 1,
@@ -3864,8 +3612,7 @@ const data = [{
     "fare": 262.375,
     "cabin": "B57 B59 B63 B66",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA / Cooperstown, NY",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA / Cooperstown, NY"
 }, {
     "id": 254,
     "class": 1,
@@ -3880,8 +3627,7 @@ const data = [{
     "fare": 262.375,
     "cabin": "B57 B59 B63 B66",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA / Cooperstown, NY",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA / Cooperstown, NY"
 }, {
     "id": 255,
     "class": 1,
@@ -3896,8 +3642,7 @@ const data = [{
     "fare": 30.5,
     "cabin": "C106",
     "portOfEmbarkation": "Southampton",
-    "destination": "Manchester, England",
-    "source": "kaggle.com"
+    "destination": "Manchester, England"
 }, {
     "id": 256,
     "class": 1,
@@ -3911,8 +3656,7 @@ const data = [{
     "ticketId": "PC 17477",
     "fare": 69.3,
     "cabin": "B35",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 257,
     "class": 1,
@@ -3926,8 +3670,7 @@ const data = [{
     "ticketId": "111163",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 258,
     "class": 1,
@@ -3942,8 +3685,7 @@ const data = [{
     "fare": 57.75,
     "cabin": "C28",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 259,
     "class": 1,
@@ -3956,8 +3698,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "113798",
     "fare": 31.0,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 260,
     "class": 1,
@@ -3971,8 +3712,7 @@ const data = [{
     "ticketId": "113794",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 261,
     "class": 1,
@@ -3987,8 +3727,7 @@ const data = [{
     "fare": 153.4625,
     "cabin": "C125",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY / Greenwich CT",
-    "source": "kaggle.com"
+    "destination": "New York, NY / Greenwich CT"
 }, {
     "id": 262,
     "class": 1,
@@ -4003,8 +3742,7 @@ const data = [{
     "fare": 26.2875,
     "cabin": "E24",
     "portOfEmbarkation": "Southampton",
-    "destination": "St Louis, MO",
-    "source": "kaggle.com"
+    "destination": "St Louis, MO"
 }, {
     "id": 263,
     "class": 1,
@@ -4018,8 +3756,7 @@ const data = [{
     "fare": 55.9,
     "cabin": "E44",
     "portOfEmbarkation": "Southampton",
-    "destination": "Duluth, MN",
-    "source": "kaggle.com"
+    "destination": "Duluth, MN"
 }, {
     "id": 264,
     "class": 1,
@@ -4034,8 +3771,7 @@ const data = [{
     "fare": 55.9,
     "cabin": "E44",
     "portOfEmbarkation": "Southampton",
-    "destination": "Duluth, MN",
-    "source": "kaggle.com"
+    "destination": "Duluth, MN"
 }, {
     "id": 265,
     "class": 1,
@@ -4050,8 +3786,7 @@ const data = [{
     "fare": 35.5,
     "cabin": "A26",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Basel, Switzerland",
-    "source": "kaggle.com"
+    "destination": "Basel, Switzerland"
 }, {
     "id": 266,
     "class": 1,
@@ -4066,8 +3801,7 @@ const data = [{
     "fare": 35.5,
     "cabin": "A6",
     "portOfEmbarkation": "Southampton",
-    "destination": "New Britain, CT",
-    "source": "kaggle.com"
+    "destination": "New Britain, CT"
 }, {
     "id": 267,
     "class": 1,
@@ -4080,8 +3814,7 @@ const data = [{
     "ticketId": "113792",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 268,
     "class": 1,
@@ -4095,8 +3828,7 @@ const data = [{
     "fare": 30.6958,
     "cabin": "A7",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "St James, Long Island, NY",
-    "source": "kaggle.com"
+    "destination": "St James, Long Island, NY"
 }, {
     "id": 269,
     "class": 1,
@@ -4110,8 +3842,7 @@ const data = [{
     "fare": 60.0,
     "cabin": "C31",
     "portOfEmbarkation": "Southampton",
-    "destination": "Huntington, WV",
-    "source": "kaggle.com"
+    "destination": "Huntington, WV"
 }, {
     "id": 270,
     "class": 1,
@@ -4125,8 +3856,7 @@ const data = [{
     "fare": 26.0,
     "cabin": "A19",
     "portOfEmbarkation": "Southampton",
-    "destination": "Streatham, Surrey",
-    "source": "kaggle.com"
+    "destination": "Streatham, Surrey"
 }, {
     "id": 271,
     "class": 1,
@@ -4141,8 +3871,7 @@ const data = [{
     "fare": 60.0,
     "cabin": "C31",
     "portOfEmbarkation": "Southampton",
-    "destination": "Huntington, WV",
-    "source": "kaggle.com"
+    "destination": "Huntington, WV"
 }, {
     "id": 272,
     "class": 1,
@@ -4157,8 +3886,7 @@ const data = [{
     "fare": 82.2667,
     "cabin": "B45",
     "portOfEmbarkation": "Southampton",
-    "destination": "Minneapolis, MN",
-    "source": "kaggle.com"
+    "destination": "Minneapolis, MN"
 }, {
     "id": 273,
     "class": 1,
@@ -4173,8 +3901,7 @@ const data = [{
     "fare": 82.2667,
     "cabin": "B45",
     "portOfEmbarkation": "Southampton",
-    "destination": "Minneapolis, MN",
-    "source": "kaggle.com"
+    "destination": "Minneapolis, MN"
 }, {
     "id": 274,
     "class": 1,
@@ -4189,8 +3916,7 @@ const data = [{
     "fare": 134.5,
     "cabin": "E34",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Tuxedo Park, NY",
-    "source": "kaggle.com"
+    "destination": "Tuxedo Park, NY"
 }, {
     "id": 275,
     "class": 1,
@@ -4205,8 +3931,7 @@ const data = [{
     "fare": 134.5,
     "cabin": "E34",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Tuxedo Park, NY",
-    "source": "kaggle.com"
+    "destination": "Tuxedo Park, NY"
 }, {
     "id": 276,
     "class": 1,
@@ -4221,8 +3946,7 @@ const data = [{
     "fare": 134.5,
     "cabin": "E34",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Tuxedo Park, NY",
-    "source": "kaggle.com"
+    "destination": "Tuxedo Park, NY"
 }, {
     "id": 277,
     "class": 1,
@@ -4236,8 +3960,7 @@ const data = [{
     "fare": 146.5208,
     "cabin": "B78",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 278,
     "class": 1,
@@ -4252,8 +3975,7 @@ const data = [{
     "fare": 146.5208,
     "cabin": "B78",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris, France",
-    "source": "kaggle.com"
+    "destination": "Paris, France"
 }, {
     "id": 279,
     "class": 1,
@@ -4268,8 +3990,7 @@ const data = [{
     "fare": 30.5,
     "cabin": "B50",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Basel, Switzerland",
-    "source": "kaggle.com"
+    "destination": "Basel, Switzerland"
 }, {
     "id": 280,
     "class": 1,
@@ -4283,8 +4004,7 @@ const data = [{
     "fare": 26.55,
     "cabin": "C87",
     "portOfEmbarkation": "Southampton",
-    "destination": "Wimbledon Park, London / Hayling Island, Hants",
-    "source": "kaggle.com"
+    "destination": "Wimbledon Park, London / Hayling Island, Hants"
 }, {
     "id": 281,
     "class": 1,
@@ -4299,8 +4019,7 @@ const data = [{
     "fare": 55.4417,
     "cabin": "C116",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Newark, NJ",
-    "source": "kaggle.com"
+    "destination": "Newark, NJ"
 }, {
     "id": 282,
     "class": 1,
@@ -4315,8 +4034,7 @@ const data = [{
     "fare": 55.4417,
     "cabin": "C116",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Newark, NJ",
-    "source": "kaggle.com"
+    "destination": "Newark, NJ"
 }, {
     "id": 283,
     "class": 1,
@@ -4331,8 +4049,7 @@ const data = [{
     "fare": 78.2667,
     "cabin": "D20",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA"
 }, {
     "id": 284,
     "class": 1,
@@ -4345,8 +4062,7 @@ const data = [{
     "ticketId": "PC 17605",
     "fare": 27.7208,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Gallipolis, Ohio / ? Paris / New York",
-    "source": "kaggle.com"
+    "destination": "Gallipolis, Ohio / ? Paris / New York"
 }, {
     "id": 285,
     "class": 1,
@@ -4361,8 +4077,7 @@ const data = [{
     "fare": 80.0,
     "cabin": "B28",
     "portOfEmbarkation": "",
-    "destination": "Cincinatti, OH",
-    "source": "kaggle.com"
+    "destination": "Cincinatti, OH"
 }, {
     "id": 286,
     "class": 1,
@@ -4376,8 +4091,7 @@ const data = [{
     "fare": 221.7792,
     "cabin": "C55 C57",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 287,
     "class": 1,
@@ -4391,8 +4105,7 @@ const data = [{
     "fare": 221.7792,
     "cabin": "C55 C57",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 288,
     "class": 1,
@@ -4406,8 +4119,7 @@ const data = [{
     "fare": 32.3208,
     "cabin": "D50",
     "portOfEmbarkation": "Southampton",
-    "destination": "Haddenfield, NJ",
-    "source": "kaggle.com"
+    "destination": "Haddenfield, NJ"
 }, {
     "id": 289,
     "class": 1,
@@ -4422,8 +4134,7 @@ const data = [{
     "fare": 25.9292,
     "cabin": "D17",
     "portOfEmbarkation": "Southampton",
-    "destination": "Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Brooklyn, NY"
 }, {
     "id": 290,
     "class": 1,
@@ -4438,8 +4149,7 @@ const data = [{
     "fare": 79.65,
     "cabin": "E68",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 291,
     "class": 1,
@@ -4453,8 +4163,7 @@ const data = [{
     "fare": 79.65,
     "cabin": "E67",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 292,
     "class": 1,
@@ -4469,8 +4178,7 @@ const data = [{
     "fare": 79.65,
     "cabin": "E67",
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 293,
     "class": 1,
@@ -4485,8 +4193,7 @@ const data = [{
     "fare": 52.0,
     "cabin": "C126",
     "portOfEmbarkation": "Southampton",
-    "destination": "London /  East Orange, NJ",
-    "source": "kaggle.com"
+    "destination": "London /  East Orange, NJ"
 }, {
     "id": 294,
     "class": 1,
@@ -4501,8 +4208,7 @@ const data = [{
     "fare": 52.0,
     "cabin": "C126",
     "portOfEmbarkation": "Southampton",
-    "destination": "London /  East Orange, NJ",
-    "source": "kaggle.com"
+    "destination": "London /  East Orange, NJ"
 }, {
     "id": 295,
     "class": 1,
@@ -4516,8 +4222,7 @@ const data = [{
     "fare": 110.8833,
     "cabin": "C68",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA"
 }, {
     "id": 296,
     "class": 1,
@@ -4532,8 +4237,7 @@ const data = [{
     "fare": 110.8833,
     "cabin": "C70",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA"
 }, {
     "id": 297,
     "class": 1,
@@ -4548,8 +4252,7 @@ const data = [{
     "fare": 110.8833,
     "cabin": "C68",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Haverford, PA",
-    "source": "kaggle.com"
+    "destination": "Haverford, PA"
 }, {
     "id": 298,
     "class": 1,
@@ -4563,8 +4266,7 @@ const data = [{
     "ticketId": "PC 17585",
     "fare": 79.2,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 299,
     "class": 1,
@@ -4579,8 +4281,7 @@ const data = [{
     "fare": 28.5375,
     "cabin": "C53",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Albany, NY",
-    "source": "kaggle.com"
+    "destination": "Albany, NY"
 }, {
     "id": 300,
     "class": 1,
@@ -4593,8 +4294,7 @@ const data = [{
     "ticketId": "PC 17601",
     "fare": 27.7208,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Mexico City, Mexico",
-    "source": "kaggle.com"
+    "destination": "Mexico City, Mexico"
 }, {
     "id": 301,
     "class": 1,
@@ -4608,8 +4308,7 @@ const data = [{
     "fare": 33.5,
     "cabin": "B19",
     "portOfEmbarkation": "Southampton",
-    "destination": "Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Brooklyn, NY"
 }, {
     "id": 302,
     "class": 1,
@@ -4623,8 +4322,7 @@ const data = [{
     "fare": 34.0208,
     "cabin": "D46",
     "portOfEmbarkation": "Southampton",
-    "destination": "East Orange, NJ",
-    "source": "kaggle.com"
+    "destination": "East Orange, NJ"
 }, {
     "id": 303,
     "class": 1,
@@ -4637,8 +4335,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "PC 17755",
     "fare": 512.3292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 304,
     "class": 1,
@@ -4652,8 +4349,7 @@ const data = [{
     "fare": 75.25,
     "cabin": "D37",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Portland, OR",
-    "source": "kaggle.com"
+    "destination": "Portland, OR"
 }, {
     "id": 305,
     "class": 1,
@@ -4668,8 +4364,7 @@ const data = [{
     "fare": 75.25,
     "cabin": "D37",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Portland, OR",
-    "source": "kaggle.com"
+    "destination": "Portland, OR"
 }, {
     "id": 306,
     "class": 1,
@@ -4682,8 +4377,7 @@ const data = [{
     "ticketId": "113800",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "England Salt Lake City, Utah",
-    "source": "kaggle.com"
+    "destination": "England Salt Lake City, Utah"
 }, {
     "id": 307,
     "class": 1,
@@ -4697,8 +4391,7 @@ const data = [{
     "fare": 77.2875,
     "cabin": "D26",
     "portOfEmbarkation": "Southampton",
-    "destination": "Brunswick, ME",
-    "source": "kaggle.com"
+    "destination": "Brunswick, ME"
 }, {
     "id": 308,
     "class": 1,
@@ -4712,8 +4405,7 @@ const data = [{
     "fare": 77.2875,
     "cabin": "D26",
     "portOfEmbarkation": "Southampton",
-    "destination": "Brunswick, ME",
-    "source": "kaggle.com"
+    "destination": "Brunswick, ME"
 }, {
     "id": 309,
     "class": 1,
@@ -4728,8 +4420,7 @@ const data = [{
     "fare": 135.6333,
     "cabin": "C32",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY / Briarcliff Manor NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY / Briarcliff Manor NY"
 }, {
     "id": 310,
     "class": 1,
@@ -4744,8 +4435,7 @@ const data = [{
     "fare": 164.8667,
     "cabin": "C7",
     "portOfEmbarkation": "Southampton",
-    "destination": "Youngstown, OH",
-    "source": "kaggle.com"
+    "destination": "Youngstown, OH"
 }, {
     "id": 311,
     "class": 1,
@@ -4758,8 +4448,7 @@ const data = [{
     "ticketId": "36928",
     "fare": 164.8667,
     "portOfEmbarkation": "Southampton",
-    "destination": "Youngstown, OH",
-    "source": "kaggle.com"
+    "destination": "Youngstown, OH"
 }, {
     "id": 312,
     "class": 1,
@@ -4773,8 +4462,7 @@ const data = [{
     "ticketId": "36928",
     "fare": 164.8667,
     "portOfEmbarkation": "Southampton",
-    "destination": "Youngstown, OH",
-    "source": "kaggle.com"
+    "destination": "Youngstown, OH"
 }, {
     "id": 313,
     "class": 1,
@@ -4788,8 +4476,7 @@ const data = [{
     "fare": 211.5,
     "cabin": "C80",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Elkins Park, PA",
-    "source": "kaggle.com"
+    "destination": "Elkins Park, PA"
 }, {
     "id": 314,
     "class": 1,
@@ -4803,8 +4490,7 @@ const data = [{
     "fare": 211.5,
     "cabin": "C82",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Elkins Park, PA",
-    "source": "kaggle.com"
+    "destination": "Elkins Park, PA"
 }, {
     "id": 315,
     "class": 1,
@@ -4819,8 +4505,7 @@ const data = [{
     "fare": 211.5,
     "cabin": "C80",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Elkins Park, PA",
-    "source": "kaggle.com"
+    "destination": "Elkins Park, PA"
 }, {
     "id": 316,
     "class": 1,
@@ -4834,8 +4519,7 @@ const data = [{
     "ticketId": "113795",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "Duluth, MN",
-    "source": "kaggle.com"
+    "destination": "Duluth, MN"
 }, {
     "id": 317,
     "class": 1,
@@ -4848,8 +4532,7 @@ const data = [{
     "ticketId": "PC 17597",
     "fare": 61.3792,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Geneva, Switzerland / Radnor, PA",
-    "source": "kaggle.com"
+    "destination": "Geneva, Switzerland / Radnor, PA"
 }, {
     "id": 318,
     "class": 1,
@@ -4863,8 +4546,7 @@ const data = [{
     "ticketId": "PC 17597",
     "fare": 61.3792,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Geneva, Switzerland / Radnor, PA",
-    "source": "kaggle.com"
+    "destination": "Geneva, Switzerland / Radnor, PA"
 }, {
     "id": 319,
     "class": 1,
@@ -4878,8 +4560,7 @@ const data = [{
     "fare": 35.0,
     "cabin": "C128",
     "portOfEmbarkation": "Southampton",
-    "destination": "London, England",
-    "source": "kaggle.com"
+    "destination": "London, England"
 }, {
     "id": 320,
     "class": 1,
@@ -4893,8 +4574,7 @@ const data = [{
     "ticketId": "16966",
     "fare": 134.5,
     "cabin": "E39 E41",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 321,
     "class": 1,
@@ -4909,8 +4589,7 @@ const data = [{
     "fare": 35.5,
     "cabin": "C52",
     "portOfEmbarkation": "Southampton",
-    "destination": "London, England",
-    "source": "kaggle.com"
+    "destination": "London, England"
 }, {
     "id": 322,
     "class": 1,
@@ -4923,8 +4602,7 @@ const data = [{
     "ticketId": "113807",
     "fare": 26.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "Halifax, NS",
-    "source": "kaggle.com"
+    "destination": "Halifax, NS"
 }, {
     "id": 323,
     "class": 1,
@@ -4939,8 +4617,7 @@ const data = [{
     "fare": 135.6333,
     "cabin": "C32",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY / Washington, DC",
-    "source": "kaggle.com"
+    "destination": "New York, NY / Washington, DC"
 }, {
     "id": 324,
     "class": 2,
@@ -4953,8 +4630,7 @@ const data = [{
     "ticketId": "P/PP 3381",
     "fare": 24.0,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Russia New York, NY",
-    "source": "kaggle.com"
+    "destination": "Russia New York, NY"
 }, {
     "id": 325,
     "class": 2,
@@ -4968,8 +4644,7 @@ const data = [{
     "ticketId": "P/PP 3381",
     "fare": 24.0,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Russia New York, NY",
-    "source": "kaggle.com"
+    "destination": "Russia New York, NY"
 }, {
     "id": 326,
     "class": 2,
@@ -4982,8 +4657,7 @@ const data = [{
     "ticketId": "248744",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bryn Mawr, PA, USA",
-    "source": "kaggle.com"
+    "destination": "Bryn Mawr, PA, USA"
 }, {
     "id": 327,
     "class": 2,
@@ -4996,8 +4670,7 @@ const data = [{
     "ticketId": "231945",
     "fare": 11.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Buenos Aires, Argentina / New Jersey, NJ",
-    "source": "kaggle.com"
+    "destination": "Buenos Aires, Argentina / New Jersey, NJ"
 }, {
     "id": 328,
     "class": 2,
@@ -5010,8 +4683,7 @@ const data = [{
     "ticketId": "C.A. 34050",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall, England Houghton, MI",
-    "source": "kaggle.com"
+    "destination": "Cornwall, England Houghton, MI"
 }, {
     "id": 329,
     "class": 2,
@@ -5024,8 +4696,7 @@ const data = [{
     "ticketId": "226875",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Warwick, England",
-    "source": "kaggle.com"
+    "destination": "Warwick, England"
 }, {
     "id": 330,
     "class": 2,
@@ -5039,8 +4710,7 @@ const data = [{
     "ticketId": "226875",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Warwick, England",
-    "source": "kaggle.com"
+    "destination": "Warwick, England"
 }, {
     "id": 331,
     "class": 2,
@@ -5053,8 +4723,7 @@ const data = [{
     "ticketId": "244346",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Hoboken, NJ",
-    "source": "kaggle.com"
+    "destination": "West Hoboken, NJ"
 }, {
     "id": 332,
     "class": 2,
@@ -5067,8 +4736,7 @@ const data = [{
     "ticketId": "29108",
     "fare": 11.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Penzance, Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Penzance, Cornwall / Akron, OH"
 }, {
     "id": 333,
     "class": 2,
@@ -5081,8 +4749,7 @@ const data = [{
     "ticketId": "C.A. 31030",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey",
-    "source": "kaggle.com"
+    "destination": "Guernsey"
 }, {
     "id": 334,
     "class": 2,
@@ -5097,8 +4764,7 @@ const data = [{
     "fare": 13.0,
     "cabin": "D",
     "portOfEmbarkation": "Southampton",
-    "destination": "Bristol, Avon / Jacksonville, FL",
-    "source": "kaggle.com"
+    "destination": "Bristol, Avon / Jacksonville, FL"
 }, {
     "id": 335,
     "class": 2,
@@ -5111,8 +4777,7 @@ const data = [{
     "ticketId": "C.A./SOTON 34068",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Plymouth, Dorset / Houghton, MI",
-    "source": "kaggle.com"
+    "destination": "Plymouth, Dorset / Houghton, MI"
 }, {
     "id": 336,
     "class": 2,
@@ -5125,8 +4790,7 @@ const data = [{
     "ticketId": "S.O.P. 1166",
     "fare": 12.525,
     "portOfEmbarkation": "Southampton",
-    "destination": "Jacksonville, FL",
-    "source": "kaggle.com"
+    "destination": "Jacksonville, FL"
 }, {
     "id": 337,
     "class": 2,
@@ -5140,8 +4804,7 @@ const data = [{
     "ticketId": "2908",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Norwich / New York, NY",
-    "source": "kaggle.com"
+    "destination": "Norwich / New York, NY"
 }, {
     "id": 338,
     "class": 2,
@@ -5155,8 +4818,7 @@ const data = [{
     "ticketId": "2908",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Norwich / New York, NY",
-    "source": "kaggle.com"
+    "destination": "Norwich / New York, NY"
 }, {
     "id": 339,
     "class": 2,
@@ -5169,8 +4831,7 @@ const data = [{
     "ticketId": "244358",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "England",
-    "source": "kaggle.com"
+    "destination": "England"
 }, {
     "id": 340,
     "class": 2,
@@ -5185,8 +4846,7 @@ const data = [{
     "fare": 39.0,
     "cabin": "F4",
     "portOfEmbarkation": "Southampton",
-    "destination": "Guntur, India / Benton Harbour, MI",
-    "source": "kaggle.com"
+    "destination": "Guntur, India / Benton Harbour, MI"
 }, {
     "id": 341,
     "class": 2,
@@ -5201,8 +4861,7 @@ const data = [{
     "fare": 39.0,
     "cabin": "F4",
     "portOfEmbarkation": "Southampton",
-    "destination": "Guntur, India / Benton Harbour, MI",
-    "source": "kaggle.com"
+    "destination": "Guntur, India / Benton Harbour, MI"
 }, {
     "id": 342,
     "class": 2,
@@ -5217,8 +4876,7 @@ const data = [{
     "fare": 39.0,
     "cabin": "F4",
     "portOfEmbarkation": "Southampton",
-    "destination": "Guntur, India / Benton Harbour, MI",
-    "source": "kaggle.com"
+    "destination": "Guntur, India / Benton Harbour, MI"
 }, {
     "id": 343,
     "class": 2,
@@ -5233,8 +4891,7 @@ const data = [{
     "fare": 39.0,
     "cabin": "F4",
     "portOfEmbarkation": "Southampton",
-    "destination": "Guntur, India / Benton Harbour, MI",
-    "source": "kaggle.com"
+    "destination": "Guntur, India / Benton Harbour, MI"
 }, {
     "id": 344,
     "class": 2,
@@ -5249,8 +4906,7 @@ const data = [{
     "fare": 13.0,
     "cabin": "D56",
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 345,
     "class": 2,
@@ -5264,8 +4920,7 @@ const data = [{
     "ticketId": "28404",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rochester, NY",
-    "source": "kaggle.com"
+    "destination": "Rochester, NY"
 }, {
     "id": 346,
     "class": 2,
@@ -5278,8 +4933,7 @@ const data = [{
     "ticketId": "28425",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "St Ives, Cornwall / Calumet, MI",
-    "source": "kaggle.com"
+    "destination": "St Ives, Cornwall / Calumet, MI"
 }, {
     "id": 347,
     "class": 2,
@@ -5292,8 +4946,7 @@ const data = [{
     "ticketId": "237670",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Elmira, NY / Orange, NJ",
-    "source": "kaggle.com"
+    "destination": "Elmira, NY / Orange, NJ"
 }, {
     "id": 348,
     "class": 2,
@@ -5306,8 +4959,7 @@ const data = [{
     "ticketId": "211535",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 349,
     "class": 2,
@@ -5320,8 +4972,7 @@ const data = [{
     "ticketId": "220367",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Lake Arthur, Chavez County, NM",
-    "source": "kaggle.com"
+    "destination": "Lake Arthur, Chavez County, NM"
 }, {
     "id": 350,
     "class": 2,
@@ -5336,8 +4987,7 @@ const data = [{
     "fare": 13.0,
     "cabin": "F33",
     "portOfEmbarkation": "Southampton",
-    "destination": "London / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "London / Montreal, PQ"
 }, {
     "id": 351,
     "class": 2,
@@ -5351,8 +5001,7 @@ const data = [{
     "ticketId": "29750",
     "fare": 39.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cape Town, South Africa / Seattle, WA",
-    "source": "kaggle.com"
+    "destination": "Cape Town, South Africa / Seattle, WA"
 }, {
     "id": 352,
     "class": 2,
@@ -5365,8 +5014,7 @@ const data = [{
     "ticketId": "29750",
     "fare": 39.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cape Town, South Africa / Seattle, WA",
-    "source": "kaggle.com"
+    "destination": "Cape Town, South Africa / Seattle, WA"
 }, {
     "id": 353,
     "class": 2,
@@ -5380,8 +5028,7 @@ const data = [{
     "ticketId": "29750",
     "fare": 39.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cape Town, South Africa / Seattle, WA",
-    "source": "kaggle.com"
+    "destination": "Cape Town, South Africa / Seattle, WA"
 }, {
     "id": 354,
     "class": 2,
@@ -5395,8 +5042,7 @@ const data = [{
     "ticketId": "236853",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Skara, Sweden / Rockford, IL",
-    "source": "kaggle.com"
+    "destination": "Skara, Sweden / Rockford, IL"
 }, {
     "id": 355,
     "class": 2,
@@ -5409,8 +5055,7 @@ const data = [{
     "ticketId": "236853",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Skara, Sweden / Rockford, IL",
-    "source": "kaggle.com"
+    "destination": "Skara, Sweden / Rockford, IL"
 }, {
     "id": 356,
     "class": 2,
@@ -5424,8 +5069,7 @@ const data = [{
     "ticketId": "27849",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sittingbourne, England / San Diego, CA",
-    "source": "kaggle.com"
+    "destination": "Sittingbourne, England / San Diego, CA"
 }, {
     "id": 357,
     "class": 2,
@@ -5438,8 +5082,7 @@ const data = [{
     "ticketId": "234686",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Southsea, Hants",
-    "source": "kaggle.com"
+    "destination": "Southsea, Hants"
 }, {
     "id": 358,
     "class": 2,
@@ -5452,8 +5095,7 @@ const data = [{
     "ticketId": "244310",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 359,
     "class": 2,
@@ -5466,8 +5108,7 @@ const data = [{
     "ticketId": "236852",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 360,
     "class": 2,
@@ -5481,8 +5122,7 @@ const data = [{
     "ticketId": "248738",
     "fare": 29.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bangkok, Thailand / Roseville, IL",
-    "source": "kaggle.com"
+    "destination": "Bangkok, Thailand / Roseville, IL"
 }, {
     "id": 361,
     "class": 2,
@@ -5496,8 +5136,7 @@ const data = [{
     "ticketId": "248738",
     "fare": 29.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bangkok, Thailand / Roseville, IL",
-    "source": "kaggle.com"
+    "destination": "Bangkok, Thailand / Roseville, IL"
 }, {
     "id": 362,
     "class": 2,
@@ -5511,8 +5150,7 @@ const data = [{
     "ticketId": "248738",
     "fare": 29.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bangkok, Thailand / Roseville, IL",
-    "source": "kaggle.com"
+    "destination": "Bangkok, Thailand / Roseville, IL"
 }, {
     "id": 363,
     "class": 2,
@@ -5526,8 +5164,7 @@ const data = [{
     "ticketId": "F.C.C. 13528",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Mamaroneck, NY",
-    "source": "kaggle.com"
+    "destination": "Mamaroneck, NY"
 }, {
     "id": 364,
     "class": 2,
@@ -5540,8 +5177,7 @@ const data = [{
     "ticketId": "239853",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Belfast",
-    "source": "kaggle.com"
+    "destination": "Belfast"
 }, {
     "id": 365,
     "class": 2,
@@ -5554,8 +5190,7 @@ const data = [{
     "ticketId": "28424",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "St Ives, Cornwall / Calumet, MI",
-    "source": "kaggle.com"
+    "destination": "St Ives, Cornwall / Calumet, MI"
 }, {
     "id": 366,
     "class": 2,
@@ -5568,8 +5203,7 @@ const data = [{
     "ticketId": "244252",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 367,
     "class": 2,
@@ -5582,8 +5216,7 @@ const data = [{
     "ticketId": "244252",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 368,
     "class": 2,
@@ -5596,8 +5229,7 @@ const data = [{
     "ticketId": "248731",
     "fare": 13.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bronx, NY",
-    "source": "kaggle.com"
+    "destination": "Bronx, NY"
 }, {
     "id": 369,
     "class": 2,
@@ -5610,8 +5242,7 @@ const data = [{
     "ticketId": "SC/AH 29037",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Spokane, WA",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Spokane, WA"
 }, {
     "id": 370,
     "class": 2,
@@ -5624,8 +5255,7 @@ const data = [{
     "ticketId": "SC/AH 29037",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Spokane, WA",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Spokane, WA"
 }, {
     "id": 371,
     "class": 2,
@@ -5639,8 +5269,7 @@ const data = [{
     "ticketId": "237789",
     "fare": 30.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 372,
     "class": 2,
@@ -5654,8 +5283,7 @@ const data = [{
     "ticketId": "237789",
     "fare": 30.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 373,
     "class": 2,
@@ -5668,8 +5296,7 @@ const data = [{
     "ticketId": "2003",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "England / San Francisco, CA",
-    "source": "kaggle.com"
+    "destination": "England / San Francisco, CA"
 }, {
     "id": 374,
     "class": 2,
@@ -5683,8 +5310,7 @@ const data = [{
     "ticketId": "2003",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "England / San Francisco, CA",
-    "source": "kaggle.com"
+    "destination": "England / San Francisco, CA"
 }, {
     "id": 375,
     "class": 2,
@@ -5697,8 +5323,7 @@ const data = [{
     "ticketId": "W./C. 14263",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Hartford, Huntingdonshire",
-    "source": "kaggle.com"
+    "destination": "Hartford, Huntingdonshire"
 }, {
     "id": 376,
     "class": 2,
@@ -5711,8 +5336,7 @@ const data = [{
     "ticketId": "248740",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Helsinki, Finland Ashtabula, Ohio",
-    "source": "kaggle.com"
+    "destination": "Helsinki, Finland Ashtabula, Ohio"
 }, {
     "id": 377,
     "class": 2,
@@ -5726,8 +5350,7 @@ const data = [{
     "ticketId": "28034",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "London / Fort Byron, NY",
-    "source": "kaggle.com"
+    "destination": "London / Fort Byron, NY"
 }, {
     "id": 378,
     "class": 2,
@@ -5741,8 +5364,7 @@ const data = [{
     "ticketId": "C.A. 31921",
     "fare": 26.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bishopstoke, Hants / Fayette Valley, ID",
-    "source": "kaggle.com"
+    "destination": "Bishopstoke, Hants / Fayette Valley, ID"
 }, {
     "id": 379,
     "class": 2,
@@ -5755,8 +5377,7 @@ const data = [{
     "ticketId": "C.A. 31921",
     "fare": 26.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bishopstoke, Hants / Fayette Valley, ID",
-    "source": "kaggle.com"
+    "destination": "Bishopstoke, Hants / Fayette Valley, ID"
 }, {
     "id": 380,
     "class": 2,
@@ -5770,8 +5391,7 @@ const data = [{
     "ticketId": "C.A. 31921",
     "fare": 26.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bishopstoke, Hants / Fayette Valley, ID",
-    "source": "kaggle.com"
+    "destination": "Bishopstoke, Hants / Fayette Valley, ID"
 }, {
     "id": 381,
     "class": 2,
@@ -5786,8 +5406,7 @@ const data = [{
     "fare": 10.5,
     "cabin": "F33",
     "portOfEmbarkation": "Southampton",
-    "destination": "Pennsylvania",
-    "source": "kaggle.com"
+    "destination": "Pennsylvania"
 }, {
     "id": 382,
     "class": 2,
@@ -5800,8 +5419,7 @@ const data = [{
     "ticketId": "237249",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Provo, UT",
-    "source": "kaggle.com"
+    "destination": "Provo, UT"
 }, {
     "id": 383,
     "class": 2,
@@ -5814,8 +5432,7 @@ const data = [{
     "ticketId": "F.C.C. 13534",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Upper Burma, India Pittsburgh, PA",
-    "source": "kaggle.com"
+    "destination": "Upper Burma, India Pittsburgh, PA"
 }, {
     "id": 384,
     "class": 2,
@@ -5828,8 +5445,7 @@ const data = [{
     "ticketId": "29107",
     "fare": 11.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Penzance, Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Penzance, Cornwall / Akron, OH"
 }, {
     "id": 385,
     "class": 2,
@@ -5842,8 +5458,7 @@ const data = [{
     "ticketId": "239853",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Belfast",
-    "source": "kaggle.com"
+    "destination": "Belfast"
 }, {
     "id": 386,
     "class": 2,
@@ -5857,8 +5472,7 @@ const data = [{
     "ticketId": "C.A. 33112",
     "fare": 36.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "St Ives, Cornwall / Hancock, MI",
-    "source": "kaggle.com"
+    "destination": "St Ives, Cornwall / Hancock, MI"
 }, {
     "id": 387,
     "class": 2,
@@ -5871,8 +5485,7 @@ const data = [{
     "ticketId": "S.O.C. 14879",
     "fare": 73.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Lyndhurst, England",
-    "source": "kaggle.com"
+    "destination": "Lyndhurst, England"
 }, {
     "id": 388,
     "class": 2,
@@ -5886,8 +5499,7 @@ const data = [{
     "ticketId": "C.A. 33112",
     "fare": 36.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "St Ives, Cornwall / Hancock, MI",
-    "source": "kaggle.com"
+    "destination": "St Ives, Cornwall / Hancock, MI"
 }, {
     "id": 389,
     "class": 2,
@@ -5901,8 +5513,7 @@ const data = [{
     "ticketId": "237668",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London / Staten Island, NY",
-    "source": "kaggle.com"
+    "destination": "London / Staten Island, NY"
 }, {
     "id": 390,
     "class": 2,
@@ -5915,8 +5526,7 @@ const data = [{
     "ticketId": "244360",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Portugal / Sau Paulo, Brazil",
-    "source": "kaggle.com"
+    "destination": "Portugal / Sau Paulo, Brazil"
 }, {
     "id": 391,
     "class": 2,
@@ -5928,8 +5538,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "S.O.C. 14879",
     "fare": 73.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 392,
     "class": 2,
@@ -5942,8 +5551,7 @@ const data = [{
     "ticketId": "SC/PARIS 2167",
     "fare": 27.7208,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Lucca, Italy / California",
-    "source": "kaggle.com"
+    "destination": "Lucca, Italy / California"
 }, {
     "id": 393,
     "class": 2,
@@ -5957,8 +5565,7 @@ const data = [{
     "ticketId": "SC/PARIS 2167",
     "fare": 27.7208,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Lucca, Italy / California",
-    "source": "kaggle.com"
+    "destination": "Lucca, Italy / California"
 }, {
     "id": 394,
     "class": 2,
@@ -5971,8 +5578,7 @@ const data = [{
     "ticketId": "C.A. 31029",
     "fare": 31.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey / Elizabeth, NJ",
-    "source": "kaggle.com"
+    "destination": "Guernsey / Elizabeth, NJ"
 }, {
     "id": 395,
     "class": 2,
@@ -5985,8 +5591,7 @@ const data = [{
     "ticketId": "S.O.C. 14879",
     "fare": 73.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "New Forest, England",
-    "source": "kaggle.com"
+    "destination": "New Forest, England"
 }, {
     "id": 396,
     "class": 2,
@@ -5999,8 +5604,7 @@ const data = [{
     "ticketId": "231919",
     "fare": 23.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Southampton",
-    "source": "kaggle.com"
+    "destination": "Southampton"
 }, {
     "id": 397,
     "class": 2,
@@ -6013,8 +5617,7 @@ const data = [{
     "ticketId": "231919",
     "fare": 23.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Southampton",
-    "source": "kaggle.com"
+    "destination": "Southampton"
 }, {
     "id": 398,
     "class": 2,
@@ -6027,8 +5630,7 @@ const data = [{
     "ticketId": "28403",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Holley, NY",
-    "source": "kaggle.com"
+    "destination": "Holley, NY"
 }, {
     "id": 399,
     "class": 2,
@@ -6042,8 +5644,7 @@ const data = [{
     "ticketId": "28220",
     "fare": 32.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Greenport, NY",
-    "source": "kaggle.com"
+    "destination": "Greenport, NY"
 }, {
     "id": 400,
     "class": 2,
@@ -6056,8 +5657,7 @@ const data = [{
     "ticketId": "28220",
     "fare": 32.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Greenport, NY",
-    "source": "kaggle.com"
+    "destination": "Greenport, NY"
 }, {
     "id": 401,
     "class": 2,
@@ -6071,8 +5671,7 @@ const data = [{
     "ticketId": "28220",
     "fare": 32.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Greenport, NY",
-    "source": "kaggle.com"
+    "destination": "Greenport, NY"
 }, {
     "id": 402,
     "class": 2,
@@ -6086,8 +5685,7 @@ const data = [{
     "ticketId": "SC/PARIS 2149",
     "fare": 13.8583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Barcelona, Spain / Havana, Cuba",
-    "source": "kaggle.com"
+    "destination": "Barcelona, Spain / Havana, Cuba"
 }, {
     "id": 403,
     "class": 2,
@@ -6101,8 +5699,7 @@ const data = [{
     "ticketId": "SC/PARIS 2148",
     "fare": 13.8583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Barcelona, Spain / Havana, Cuba",
-    "source": "kaggle.com"
+    "destination": "Barcelona, Spain / Havana, Cuba"
 }, {
     "id": 404,
     "class": 2,
@@ -6115,8 +5712,7 @@ const data = [{
     "ticketId": "29751",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "England / Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "England / Detroit, MI"
 }, {
     "id": 405,
     "class": 2,
@@ -6129,8 +5725,7 @@ const data = [{
     "ticketId": "236854",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Goteborg, Sweden / Rockford, IL",
-    "source": "kaggle.com"
+    "destination": "Goteborg, Sweden / Rockford, IL"
 }, {
     "id": 406,
     "class": 2,
@@ -6143,8 +5738,7 @@ const data = [{
     "ticketId": "236171",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Oslo, Norway Bayonne, NJ",
-    "source": "kaggle.com"
+    "destination": "Oslo, Norway Bayonne, NJ"
 }, {
     "id": 407,
     "class": 2,
@@ -6157,8 +5751,7 @@ const data = [{
     "ticketId": "2926",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "England / Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "England / Philadelphia, PA"
 }, {
     "id": 408,
     "class": 2,
@@ -6171,8 +5764,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2926",
     "fare": 26.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 409,
     "class": 2,
@@ -6185,8 +5777,7 @@ const data = [{
     "ticketId": "C.A. 15185",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Houghton, MI",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Houghton, MI"
 }, {
     "id": 410,
     "class": 2,
@@ -6199,8 +5790,7 @@ const data = [{
     "ticketId": "229236",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rochester, NY",
-    "source": "kaggle.com"
+    "destination": "Rochester, NY"
 }, {
     "id": 411,
     "class": 2,
@@ -6213,8 +5803,7 @@ const data = [{
     "ticketId": "239854",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Belfast",
-    "source": "kaggle.com"
+    "destination": "Belfast"
 }, {
     "id": 412,
     "class": 2,
@@ -6227,8 +5816,7 @@ const data = [{
     "ticketId": "237671",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Janjgir, India / Pennsylvania",
-    "source": "kaggle.com"
+    "destination": "Janjgir, India / Pennsylvania"
 }, {
     "id": 413,
     "class": 2,
@@ -6241,8 +5829,7 @@ const data = [{
     "ticketId": "239865",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Liverpool / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Liverpool / Montreal, PQ"
 }, {
     "id": 414,
     "class": 2,
@@ -6255,8 +5842,7 @@ const data = [{
     "ticketId": "28664",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Clear Creek, CO",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Clear Creek, CO"
 }, {
     "id": 415,
     "class": 2,
@@ -6269,8 +5855,7 @@ const data = [{
     "ticketId": "28664",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Clear Creek, CO",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Clear Creek, CO"
 }, {
     "id": 416,
     "class": 2,
@@ -6284,8 +5869,7 @@ const data = [{
     "ticketId": "243880",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Brooklyn, NY"
 }, {
     "id": 417,
     "class": 2,
@@ -6298,8 +5882,7 @@ const data = [{
     "ticketId": "239865",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Liverpool / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Liverpool / Montreal, PQ"
 }, {
     "id": 418,
     "class": 2,
@@ -6312,8 +5895,7 @@ const data = [{
     "ticketId": "31028",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey / Elizabeth, NJ",
-    "source": "kaggle.com"
+    "destination": "Guernsey / Elizabeth, NJ"
 }, {
     "id": 419,
     "class": 2,
@@ -6326,8 +5908,7 @@ const data = [{
     "ticketId": "C.A. 30769",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall",
-    "source": "kaggle.com"
+    "destination": "Cornwall"
 }, {
     "id": 420,
     "class": 2,
@@ -6340,8 +5921,7 @@ const data = [{
     "ticketId": "28133",
     "fare": 11.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Camden, NJ",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Camden, NJ"
 }, {
     "id": 421,
     "class": 2,
@@ -6354,8 +5934,7 @@ const data = [{
     "ticketId": "28134",
     "fare": 11.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Camden, NJ",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Camden, NJ"
 }, {
     "id": 422,
     "class": 2,
@@ -6368,8 +5947,7 @@ const data = [{
     "ticketId": "248726",
     "fare": 13.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Kensington, London",
-    "source": "kaggle.com"
+    "destination": "West Kensington, London"
 }, {
     "id": 423,
     "class": 2,
@@ -6382,8 +5960,7 @@ const data = [{
     "ticketId": "233866",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Clevedon, England",
-    "source": "kaggle.com"
+    "destination": "Clevedon, England"
 }, {
     "id": 424,
     "class": 2,
@@ -6396,8 +5973,7 @@ const data = [{
     "ticketId": "12233",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Vancouver, BC",
-    "source": "kaggle.com"
+    "destination": "Vancouver, BC"
 }, {
     "id": 425,
     "class": 2,
@@ -6409,8 +5985,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "250646",
     "fare": 13.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 426,
     "class": 2,
@@ -6423,8 +5998,7 @@ const data = [{
     "ticketId": "250647",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bronx, NY",
-    "source": "kaggle.com"
+    "destination": "Bronx, NY"
 }, {
     "id": 427,
     "class": 2,
@@ -6437,8 +6011,7 @@ const data = [{
     "ticketId": "250653",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Auburn, NY",
-    "source": "kaggle.com"
+    "destination": "Auburn, NY"
 }, {
     "id": 428,
     "class": 2,
@@ -6452,8 +6025,7 @@ const data = [{
     "ticketId": "250649",
     "fare": 14.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Detroit, MI"
 }, {
     "id": 429,
     "class": 2,
@@ -6467,8 +6039,7 @@ const data = [{
     "ticketId": "250649",
     "fare": 14.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Detroit, MI"
 }, {
     "id": 430,
     "class": 2,
@@ -6481,8 +6052,7 @@ const data = [{
     "ticketId": "248746",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Seattle, WA / Toledo, OH",
-    "source": "kaggle.com"
+    "destination": "Seattle, WA / Toledo, OH"
 }, {
     "id": 431,
     "class": 2,
@@ -6496,8 +6066,7 @@ const data = [{
     "ticketId": "248727",
     "fare": 33.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Denmark Hill, Surrey / Chicago",
-    "source": "kaggle.com"
+    "destination": "Denmark Hill, Surrey / Chicago"
 }, {
     "id": 432,
     "class": 2,
@@ -6510,8 +6079,7 @@ const data = [{
     "ticketId": "248727",
     "fare": 33.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Denmark Hill, Surrey / Chicago",
-    "source": "kaggle.com"
+    "destination": "Denmark Hill, Surrey / Chicago"
 }, {
     "id": 433,
     "class": 2,
@@ -6525,8 +6093,7 @@ const data = [{
     "ticketId": "S.W./PP 752",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 434,
     "class": 2,
@@ -6539,8 +6106,7 @@ const data = [{
     "ticketId": "W/C 14208",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Walthamstow, England",
-    "source": "kaggle.com"
+    "destination": "Walthamstow, England"
 }, {
     "id": 435,
     "class": 2,
@@ -6554,8 +6120,7 @@ const data = [{
     "ticketId": "F.C.C. 13529",
     "fare": 26.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ilford, Essex / Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Ilford, Essex / Winnipeg, MB"
 }, {
     "id": 436,
     "class": 2,
@@ -6568,8 +6133,7 @@ const data = [{
     "ticketId": "F.C.C. 13529",
     "fare": 26.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ilford, Essex / Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Ilford, Essex / Winnipeg, MB"
 }, {
     "id": 437,
     "class": 2,
@@ -6583,8 +6147,7 @@ const data = [{
     "ticketId": "F.C.C. 13529",
     "fare": 26.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ilford, Essex / Winnipeg, MB",
-    "source": "kaggle.com"
+    "destination": "Ilford, Essex / Winnipeg, MB"
 }, {
     "id": 438,
     "class": 2,
@@ -6598,8 +6161,7 @@ const data = [{
     "ticketId": "220845",
     "fare": 65.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Somerset / Bernardsville, NJ",
-    "source": "kaggle.com"
+    "destination": "Somerset / Bernardsville, NJ"
 }, {
     "id": 439,
     "class": 2,
@@ -6613,8 +6175,7 @@ const data = [{
     "ticketId": "220845",
     "fare": 65.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Somerset / Bernardsville, NJ",
-    "source": "kaggle.com"
+    "destination": "Somerset / Bernardsville, NJ"
 }, {
     "id": 440,
     "class": 2,
@@ -6627,8 +6188,7 @@ const data = [{
     "ticketId": "220845",
     "fare": 65.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Somerset / Bernardsville, NJ",
-    "source": "kaggle.com"
+    "destination": "Somerset / Bernardsville, NJ"
 }, {
     "id": 441,
     "class": 2,
@@ -6642,8 +6202,7 @@ const data = [{
     "ticketId": "220845",
     "fare": 65.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Somerset / Bernardsville, NJ",
-    "source": "kaggle.com"
+    "destination": "Somerset / Bernardsville, NJ"
 }, {
     "id": 442,
     "class": 2,
@@ -6657,8 +6216,7 @@ const data = [{
     "ticketId": "248706",
     "fare": 16.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "India / Rapid City, SD",
-    "source": "kaggle.com"
+    "destination": "India / Rapid City, SD"
 }, {
     "id": 443,
     "class": 2,
@@ -6671,8 +6229,7 @@ const data = [{
     "ticketId": "S.O.C. 14879",
     "fare": 73.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Hampstead, London / Neepawa, MB",
-    "source": "kaggle.com"
+    "destination": "West Hampstead, London / Neepawa, MB"
 }, {
     "id": 444,
     "class": 2,
@@ -6685,8 +6242,7 @@ const data = [{
     "ticketId": "S.O.C. 14879",
     "fare": 73.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Hampstead, London / Neepawa, MB",
-    "source": "kaggle.com"
+    "destination": "West Hampstead, London / Neepawa, MB"
 }, {
     "id": 445,
     "class": 2,
@@ -6699,8 +6255,7 @@ const data = [{
     "ticketId": "S.O.C. 14879",
     "fare": 73.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Hampstead, London / Neepawa, MB",
-    "source": "kaggle.com"
+    "destination": "West Hampstead, London / Neepawa, MB"
 }, {
     "id": 446,
     "class": 2,
@@ -6713,8 +6268,7 @@ const data = [{
     "ticketId": "250650",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Kontiolahti, Finland / Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Kontiolahti, Finland / Detroit, MI"
 }, {
     "id": 447,
     "class": 2,
@@ -6728,8 +6282,7 @@ const data = [{
     "ticketId": "29105",
     "fare": 23.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 448,
     "class": 2,
@@ -6742,8 +6295,7 @@ const data = [{
     "ticketId": "29104",
     "fare": 11.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 449,
     "class": 2,
@@ -6756,8 +6308,7 @@ const data = [{
     "ticketId": "242963",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Devonport, England",
-    "source": "kaggle.com"
+    "destination": "Devonport, England"
 }, {
     "id": 450,
     "class": 2,
@@ -6771,8 +6322,7 @@ const data = [{
     "ticketId": "29105",
     "fare": 23.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 451,
     "class": 2,
@@ -6785,8 +6335,7 @@ const data = [{
     "ticketId": "250643",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Southampton",
-    "source": "kaggle.com"
+    "destination": "Southampton"
 }, {
     "id": 452,
     "class": 2,
@@ -6799,8 +6348,7 @@ const data = [{
     "ticketId": "26707",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "England / Sacramento, CA",
-    "source": "kaggle.com"
+    "destination": "England / Sacramento, CA"
 }, {
     "id": 453,
     "class": 2,
@@ -6814,8 +6362,7 @@ const data = [{
     "ticketId": "26707",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "England / Sacramento, CA",
-    "source": "kaggle.com"
+    "destination": "England / Sacramento, CA"
 }, {
     "id": 454,
     "class": 2,
@@ -6828,8 +6375,7 @@ const data = [{
     "ticketId": "S.O.C. 14879",
     "fare": 73.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "New Forest, England",
-    "source": "kaggle.com"
+    "destination": "New Forest, England"
 }, {
     "id": 455,
     "class": 2,
@@ -6843,8 +6389,7 @@ const data = [{
     "ticketId": "237798",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Tokyo, Japan",
-    "source": "kaggle.com"
+    "destination": "Tokyo, Japan"
 }, {
     "id": 456,
     "class": 2,
@@ -6857,8 +6402,7 @@ const data = [{
     "ticketId": "24065",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Swindon, England",
-    "source": "kaggle.com"
+    "destination": "Swindon, England"
 }, {
     "id": 457,
     "class": 2,
@@ -6871,8 +6415,7 @@ const data = [{
     "ticketId": "24065",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Swindon, England",
-    "source": "kaggle.com"
+    "destination": "Swindon, England"
 }, {
     "id": 458,
     "class": 2,
@@ -6885,8 +6428,7 @@ const data = [{
     "ticketId": "SCO/W 1585",
     "fare": 12.275,
     "portOfEmbarkation": "Southampton",
-    "destination": "Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Philadelphia, PA"
 }, {
     "id": 459,
     "class": 2,
@@ -6899,8 +6441,7 @@ const data = [{
     "ticketId": "SO/C 14885",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey",
-    "source": "kaggle.com"
+    "destination": "Guernsey"
 }, {
     "id": 460,
     "class": 2,
@@ -6913,8 +6454,7 @@ const data = [{
     "ticketId": "243847",
     "fare": 27.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 461,
     "class": 2,
@@ -6928,8 +6468,7 @@ const data = [{
     "ticketId": "243847",
     "fare": 27.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 462,
     "class": 2,
@@ -6942,8 +6481,7 @@ const data = [{
     "ticketId": "237565",
     "fare": 15.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "North Evington, England",
-    "source": "kaggle.com"
+    "destination": "North Evington, England"
 }, {
     "id": 463,
     "class": 2,
@@ -6956,8 +6494,7 @@ const data = [{
     "ticketId": "C.A. 31029",
     "fare": 31.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey / Elizabeth, NJ",
-    "source": "kaggle.com"
+    "destination": "Guernsey / Elizabeth, NJ"
 }, {
     "id": 464,
     "class": 2,
@@ -6970,8 +6507,7 @@ const data = [{
     "ticketId": "C.A. 31029",
     "fare": 31.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey / Elizabeth, NJ",
-    "source": "kaggle.com"
+    "destination": "Guernsey / Elizabeth, NJ"
 }, {
     "id": 465,
     "class": 2,
@@ -6984,8 +6520,7 @@ const data = [{
     "ticketId": "C.A. 33111",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "St Ives, Cornwall / Houghton, MI",
-    "source": "kaggle.com"
+    "destination": "St Ives, Cornwall / Houghton, MI"
 }, {
     "id": 466,
     "class": 2,
@@ -7000,8 +6535,7 @@ const data = [{
     "fare": 13.7917,
     "cabin": "D",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 467,
     "class": 2,
@@ -7014,8 +6548,7 @@ const data = [{
     "ticketId": "244367",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Moscow / Bronx, NY",
-    "source": "kaggle.com"
+    "destination": "Moscow / Bronx, NY"
 }, {
     "id": 468,
     "class": 2,
@@ -7029,8 +6562,7 @@ const data = [{
     "ticketId": "244367",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Moscow / Bronx, NY",
-    "source": "kaggle.com"
+    "destination": "Moscow / Bronx, NY"
 }, {
     "id": 469,
     "class": 2,
@@ -7043,8 +6575,7 @@ const data = [{
     "ticketId": "F.C.C. 13534",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "India / Pittsburgh, PA",
-    "source": "kaggle.com"
+    "destination": "India / Pittsburgh, PA"
 }, {
     "id": 470,
     "class": 2,
@@ -7059,8 +6590,7 @@ const data = [{
     "fare": 12.35,
     "cabin": "E101",
     "portOfEmbarkation": "Queenstown",
-    "destination": "Harrisburg, PA",
-    "source": "kaggle.com"
+    "destination": "Harrisburg, PA"
 }, {
     "id": 471,
     "class": 2,
@@ -7072,8 +6602,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "233734",
     "fare": 12.35,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 472,
     "class": 2,
@@ -7087,8 +6616,7 @@ const data = [{
     "ticketId": "223596",
     "fare": 13.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "London / New York, NY",
-    "source": "kaggle.com"
+    "destination": "London / New York, NY"
 }, {
     "id": 473,
     "class": 2,
@@ -7101,8 +6629,7 @@ const data = [{
     "ticketId": "219533",
     "fare": 12.35,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Glasgow / Bangor, ME",
-    "source": "kaggle.com"
+    "destination": "Glasgow / Bangor, ME"
 }, {
     "id": 474,
     "class": 2,
@@ -7115,8 +6642,7 @@ const data = [{
     "ticketId": "239855",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Belfast",
-    "source": "kaggle.com"
+    "destination": "Belfast"
 }, {
     "id": 475,
     "class": 2,
@@ -7129,8 +6655,7 @@ const data = [{
     "ticketId": "C.A. 18723",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden / Arlington, NJ",
-    "source": "kaggle.com"
+    "destination": "Sweden / Arlington, NJ"
 }, {
     "id": 476,
     "class": 2,
@@ -7143,8 +6668,7 @@ const data = [{
     "ticketId": "250651",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Minneapolis, MN",
-    "source": "kaggle.com"
+    "destination": "Minneapolis, MN"
 }, {
     "id": 477,
     "class": 2,
@@ -7157,8 +6681,7 @@ const data = [{
     "ticketId": "250651",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Minneapolis, MN",
-    "source": "kaggle.com"
+    "destination": "Minneapolis, MN"
 }, {
     "id": 478,
     "class": 2,
@@ -7170,8 +6693,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "240261",
     "fare": 10.7083,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 479,
     "class": 2,
@@ -7185,8 +6707,7 @@ const data = [{
     "ticketId": "SC/Paris 2123",
     "fare": 41.5792,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris / Haiti",
-    "source": "kaggle.com"
+    "destination": "Paris / Haiti"
 }, {
     "id": 480,
     "class": 2,
@@ -7200,8 +6721,7 @@ const data = [{
     "ticketId": "SC/Paris 2123",
     "fare": 41.5792,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris / Haiti",
-    "source": "kaggle.com"
+    "destination": "Paris / Haiti"
 }, {
     "id": 481,
     "class": 2,
@@ -7214,8 +6734,7 @@ const data = [{
     "ticketId": "SC/Paris 2123",
     "fare": 41.5792,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris / Haiti",
-    "source": "kaggle.com"
+    "destination": "Paris / Haiti"
 }, {
     "id": 482,
     "class": 2,
@@ -7229,8 +6748,7 @@ const data = [{
     "ticketId": "SC/Paris 2123",
     "fare": 41.5792,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris / Haiti",
-    "source": "kaggle.com"
+    "destination": "Paris / Haiti"
 }, {
     "id": 483,
     "class": 2,
@@ -7244,8 +6762,7 @@ const data = [{
     "ticketId": "SC 1748",
     "fare": 12.0,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Berne, Switzerland / Central City, IA",
-    "source": "kaggle.com"
+    "destination": "Berne, Switzerland / Central City, IA"
 }, {
     "id": 484,
     "class": 2,
@@ -7259,8 +6776,7 @@ const data = [{
     "ticketId": "248727",
     "fare": 33.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London / Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "London / Chicago, IL"
 }, {
     "id": 485,
     "class": 2,
@@ -7275,8 +6791,7 @@ const data = [{
     "fare": 10.5,
     "cabin": "F33",
     "portOfEmbarkation": "Southampton",
-    "destination": "Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Chicago, IL"
 }, {
     "id": 486,
     "class": 2,
@@ -7290,8 +6805,7 @@ const data = [{
     "fare": 12.875,
     "cabin": "D",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Montreal, PQ"
 }, {
     "id": 487,
     "class": 2,
@@ -7303,8 +6817,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C.A. 29566",
     "fare": 10.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 488,
     "class": 2,
@@ -7316,8 +6829,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "235509",
     "fare": 12.35,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 489,
     "class": 2,
@@ -7330,8 +6842,7 @@ const data = [{
     "ticketId": "SC/AH 3085",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Weston-Super-Mare, Somerset",
-    "source": "kaggle.com"
+    "destination": "Weston-Super-Mare, Somerset"
 }, {
     "id": 490,
     "class": 2,
@@ -7344,8 +6855,7 @@ const data = [{
     "ticketId": "SC/AH 3085",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Weston-Super-Mare, Somerset",
-    "source": "kaggle.com"
+    "destination": "Weston-Super-Mare, Somerset"
 }, {
     "id": 491,
     "class": 2,
@@ -7359,8 +6869,7 @@ const data = [{
     "fare": 10.5,
     "cabin": "E77",
     "portOfEmbarkation": "Southampton",
-    "destination": "Southampton / New York, NY",
-    "source": "kaggle.com"
+    "destination": "Southampton / New York, NY"
 }, {
     "id": 492,
     "class": 2,
@@ -7374,8 +6883,7 @@ const data = [{
     "fare": 15.0458,
     "cabin": "D",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris",
-    "source": "kaggle.com"
+    "destination": "Paris"
 }, {
     "id": 493,
     "class": 2,
@@ -7389,8 +6897,7 @@ const data = [{
     "ticketId": "S.C./PARIS 2079",
     "fare": 37.0042,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Paris / Montreal, PQ"
 }, {
     "id": 494,
     "class": 2,
@@ -7403,8 +6910,7 @@ const data = [{
     "ticketId": "S.C./PARIS 2079",
     "fare": 37.0042,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Paris / Montreal, PQ"
 }, {
     "id": 495,
     "class": 2,
@@ -7418,8 +6924,7 @@ const data = [{
     "ticketId": "S.C./PARIS 2079",
     "fare": 37.0042,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Paris / Montreal, PQ"
 }, {
     "id": 496,
     "class": 2,
@@ -7432,8 +6937,7 @@ const data = [{
     "ticketId": "SC/A.3 2861",
     "fare": 15.5792,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 497,
     "class": 2,
@@ -7446,8 +6950,7 @@ const data = [{
     "ticketId": "28228",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "St Austall, Cornwall",
-    "source": "kaggle.com"
+    "destination": "St Austall, Cornwall"
 }, {
     "id": 498,
     "class": 2,
@@ -7460,8 +6963,7 @@ const data = [{
     "ticketId": "239059",
     "fare": 16.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Weston-Super-Mare / Moose Jaw, SK",
-    "source": "kaggle.com"
+    "destination": "Weston-Super-Mare / Moose Jaw, SK"
 }, {
     "id": 499,
     "class": 2,
@@ -7474,8 +6976,7 @@ const data = [{
     "ticketId": "237216",
     "fare": 13.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sydney, Australia",
-    "source": "kaggle.com"
+    "destination": "Sydney, Australia"
 }, {
     "id": 500,
     "class": 2,
@@ -7488,8 +6989,7 @@ const data = [{
     "ticketId": "233478",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sarnia, ON",
-    "source": "kaggle.com"
+    "destination": "Sarnia, ON"
 }, {
     "id": 501,
     "class": 2,
@@ -7502,8 +7002,7 @@ const data = [{
     "ticketId": "28403",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rochester, NY",
-    "source": "kaggle.com"
+    "destination": "Rochester, NY"
 }, {
     "id": 502,
     "class": 2,
@@ -7517,8 +7016,7 @@ const data = [{
     "ticketId": "250644",
     "fare": 19.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "England / Bennington, VT",
-    "source": "kaggle.com"
+    "destination": "England / Bennington, VT"
 }, {
     "id": 503,
     "class": 2,
@@ -7532,8 +7030,7 @@ const data = [{
     "ticketId": "250644",
     "fare": 19.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "England / Bennington, VT",
-    "source": "kaggle.com"
+    "destination": "England / Bennington, VT"
 }, {
     "id": 504,
     "class": 2,
@@ -7547,8 +7044,7 @@ const data = [{
     "ticketId": "SW/PP 751",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Chelsea, London",
-    "source": "kaggle.com"
+    "destination": "Chelsea, London"
 }, {
     "id": 505,
     "class": 2,
@@ -7561,8 +7057,7 @@ const data = [{
     "ticketId": "248723",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Harrow-on-the-Hill, Middlesex",
-    "source": "kaggle.com"
+    "destination": "Harrow-on-the-Hill, Middlesex"
 }, {
     "id": 506,
     "class": 2,
@@ -7575,8 +7070,7 @@ const data = [{
     "ticketId": "234360",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Copenhagen, Denmark",
-    "source": "kaggle.com"
+    "destination": "Copenhagen, Denmark"
 }, {
     "id": 507,
     "class": 2,
@@ -7589,8 +7083,7 @@ const data = [{
     "ticketId": "C.A. 24580",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey / Montclair, NJ and/or Toledo, Ohio",
-    "source": "kaggle.com"
+    "destination": "Guernsey / Montclair, NJ and/or Toledo, Ohio"
 }, {
     "id": 508,
     "class": 2,
@@ -7603,8 +7096,7 @@ const data = [{
     "ticketId": "211536",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Worcester, MA"
 }, {
     "id": 509,
     "class": 2,
@@ -7617,8 +7109,7 @@ const data = [{
     "ticketId": "29011",
     "fare": 14.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Frankfort, KY",
-    "source": "kaggle.com"
+    "destination": "Frankfort, KY"
 }, {
     "id": 510,
     "class": 2,
@@ -7630,8 +7121,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "250655",
     "fare": 26.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 511,
     "class": 2,
@@ -7644,8 +7134,7 @@ const data = [{
     "ticketId": "S.O./P.P. 3",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Halesworth, England",
-    "source": "kaggle.com"
+    "destination": "Halesworth, England"
 }, {
     "id": 512,
     "class": 2,
@@ -7658,8 +7147,7 @@ const data = [{
     "ticketId": "240276",
     "fare": 9.6875,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Cambridge, MA",
-    "source": "kaggle.com"
+    "destination": "Cambridge, MA"
 }, {
     "id": 513,
     "class": 2,
@@ -7672,8 +7160,7 @@ const data = [{
     "ticketId": "237736",
     "fare": 30.0708,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 514,
     "class": 2,
@@ -7686,8 +7173,7 @@ const data = [{
     "ticketId": "237736",
     "fare": 30.0708,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 515,
     "class": 2,
@@ -7702,8 +7188,7 @@ const data = [{
     "fare": 26.0,
     "cabin": "F2",
     "portOfEmbarkation": "Southampton",
-    "destination": "Nice, France",
-    "source": "kaggle.com"
+    "destination": "Nice, France"
 }, {
     "id": 516,
     "class": 2,
@@ -7718,8 +7203,7 @@ const data = [{
     "fare": 26.0,
     "cabin": "F2",
     "portOfEmbarkation": "Southampton",
-    "destination": "Nice, France",
-    "source": "kaggle.com"
+    "destination": "Nice, France"
 }, {
     "id": 517,
     "class": 2,
@@ -7733,8 +7217,7 @@ const data = [{
     "fare": 26.0,
     "cabin": "F2",
     "portOfEmbarkation": "Southampton",
-    "destination": "Nice, France",
-    "source": "kaggle.com"
+    "destination": "Nice, France"
 }, {
     "id": 518,
     "class": 2,
@@ -7748,8 +7231,7 @@ const data = [{
     "fare": 13.0,
     "cabin": "F2",
     "portOfEmbarkation": "Southampton",
-    "destination": "Boston, MA",
-    "source": "kaggle.com"
+    "destination": "Boston, MA"
 }, {
     "id": 519,
     "class": 2,
@@ -7762,8 +7244,7 @@ const data = [{
     "ticketId": "C.A. 33112",
     "fare": 36.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Hancock, MI",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Hancock, MI"
 }, {
     "id": 520,
     "class": 2,
@@ -7776,8 +7257,7 @@ const data = [{
     "ticketId": "218629",
     "fare": 13.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Glasgow",
-    "source": "kaggle.com"
+    "destination": "Glasgow"
 }, {
     "id": 521,
     "class": 2,
@@ -7792,8 +7272,7 @@ const data = [{
     "fare": 13.8625,
     "cabin": "D38",
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Cologne, Germany",
-    "source": "kaggle.com"
+    "destination": "Cologne, Germany"
 }, {
     "id": 522,
     "class": 2,
@@ -7808,8 +7287,7 @@ const data = [{
     "fare": 10.5,
     "cabin": "F33",
     "portOfEmbarkation": "Southampton",
-    "destination": "Folkstone, Kent / New York, NY",
-    "source": "kaggle.com"
+    "destination": "Folkstone, Kent / New York, NY"
 }, {
     "id": 523,
     "class": 2,
@@ -7822,8 +7300,7 @@ const data = [{
     "ticketId": "28213",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Middleburg Heights, OH",
-    "source": "kaggle.com"
+    "destination": "Middleburg Heights, OH"
 }, {
     "id": 524,
     "class": 2,
@@ -7837,8 +7314,7 @@ const data = [{
     "ticketId": "W./C. 14260",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Pondersend, England / New Durham, NJ",
-    "source": "kaggle.com"
+    "destination": "Pondersend, England / New Durham, NJ"
 }, {
     "id": 525,
     "class": 2,
@@ -7852,8 +7328,7 @@ const data = [{
     "ticketId": "SC/PARIS 2146",
     "fare": 13.8625,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Spain / Havana, Cuba",
-    "source": "kaggle.com"
+    "destination": "Spain / Havana, Cuba"
 }, {
     "id": 526,
     "class": 2,
@@ -7866,8 +7341,7 @@ const data = [{
     "ticketId": "244278",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Hamilton, ON",
-    "source": "kaggle.com"
+    "destination": "Hamilton, ON"
 }, {
     "id": 527,
     "class": 2,
@@ -7881,8 +7355,7 @@ const data = [{
     "ticketId": "SC/PARIS 2147",
     "fare": 13.8583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Spain / Havana, Cuba",
-    "source": "kaggle.com"
+    "destination": "Spain / Havana, Cuba"
 }, {
     "id": 528,
     "class": 2,
@@ -7895,8 +7368,7 @@ const data = [{
     "ticketId": "SC 14888",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "St Andrews, Guernsey",
-    "source": "kaggle.com"
+    "destination": "St Andrews, Guernsey"
 }, {
     "id": 529,
     "class": 2,
@@ -7909,8 +7381,7 @@ const data = [{
     "ticketId": "239853",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Belfast",
-    "source": "kaggle.com"
+    "destination": "Belfast"
 }, {
     "id": 530,
     "class": 2,
@@ -7924,8 +7395,7 @@ const data = [{
     "ticketId": "230433",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Woodford County, KY",
-    "source": "kaggle.com"
+    "destination": "Woodford County, KY"
 }, {
     "id": 531,
     "class": 2,
@@ -7938,8 +7408,7 @@ const data = [{
     "ticketId": "28665",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Gunnislake, England / Butte, MT",
-    "source": "kaggle.com"
+    "destination": "Gunnislake, England / Butte, MT"
 }, {
     "id": 532,
     "class": 2,
@@ -7951,8 +7420,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SC/PARIS 2131",
     "fare": 15.05,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 533,
     "class": 2,
@@ -7964,8 +7432,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "237393",
     "fare": 13.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 534,
     "class": 2,
@@ -7979,8 +7446,7 @@ const data = [{
     "ticketId": "S.O./P.P. 2",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ilfracombe, Devon",
-    "source": "kaggle.com"
+    "destination": "Ilfracombe, Devon"
 }, {
     "id": 535,
     "class": 2,
@@ -7994,8 +7460,7 @@ const data = [{
     "ticketId": "250655",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Worcester, England",
-    "source": "kaggle.com"
+    "destination": "Worcester, England"
 }, {
     "id": 536,
     "class": 2,
@@ -8008,8 +7473,7 @@ const data = [{
     "ticketId": "S.O./P.P. 2",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ilfracombe, Devon",
-    "source": "kaggle.com"
+    "destination": "Ilfracombe, Devon"
 }, {
     "id": 537,
     "class": 2,
@@ -8023,8 +7487,7 @@ const data = [{
     "ticketId": "234604",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Russia",
-    "source": "kaggle.com"
+    "destination": "Russia"
 }, {
     "id": 538,
     "class": 2,
@@ -8037,8 +7500,7 @@ const data = [{
     "ticketId": "250647",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Denmark / New York, NY",
-    "source": "kaggle.com"
+    "destination": "Denmark / New York, NY"
 }, {
     "id": 539,
     "class": 2,
@@ -8052,8 +7514,7 @@ const data = [{
     "ticketId": "C.A. 34644",
     "fare": 12.7375,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Milford, NH",
-    "source": "kaggle.com"
+    "destination": "Milford, NH"
 }, {
     "id": 540,
     "class": 2,
@@ -8066,8 +7527,7 @@ const data = [{
     "ticketId": "SC/PARIS 2168",
     "fare": 15.0333,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris",
-    "source": "kaggle.com"
+    "destination": "Paris"
 }, {
     "id": 541,
     "class": 2,
@@ -8081,8 +7541,7 @@ const data = [{
     "ticketId": "26360",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Plymouth, Devon / Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Plymouth, Devon / Detroit, MI"
 }, {
     "id": 542,
     "class": 2,
@@ -8096,8 +7555,7 @@ const data = [{
     "ticketId": "26360",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Plymouth, Devon / Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Plymouth, Devon / Detroit, MI"
 }, {
     "id": 543,
     "class": 2,
@@ -8111,8 +7569,7 @@ const data = [{
     "ticketId": "26360",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Plymouth, Devon / Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Plymouth, Devon / Detroit, MI"
 }, {
     "id": 544,
     "class": 2,
@@ -8125,8 +7582,7 @@ const data = [{
     "ticketId": "C.A. 17248",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Brighton, Sussex",
-    "source": "kaggle.com"
+    "destination": "Brighton, Sussex"
 }, {
     "id": 545,
     "class": 2,
@@ -8139,8 +7595,7 @@ const data = [{
     "ticketId": "31027",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Elizabeth, NJ",
-    "source": "kaggle.com"
+    "destination": "Elizabeth, NJ"
 }, {
     "id": 546,
     "class": 2,
@@ -8153,8 +7608,7 @@ const data = [{
     "ticketId": "31027",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Elizabeth, NJ",
-    "source": "kaggle.com"
+    "destination": "Elizabeth, NJ"
 }, {
     "id": 547,
     "class": 2,
@@ -8168,8 +7622,7 @@ const data = [{
     "ticketId": "230434",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Spain",
-    "source": "kaggle.com"
+    "destination": "Spain"
 }, {
     "id": 548,
     "class": 2,
@@ -8182,8 +7635,7 @@ const data = [{
     "ticketId": "SC/PARIS 2133",
     "fare": 15.0458,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Paris / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Paris / Montreal, PQ"
 }, {
     "id": 549,
     "class": 2,
@@ -8197,8 +7649,7 @@ const data = [{
     "ticketId": "29106",
     "fare": 18.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 550,
     "class": 2,
@@ -8212,8 +7663,7 @@ const data = [{
     "ticketId": "29106",
     "fare": 18.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 551,
     "class": 2,
@@ -8227,8 +7677,7 @@ const data = [{
     "ticketId": "29106",
     "fare": 18.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 552,
     "class": 2,
@@ -8242,8 +7691,7 @@ const data = [{
     "ticketId": "W./C. 14258",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "London, England / Marietta, Ohio and Milwaukee, WI",
-    "source": "kaggle.com"
+    "destination": "London, England / Marietta, Ohio and Milwaukee, WI"
 }, {
     "id": 553,
     "class": 2,
@@ -8255,8 +7703,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "28004",
     "fare": 10.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 554,
     "class": 2,
@@ -8270,8 +7717,7 @@ const data = [{
     "ticketId": "C.A. 31026",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey / Wilmington, DE",
-    "source": "kaggle.com"
+    "destination": "Guernsey / Wilmington, DE"
 }, {
     "id": 555,
     "class": 2,
@@ -8284,8 +7730,7 @@ const data = [{
     "ticketId": "248659",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Newark, NJ",
-    "source": "kaggle.com"
+    "destination": "Newark, NJ"
 }, {
     "id": 556,
     "class": 2,
@@ -8298,8 +7743,7 @@ const data = [{
     "ticketId": "244361",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Liverpool",
-    "source": "kaggle.com"
+    "destination": "Liverpool"
 }, {
     "id": 557,
     "class": 2,
@@ -8312,8 +7756,7 @@ const data = [{
     "ticketId": "244358",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Hornsey, England",
-    "source": "kaggle.com"
+    "destination": "Hornsey, England"
 }, {
     "id": 558,
     "class": 2,
@@ -8327,8 +7770,7 @@ const data = [{
     "ticketId": "230433",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Deer Lodge, MT",
-    "source": "kaggle.com"
+    "destination": "Deer Lodge, MT"
 }, {
     "id": 559,
     "class": 2,
@@ -8342,8 +7784,7 @@ const data = [{
     "ticketId": "250652",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Finland / Minneapolis, MN",
-    "source": "kaggle.com"
+    "destination": "Finland / Minneapolis, MN"
 }, {
     "id": 560,
     "class": 2,
@@ -8357,8 +7798,7 @@ const data = [{
     "ticketId": "C.A. 33112",
     "fare": 36.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Hancock, MI",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Hancock, MI"
 }, {
     "id": 561,
     "class": 2,
@@ -8372,8 +7812,7 @@ const data = [{
     "ticketId": "250648",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Finland / Washington, DC",
-    "source": "kaggle.com"
+    "destination": "Finland / Washington, DC"
 }, {
     "id": 562,
     "class": 2,
@@ -8386,8 +7825,7 @@ const data = [{
     "ticketId": "237442",
     "fare": 13.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sault St Marie, ON",
-    "source": "kaggle.com"
+    "destination": "Sault St Marie, ON"
 }, {
     "id": 563,
     "class": 2,
@@ -8401,8 +7839,7 @@ const data = [{
     "ticketId": "234818",
     "fare": 12.35,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Halifax, NS",
-    "source": "kaggle.com"
+    "destination": "Halifax, NS"
 }, {
     "id": 564,
     "class": 2,
@@ -8415,8 +7852,7 @@ const data = [{
     "ticketId": "28206",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall",
-    "source": "kaggle.com"
+    "destination": "Cornwall"
 }, {
     "id": 565,
     "class": 2,
@@ -8429,8 +7865,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "31418",
     "fare": 13.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 566,
     "class": 2,
@@ -8443,8 +7878,7 @@ const data = [{
     "ticketId": "C.A. 29178",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Houghton, MI",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Houghton, MI"
 }, {
     "id": 567,
     "class": 2,
@@ -8457,8 +7891,7 @@ const data = [{
     "ticketId": "237734",
     "fare": 15.0458,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 568,
     "class": 2,
@@ -8471,8 +7904,7 @@ const data = [{
     "ticketId": "F.C.C. 13540",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Catford, Kent / Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Catford, Kent / Detroit, MI"
 }, {
     "id": 569,
     "class": 2,
@@ -8485,8 +7917,7 @@ const data = [{
     "ticketId": "248734",
     "fare": 13.0,
     "cabin": "F",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 570,
     "class": 2,
@@ -8499,8 +7930,7 @@ const data = [{
     "ticketId": "220845",
     "fare": 65.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Somerset / Bernardsville, NJ",
-    "source": "kaggle.com"
+    "destination": "Somerset / Bernardsville, NJ"
 }, {
     "id": 571,
     "class": 2,
@@ -8514,8 +7944,7 @@ const data = [{
     "ticketId": "F.C.C. 13531",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Indianapolis, IN",
-    "source": "kaggle.com"
+    "destination": "Indianapolis, IN"
 }, {
     "id": 572,
     "class": 2,
@@ -8527,8 +7956,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "233639",
     "fare": 13.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 573,
     "class": 2,
@@ -8541,8 +7969,7 @@ const data = [{
     "ticketId": "240929",
     "fare": 12.65,
     "portOfEmbarkation": "Southampton",
-    "destination": "Columbus, OH",
-    "source": "kaggle.com"
+    "destination": "Columbus, OH"
 }, {
     "id": 574,
     "class": 2,
@@ -8557,8 +7984,7 @@ const data = [{
     "fare": 10.5,
     "cabin": "E101",
     "portOfEmbarkation": "Southampton",
-    "destination": "Bath, England / Massachusetts",
-    "source": "kaggle.com"
+    "destination": "Bath, England / Massachusetts"
 }, {
     "id": 575,
     "class": 2,
@@ -8571,8 +7997,7 @@ const data = [{
     "ticketId": "11668",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Plymouth, England",
-    "source": "kaggle.com"
+    "destination": "Plymouth, England"
 }, {
     "id": 576,
     "class": 2,
@@ -8585,8 +8010,7 @@ const data = [{
     "ticketId": "11668",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Plymouth, England",
-    "source": "kaggle.com"
+    "destination": "Plymouth, England"
 }, {
     "id": 577,
     "class": 2,
@@ -8599,8 +8023,7 @@ const data = [{
     "ticketId": "28221",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Barre, Co Washington, VT",
-    "source": "kaggle.com"
+    "destination": "Barre, Co Washington, VT"
 }, {
     "id": 578,
     "class": 2,
@@ -8614,8 +8037,7 @@ const data = [{
     "ticketId": "F.C.C. 13528",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Mamaroneck, NY",
-    "source": "kaggle.com"
+    "destination": "Mamaroneck, NY"
 }, {
     "id": 579,
     "class": 2,
@@ -8628,8 +8050,7 @@ const data = [{
     "ticketId": "CA 31352",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bristol, England / New Britain, CT",
-    "source": "kaggle.com"
+    "destination": "Bristol, England / New Britain, CT"
 }, {
     "id": 580,
     "class": 2,
@@ -8641,8 +8062,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "28666",
     "fare": 10.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 581,
     "class": 2,
@@ -8656,8 +8076,7 @@ const data = [{
     "ticketId": "CA 31352",
     "fare": 21.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bristol, England / New Britain, CT",
-    "source": "kaggle.com"
+    "destination": "Bristol, England / New Britain, CT"
 }, {
     "id": 582,
     "class": 2,
@@ -8670,8 +8089,7 @@ const data = [{
     "ticketId": "239856",
     "fare": 0.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Belfast",
-    "source": "kaggle.com"
+    "destination": "Belfast"
 }, {
     "id": 583,
     "class": 2,
@@ -8685,8 +8103,7 @@ const data = [{
     "ticketId": "C.A. 33595",
     "fare": 15.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Aberdeen / Portland, OR",
-    "source": "kaggle.com"
+    "destination": "Aberdeen / Portland, OR"
 }, {
     "id": 584,
     "class": 2,
@@ -8700,8 +8117,7 @@ const data = [{
     "ticketId": "C.A. 33595",
     "fare": 15.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Aberdeen / Portland, OR",
-    "source": "kaggle.com"
+    "destination": "Aberdeen / Portland, OR"
 }, {
     "id": 585,
     "class": 2,
@@ -8716,8 +8132,7 @@ const data = [{
     "fare": 13.0,
     "cabin": "E101",
     "portOfEmbarkation": "Southampton",
-    "destination": "England / Hartford, CT",
-    "source": "kaggle.com"
+    "destination": "England / Hartford, CT"
 }, {
     "id": 586,
     "class": 2,
@@ -8730,8 +8145,7 @@ const data = [{
     "ticketId": "228414",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bromsgrove, England / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Bromsgrove, England / Montreal, PQ"
 }, {
     "id": 587,
     "class": 2,
@@ -8745,8 +8159,7 @@ const data = [{
     "ticketId": "228414",
     "fare": 26.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bromsgrove, England / Montreal, PQ",
-    "source": "kaggle.com"
+    "destination": "Bromsgrove, England / Montreal, PQ"
 }, {
     "id": 588,
     "class": 2,
@@ -8760,8 +8173,7 @@ const data = [{
     "ticketId": "29103",
     "fare": 23.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 589,
     "class": 2,
@@ -8775,8 +8187,7 @@ const data = [{
     "ticketId": "29103",
     "fare": 23.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 590,
     "class": 2,
@@ -8790,8 +8201,7 @@ const data = [{
     "ticketId": "29103",
     "fare": 23.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Cornwall / Akron, OH",
-    "source": "kaggle.com"
+    "destination": "Cornwall / Akron, OH"
 }, {
     "id": 591,
     "class": 2,
@@ -8805,8 +8215,7 @@ const data = [{
     "ticketId": "C.A. 34651",
     "fare": 27.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bournmouth, England",
-    "source": "kaggle.com"
+    "destination": "Bournmouth, England"
 }, {
     "id": 592,
     "class": 2,
@@ -8820,8 +8229,7 @@ const data = [{
     "ticketId": "C.A. 34651",
     "fare": 27.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bournmouth, England",
-    "source": "kaggle.com"
+    "destination": "Bournmouth, England"
 }, {
     "id": 593,
     "class": 2,
@@ -8834,8 +8242,7 @@ const data = [{
     "ticketId": "C.A. 34651",
     "fare": 27.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bournmouth, England",
-    "source": "kaggle.com"
+    "destination": "Bournmouth, England"
 }, {
     "id": 594,
     "class": 2,
@@ -8849,8 +8256,7 @@ const data = [{
     "ticketId": "C.A. 34651",
     "fare": 27.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bournmouth, England",
-    "source": "kaggle.com"
+    "destination": "Bournmouth, England"
 }, {
     "id": 595,
     "class": 2,
@@ -8863,8 +8269,7 @@ const data = [{
     "ticketId": "C.A. 24579",
     "fare": 10.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Guernsey, England / Edgewood, RI",
-    "source": "kaggle.com"
+    "destination": "Guernsey, England / Edgewood, RI"
 }, {
     "id": 596,
     "class": 2,
@@ -8876,8 +8281,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SC/PARIS 2159",
     "fare": 12.875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 597,
     "class": 2,
@@ -8891,8 +8295,7 @@ const data = [{
     "ticketId": "244270",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "London, England",
-    "source": "kaggle.com"
+    "destination": "London, England"
 }, {
     "id": 598,
     "class": 2,
@@ -8906,8 +8309,7 @@ const data = [{
     "ticketId": "244373",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Harrow, England",
-    "source": "kaggle.com"
+    "destination": "Harrow, England"
 }, {
     "id": 599,
     "class": 2,
@@ -8921,8 +8323,7 @@ const data = [{
     "ticketId": "220844",
     "fare": 13.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Yoevil, England / Cottage Grove, OR",
-    "source": "kaggle.com"
+    "destination": "Yoevil, England / Cottage Grove, OR"
 }, {
     "id": 600,
     "class": 2,
@@ -8935,8 +8336,7 @@ const data = [{
     "ticketId": "248747",
     "fare": 13.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Paris",
-    "source": "kaggle.com"
+    "destination": "Paris"
 }, {
     "id": 601,
     "class": 3,
@@ -8948,8 +8348,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C.A. 5547",
     "fare": 7.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 602,
     "class": 3,
@@ -8962,8 +8361,7 @@ const data = [{
     "ticketId": "C.A. 2673",
     "fare": 20.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "East Providence, RI",
-    "source": "kaggle.com"
+    "destination": "East Providence, RI"
 }, {
     "id": 603,
     "class": 3,
@@ -8976,8 +8374,7 @@ const data = [{
     "ticketId": "C.A. 2673",
     "fare": 20.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "East Providence, RI",
-    "source": "kaggle.com"
+    "destination": "East Providence, RI"
 }, {
     "id": 604,
     "class": 3,
@@ -8991,8 +8388,7 @@ const data = [{
     "ticketId": "C.A. 2673",
     "fare": 20.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "East Providence, RI",
-    "source": "kaggle.com"
+    "destination": "East Providence, RI"
 }, {
     "id": 605,
     "class": 3,
@@ -9006,8 +8402,7 @@ const data = [{
     "ticketId": "348125",
     "fare": 7.65,
     "portOfEmbarkation": "Southampton",
-    "destination": "Norway Los Angeles, CA",
-    "source": "kaggle.com"
+    "destination": "Norway Los Angeles, CA"
 }, {
     "id": 606,
     "class": 3,
@@ -9022,8 +8417,7 @@ const data = [{
     "fare": 7.65,
     "cabin": "F G63",
     "portOfEmbarkation": "Southampton",
-    "destination": "Perkins County, SD",
-    "source": "kaggle.com"
+    "destination": "Perkins County, SD"
 }, {
     "id": 607,
     "class": 3,
@@ -9037,8 +8431,7 @@ const data = [{
     "ticketId": "SOTON/O2 3101284",
     "fare": 7.925,
     "portOfEmbarkation": "Southampton",
-    "destination": "Taalintehdas, Finland Hoboken, NJ",
-    "source": "kaggle.com"
+    "destination": "Taalintehdas, Finland Hoboken, NJ"
 }, {
     "id": 608,
     "class": 3,
@@ -9052,8 +8445,7 @@ const data = [{
     "ticketId": "2657",
     "fare": 7.2292,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Greensburg, PA",
-    "source": "kaggle.com"
+    "destination": "Greensburg, PA"
 }, {
     "id": 609,
     "class": 3,
@@ -9066,8 +8458,7 @@ const data = [{
     "ticketId": "C 7076",
     "fare": 7.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Asarum, Sweden Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Asarum, Sweden Brooklyn, NY"
 }, {
     "id": 610,
     "class": 3,
@@ -9080,8 +8471,7 @@ const data = [{
     "ticketId": "341826",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bournemouth, England",
-    "source": "kaggle.com"
+    "destination": "Bournemouth, England"
 }, {
     "id": 611,
     "class": 3,
@@ -9094,8 +8484,7 @@ const data = [{
     "ticketId": "7546",
     "fare": 9.475,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Akeley, MN",
-    "source": "kaggle.com"
+    "destination": "Sweden Akeley, MN"
 }, {
     "id": 612,
     "class": 3,
@@ -9109,8 +8498,7 @@ const data = [{
     "ticketId": "392091",
     "fare": 9.35,
     "portOfEmbarkation": "Southampton",
-    "destination": "London, England Norfolk, VA",
-    "source": "kaggle.com"
+    "destination": "London, England Norfolk, VA"
 }, {
     "id": 613,
     "class": 3,
@@ -9124,8 +8512,7 @@ const data = [{
     "ticketId": "392091",
     "fare": 9.35,
     "portOfEmbarkation": "Southampton",
-    "destination": "London, England Norfolk, VA",
-    "source": "kaggle.com"
+    "destination": "London, England Norfolk, VA"
 }, {
     "id": 614,
     "class": 3,
@@ -9139,8 +8526,7 @@ const data = [{
     "ticketId": "2699",
     "fare": 18.7875,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria Fredericksburg, VA",
-    "source": "kaggle.com"
+    "destination": "Syria Fredericksburg, VA"
 }, {
     "id": 615,
     "class": 3,
@@ -9153,8 +8539,7 @@ const data = [{
     "ticketId": "3474",
     "fare": 7.8875,
     "portOfEmbarkation": "Southampton",
-    "destination": "England Albion, NY",
-    "source": "kaggle.com"
+    "destination": "England Albion, NY"
 }, {
     "id": 616,
     "class": 3,
@@ -9167,8 +8552,7 @@ const data = [{
     "ticketId": "SOTON/O2 3101287",
     "fare": 7.925,
     "portOfEmbarkation": "Southampton",
-    "destination": "Salo, Finland Astoria, OR",
-    "source": "kaggle.com"
+    "destination": "Salo, Finland Astoria, OR"
 }, {
     "id": 617,
     "class": 3,
@@ -9180,8 +8564,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/O.Q. 3101311",
     "fare": 7.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 618,
     "class": 3,
@@ -9194,8 +8577,7 @@ const data = [{
     "ticketId": "SOTON/O.Q. 3101312",
     "fare": 7.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Argentina",
-    "source": "kaggle.com"
+    "destination": "Argentina"
 }, {
     "id": 619,
     "class": 3,
@@ -9208,8 +8590,7 @@ const data = [{
     "ticketId": "373450",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Lower Clapton, Middlesex or Erdington, Birmingham",
-    "source": "kaggle.com"
+    "destination": "Lower Clapton, Middlesex or Erdington, Birmingham"
 }, {
     "id": 620,
     "class": 3,
@@ -9222,8 +8603,7 @@ const data = [{
     "ticketId": "2223",
     "fare": 8.3,
     "portOfEmbarkation": "Southampton",
-    "destination": "Windsor, England New York, NY",
-    "source": "kaggle.com"
+    "destination": "Windsor, England New York, NY"
 }, {
     "id": 621,
     "class": 3,
@@ -9236,8 +8616,7 @@ const data = [{
     "ticketId": "C 4001",
     "fare": 22.525,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bergen, Norway",
-    "source": "kaggle.com"
+    "destination": "Bergen, Norway"
 }, {
     "id": 622,
     "class": 3,
@@ -9250,8 +8629,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350046",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 623,
     "class": 3,
@@ -9264,8 +8642,7 @@ const data = [{
     "ticketId": "347082",
     "fare": 31.275,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Winnipeg, MN",
-    "source": "kaggle.com"
+    "destination": "Sweden Winnipeg, MN"
 }, {
     "id": 624,
     "class": 3,
@@ -9278,8 +8655,7 @@ const data = [{
     "ticketId": "347082",
     "fare": 31.275,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Winnipeg, MN",
-    "source": "kaggle.com"
+    "destination": "Sweden Winnipeg, MN"
 }, {
     "id": 625,
     "class": 3,
@@ -9292,8 +8668,7 @@ const data = [{
     "ticketId": "347082",
     "fare": 31.275,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Winnipeg, MN",
-    "source": "kaggle.com"
+    "destination": "Sweden Winnipeg, MN"
 }, {
     "id": 626,
     "class": 3,
@@ -9307,8 +8682,7 @@ const data = [{
     "ticketId": "3101281",
     "fare": 7.925,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ruotsinphyhtaa, Finland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ruotsinphyhtaa, Finland New York, NY"
 }, {
     "id": 627,
     "class": 3,
@@ -9321,8 +8695,7 @@ const data = [{
     "ticketId": "347091",
     "fare": 7.775,
     "portOfEmbarkation": "Southampton",
-    "destination": "Vadsbro, Sweden Ministee, MI",
-    "source": "kaggle.com"
+    "destination": "Vadsbro, Sweden Ministee, MI"
 }, {
     "id": 628,
     "class": 3,
@@ -9335,8 +8708,7 @@ const data = [{
     "ticketId": "347082",
     "fare": 31.275,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Winnipeg, MN",
-    "source": "kaggle.com"
+    "destination": "Sweden Winnipeg, MN"
 }, {
     "id": 629,
     "class": 3,
@@ -9349,8 +8721,7 @@ const data = [{
     "ticketId": "347082",
     "fare": 31.275,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Winnipeg, MN",
-    "source": "kaggle.com"
+    "destination": "Sweden Winnipeg, MN"
 }, {
     "id": 630,
     "class": 3,
@@ -9363,8 +8734,7 @@ const data = [{
     "ticketId": "347082",
     "fare": 31.275,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Winnipeg, MN",
-    "source": "kaggle.com"
+    "destination": "Sweden Winnipeg, MN"
 }, {
     "id": 631,
     "class": 3,
@@ -9377,8 +8747,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350043",
     "fare": 7.7958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 632,
     "class": 3,
@@ -9391,8 +8760,7 @@ const data = [{
     "ticketId": "347075",
     "fare": 7.775,
     "portOfEmbarkation": "Southampton",
-    "destination": "Hartford, CT",
-    "source": "kaggle.com"
+    "destination": "Hartford, CT"
 }, {
     "id": 633,
     "class": 3,
@@ -9405,8 +8773,7 @@ const data = [{
     "ticketId": "347082",
     "fare": 31.275,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Winnipeg, MN",
-    "source": "kaggle.com"
+    "destination": "Sweden Winnipeg, MN"
 }, {
     "id": 634,
     "class": 3,
@@ -9419,8 +8786,7 @@ const data = [{
     "ticketId": "347466",
     "fare": 7.8542,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Sweden Chicago, IL"
 }, {
     "id": 635,
     "class": 3,
@@ -9433,8 +8799,7 @@ const data = [{
     "ticketId": "349202",
     "fare": 7.8958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bulgaria Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Bulgaria Chicago, IL"
 }, {
     "id": 636,
     "class": 3,
@@ -9447,8 +8812,7 @@ const data = [{
     "ticketId": "349237",
     "fare": 17.8,
     "portOfEmbarkation": "Southampton",
-    "destination": "Altdorf, Switzerland",
-    "source": "kaggle.com"
+    "destination": "Altdorf, Switzerland"
 }, {
     "id": 637,
     "class": 3,
@@ -9461,8 +8825,7 @@ const data = [{
     "ticketId": "349237",
     "fare": 17.8,
     "portOfEmbarkation": "Southampton",
-    "destination": "Altdorf, Switzerland",
-    "source": "kaggle.com"
+    "destination": "Altdorf, Switzerland"
 }, {
     "id": 638,
     "class": 3,
@@ -9475,8 +8838,7 @@ const data = [{
     "ticketId": "349911",
     "fare": 7.775,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Joliet, IL",
-    "source": "kaggle.com"
+    "destination": "Sweden Joliet, IL"
 }, {
     "id": 639,
     "class": 3,
@@ -9488,8 +8850,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/O.Q. 3101310",
     "fare": 7.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 640,
     "class": 3,
@@ -9502,8 +8863,7 @@ const data = [{
     "ticketId": "347077",
     "fare": 31.3875,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden  Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Sweden  Worcester, MA"
 }, {
     "id": 641,
     "class": 3,
@@ -9516,8 +8876,7 @@ const data = [{
     "ticketId": "347077",
     "fare": 31.3875,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Sweden Worcester, MA"
 }, {
     "id": 642,
     "class": 3,
@@ -9531,8 +8890,7 @@ const data = [{
     "ticketId": "347077",
     "fare": 31.3875,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Sweden Worcester, MA"
 }, {
     "id": 643,
     "class": 3,
@@ -9545,8 +8903,7 @@ const data = [{
     "ticketId": "347077",
     "fare": 31.3875,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Sweden Worcester, MA"
 }, {
     "id": 644,
     "class": 3,
@@ -9560,8 +8917,7 @@ const data = [{
     "ticketId": "347077",
     "fare": 31.3875,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Sweden Worcester, MA"
 }, {
     "id": 645,
     "class": 3,
@@ -9574,8 +8930,7 @@ const data = [{
     "ticketId": "347077",
     "fare": 31.3875,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden  Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Sweden  Worcester, MA"
 }, {
     "id": 646,
     "class": 3,
@@ -9589,8 +8944,7 @@ const data = [{
     "ticketId": "350054",
     "fare": 7.7958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Oskarshamn, Sweden Minneapolis, MN",
-    "source": "kaggle.com"
+    "destination": "Oskarshamn, Sweden Minneapolis, MN"
 }, {
     "id": 647,
     "class": 3,
@@ -9604,8 +8958,7 @@ const data = [{
     "ticketId": "347077",
     "fare": 31.3875,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden  Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Sweden  Worcester, MA"
 }, {
     "id": 648,
     "class": 3,
@@ -9619,8 +8972,7 @@ const data = [{
     "ticketId": "2696",
     "fare": 7.225,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Ottawa, ON",
-    "source": "kaggle.com"
+    "destination": "Ottawa, ON"
 }, {
     "id": 649,
     "class": 3,
@@ -9633,8 +8985,7 @@ const data = [{
     "ticketId": "2692",
     "fare": 7.225,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Ottawa, ON",
-    "source": "kaggle.com"
+    "destination": "Ottawa, ON"
 }, {
     "id": 650,
     "class": 3,
@@ -9646,8 +8997,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/O.Q. 3101309",
     "fare": 7.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 651,
     "class": 3,
@@ -9659,8 +9009,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2627",
     "fare": 14.4583,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 652,
     "class": 3,
@@ -9673,8 +9022,7 @@ const data = [{
     "ticketId": "2694",
     "fare": 7.225,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Ottawa, ON",
-    "source": "kaggle.com"
+    "destination": "Ottawa, ON"
 }, {
     "id": 653,
     "class": 3,
@@ -9687,8 +9035,7 @@ const data = [{
     "ticketId": "347468",
     "fare": 7.8542,
     "portOfEmbarkation": "Southampton",
-    "destination": "Krakoryd, Sweden Bloomington, IL",
-    "source": "kaggle.com"
+    "destination": "Krakoryd, Sweden Bloomington, IL"
 }, {
     "id": 654,
     "class": 3,
@@ -9702,8 +9049,7 @@ const data = [{
     "ticketId": "2687",
     "fare": 7.2292,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria Youngstown, OH",
-    "source": "kaggle.com"
+    "destination": "Syria Youngstown, OH"
 }, {
     "id": 655,
     "class": 3,
@@ -9715,8 +9061,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2679",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 656,
     "class": 3,
@@ -9729,8 +9074,7 @@ const data = [{
     "ticketId": "3101278",
     "fare": 15.85,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ruotsinphytaa, Finland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ruotsinphytaa, Finland New York, NY"
 }, {
     "id": 657,
     "class": 3,
@@ -9743,8 +9087,7 @@ const data = [{
     "ticketId": "3101278",
     "fare": 15.85,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ruotsinphytaa, Finland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ruotsinphytaa, Finland New York, NY"
 }, {
     "id": 658,
     "class": 3,
@@ -9758,8 +9101,7 @@ const data = [{
     "ticketId": "2666",
     "fare": 19.2583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria New York, NY",
-    "source": "kaggle.com"
+    "destination": "Syria New York, NY"
 }, {
     "id": 659,
     "class": 3,
@@ -9773,8 +9115,7 @@ const data = [{
     "ticketId": "2666",
     "fare": 19.2583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria New York, NY",
-    "source": "kaggle.com"
+    "destination": "Syria New York, NY"
 }, {
     "id": 660,
     "class": 3,
@@ -9788,8 +9129,7 @@ const data = [{
     "ticketId": "2666",
     "fare": 19.2583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria New York, NY",
-    "source": "kaggle.com"
+    "destination": "Syria New York, NY"
 }, {
     "id": 661,
     "class": 3,
@@ -9803,8 +9143,7 @@ const data = [{
     "ticketId": "2666",
     "fare": 19.2583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria New York, NY",
-    "source": "kaggle.com"
+    "destination": "Syria New York, NY"
 }, {
     "id": 662,
     "class": 3,
@@ -9818,8 +9157,7 @@ const data = [{
     "ticketId": "A/4 31416",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "London Skanteales, NY",
-    "source": "kaggle.com"
+    "destination": "London Skanteales, NY"
 }, {
     "id": 663,
     "class": 3,
@@ -9831,8 +9169,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2623",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 664,
     "class": 3,
@@ -9844,8 +9181,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349248",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 665,
     "class": 3,
@@ -9858,8 +9194,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2663",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 666,
     "class": 3,
@@ -9872,8 +9207,7 @@ const data = [{
     "ticketId": "2691",
     "fare": 14.4542,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria Ottawa, ON",
-    "source": "kaggle.com"
+    "destination": "Syria Ottawa, ON"
 }, {
     "id": 667,
     "class": 3,
@@ -9886,8 +9220,7 @@ const data = [{
     "ticketId": "2691",
     "fare": 14.4542,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria Ottawa, ON",
-    "source": "kaggle.com"
+    "destination": "Syria Ottawa, ON"
 }, {
     "id": 668,
     "class": 3,
@@ -9900,8 +9233,7 @@ const data = [{
     "ticketId": "330844",
     "fare": 7.8792,
     "portOfEmbarkation": "Queenstown",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 669,
     "class": 3,
@@ -9914,8 +9246,7 @@ const data = [{
     "ticketId": "324669",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "England New York, NY",
-    "source": "kaggle.com"
+    "destination": "England New York, NY"
 }, {
     "id": 670,
     "class": 3,
@@ -9928,8 +9259,7 @@ const data = [{
     "ticketId": "323951",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "England",
-    "source": "kaggle.com"
+    "destination": "England"
 }, {
     "id": 671,
     "class": 3,
@@ -9942,8 +9272,7 @@ const data = [{
     "ticketId": "347068",
     "fare": 7.775,
     "portOfEmbarkation": "Southampton",
-    "destination": "Krakudden, Sweden Moune, IL",
-    "source": "kaggle.com"
+    "destination": "Krakudden, Sweden Moune, IL"
 }, {
     "id": 672,
     "class": 3,
@@ -9956,8 +9285,7 @@ const data = [{
     "ticketId": "PP 4348",
     "fare": 9.35,
     "portOfEmbarkation": "Southampton",
-    "destination": "Tranvik, Finland New York",
-    "source": "kaggle.com"
+    "destination": "Tranvik, Finland New York"
 }, {
     "id": 673,
     "class": 3,
@@ -9969,8 +9297,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2622",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 674,
     "class": 3,
@@ -9983,8 +9310,7 @@ const data = [{
     "ticketId": "2648",
     "fare": 4.0125,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria",
-    "source": "kaggle.com"
+    "destination": "Syria"
 }, {
     "id": 675,
     "class": 3,
@@ -9998,8 +9324,7 @@ const data = [{
     "ticketId": "1601",
     "fare": 56.4958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Hong Kong New York, NY",
-    "source": "kaggle.com"
+    "destination": "Hong Kong New York, NY"
 }, {
     "id": 676,
     "class": 3,
@@ -10012,8 +9337,7 @@ const data = [{
     "ticketId": "312992",
     "fare": 7.775,
     "portOfEmbarkation": "Southampton",
-    "destination": "Brennes, Norway New York",
-    "source": "kaggle.com"
+    "destination": "Brennes, Norway New York"
 }, {
     "id": 677,
     "class": 3,
@@ -10026,8 +9350,7 @@ const data = [{
     "ticketId": "347090",
     "fare": 7.75,
     "portOfEmbarkation": "Southampton",
-    "destination": "Stockholm, Sweden New York",
-    "source": "kaggle.com"
+    "destination": "Stockholm, Sweden New York"
 }, {
     "id": 678,
     "class": 3,
@@ -10040,8 +9363,7 @@ const data = [{
     "ticketId": "349224",
     "fare": 7.8958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bulgaria Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Bulgaria Chicago, IL"
 }, {
     "id": 679,
     "class": 3,
@@ -10054,8 +9376,7 @@ const data = [{
     "ticketId": "2678",
     "fare": 15.2458,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria Kent, ON",
-    "source": "kaggle.com"
+    "destination": "Syria Kent, ON"
 }, {
     "id": 680,
     "class": 3,
@@ -10068,8 +9389,7 @@ const data = [{
     "ticketId": "2678",
     "fare": 15.2458,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria Kent, ON",
-    "source": "kaggle.com"
+    "destination": "Syria Kent, ON"
 }, {
     "id": 681,
     "class": 3,
@@ -10082,8 +9402,7 @@ const data = [{
     "ticketId": "2664",
     "fare": 7.225,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria",
-    "source": "kaggle.com"
+    "destination": "Syria"
 }, {
     "id": 682,
     "class": 3,
@@ -10096,8 +9415,7 @@ const data = [{
     "ticketId": "2678",
     "fare": 15.2458,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria Kent, ON",
-    "source": "kaggle.com"
+    "destination": "Syria Kent, ON"
 }, {
     "id": 683,
     "class": 3,
@@ -10110,8 +9428,7 @@ const data = [{
     "ticketId": "364848",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Ireland Chicago, IL"
 }, {
     "id": 684,
     "class": 3,
@@ -10124,8 +9441,7 @@ const data = [{
     "ticketId": "364849",
     "fare": 15.5,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Ireland Chicago, IL"
 }, {
     "id": 685,
     "class": 3,
@@ -10138,8 +9454,7 @@ const data = [{
     "ticketId": "364849",
     "fare": 15.5,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Ireland Chicago, IL"
 }, {
     "id": 686,
     "class": 3,
@@ -10152,8 +9467,7 @@ const data = [{
     "ticketId": "54636",
     "fare": 16.1,
     "portOfEmbarkation": "Southampton",
-    "destination": "Treherbert, Cardiff, Wales",
-    "source": "kaggle.com"
+    "destination": "Treherbert, Cardiff, Wales"
 }, {
     "id": 687,
     "class": 3,
@@ -10167,8 +9481,7 @@ const data = [{
     "ticketId": "334914",
     "fare": 7.725,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Kingwilliamstown, Co Cork, Ireland Glens Falls, NY"
 }, {
     "id": 688,
     "class": 3,
@@ -10181,8 +9494,7 @@ const data = [{
     "ticketId": "347471",
     "fare": 7.8542,
     "portOfEmbarkation": "Southampton",
-    "destination": "Medeltorp, Sweden Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Medeltorp, Sweden Chicago, IL"
 }, {
     "id": 689,
     "class": 3,
@@ -10195,8 +9507,7 @@ const data = [{
     "ticketId": "3460",
     "fare": 7.0458,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bridgerule, Devon",
-    "source": "kaggle.com"
+    "destination": "Bridgerule, Devon"
 }, {
     "id": 690,
     "class": 3,
@@ -10209,8 +9520,7 @@ const data = [{
     "ticketId": "A/5 21171",
     "fare": 7.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bridgerule, Devon",
-    "source": "kaggle.com"
+    "destination": "Bridgerule, Devon"
 }, {
     "id": 691,
     "class": 3,
@@ -10223,8 +9533,7 @@ const data = [{
     "ticketId": "350045",
     "fare": 7.7958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Sweden Worcester, MA",
-    "source": "kaggle.com"
+    "destination": "Sweden Worcester, MA"
 }, {
     "id": 692,
     "class": 3,
@@ -10237,8 +9546,7 @@ const data = [{
     "ticketId": "364512",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Broomfield, Chelmsford, England",
-    "source": "kaggle.com"
+    "destination": "Broomfield, Chelmsford, England"
 }, {
     "id": 693,
     "class": 3,
@@ -10251,8 +9559,7 @@ const data = [{
     "ticketId": "329944",
     "fare": 7.2833,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Cork, Ireland Roxbury, MA",
-    "source": "kaggle.com"
+    "destination": "Co Cork, Ireland Roxbury, MA"
 }, {
     "id": 694,
     "class": 3,
@@ -10266,8 +9573,7 @@ const data = [{
     "ticketId": "330920",
     "fare": 7.8208,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Kingwilliamstown, Co Cork, Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Kingwilliamstown, Co Cork, Ireland New York, NY"
 }, {
     "id": 695,
     "class": 3,
@@ -10280,8 +9586,7 @@ const data = [{
     "ticketId": "365222",
     "fare": 6.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Cork, Ireland Charlestown, MA",
-    "source": "kaggle.com"
+    "destination": "Co Cork, Ireland Charlestown, MA"
 }, {
     "id": 696,
     "class": 3,
@@ -10294,8 +9599,7 @@ const data = [{
     "ticketId": "330963",
     "fare": 7.8792,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Sligo, Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Co Sligo, Ireland New York, NY"
 }, {
     "id": 697,
     "class": 3,
@@ -10307,8 +9611,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315087",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 698,
     "class": 3,
@@ -10320,8 +9623,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315084",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 699,
     "class": 3,
@@ -10333,8 +9635,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315091",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 700,
     "class": 3,
@@ -10347,8 +9648,7 @@ const data = [{
     "ticketId": "315089",
     "fare": 8.6625,
     "portOfEmbarkation": "Southampton",
-    "destination": "Croatia",
-    "source": "kaggle.com"
+    "destination": "Croatia"
 }, {
     "id": 701,
     "class": 3,
@@ -10360,8 +9660,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315093",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 702,
     "class": 3,
@@ -10373,8 +9672,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315086",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 703,
     "class": 3,
@@ -10386,8 +9684,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364846",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 704,
     "class": 3,
@@ -10400,8 +9697,7 @@ const data = [{
     "ticketId": "364858",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Ireland Philadelphia, PA"
 }, {
     "id": 705,
     "class": 3,
@@ -10413,8 +9709,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A./5. 2152",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 706,
     "class": 3,
@@ -10427,8 +9722,7 @@ const data = [{
     "ticketId": "2689",
     "fare": 14.4583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Ottawa, ON",
-    "source": "kaggle.com"
+    "destination": "Ottawa, ON"
 }, {
     "id": 707,
     "class": 3,
@@ -10441,8 +9735,7 @@ const data = [{
     "ticketId": "2689",
     "fare": 14.4583,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Ottawa, ON",
-    "source": "kaggle.com"
+    "destination": "Ottawa, ON"
 }, {
     "id": 708,
     "class": 3,
@@ -10455,8 +9748,7 @@ const data = [{
     "ticketId": "350042",
     "fare": 7.7958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Dagsas, Sweden Fower, MN",
-    "source": "kaggle.com"
+    "destination": "Dagsas, Sweden Fower, MN"
 }, {
     "id": 709,
     "class": 3,
@@ -10469,8 +9761,7 @@ const data = [{
     "ticketId": "350409",
     "fare": 7.8542,
     "portOfEmbarkation": "Southampton",
-    "destination": "Goteborg, Sweden Huntley, IL",
-    "source": "kaggle.com"
+    "destination": "Goteborg, Sweden Huntley, IL"
 }, {
     "id": 710,
     "class": 3,
@@ -10484,8 +9775,7 @@ const data = [{
     "ticketId": "367231",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Longford, Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Co Longford, Ireland New York, NY"
 }, {
     "id": 711,
     "class": 3,
@@ -10498,8 +9788,7 @@ const data = [{
     "ticketId": "368364",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Sligo, Ireland Hartford, CT",
-    "source": "kaggle.com"
+    "destination": "Co Sligo, Ireland Hartford, CT"
 }, {
     "id": 712,
     "class": 3,
@@ -10512,8 +9801,7 @@ const data = [{
     "ticketId": "392095",
     "fare": 7.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "St Denys, Southampton, Hants",
-    "source": "kaggle.com"
+    "destination": "St Denys, Southampton, Hants"
 }, {
     "id": 713,
     "class": 3,
@@ -10526,8 +9814,7 @@ const data = [{
     "ticketId": "343275",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 714,
     "class": 3,
@@ -10540,8 +9827,7 @@ const data = [{
     "ticketId": "A/5. 13032",
     "fare": 7.7333,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ireland New York, NY"
 }, {
     "id": 715,
     "class": 3,
@@ -10555,8 +9841,7 @@ const data = [{
     "ticketId": "1601",
     "fare": 56.4958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Hong Kong New York, NY",
-    "source": "kaggle.com"
+    "destination": "Hong Kong New York, NY"
 }, {
     "id": 716,
     "class": 3,
@@ -10568,8 +9853,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "343276",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 717,
     "class": 3,
@@ -10582,8 +9866,7 @@ const data = [{
     "ticketId": "2680",
     "fare": 14.4542,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Greece",
-    "source": "kaggle.com"
+    "destination": "Greece"
 }, {
     "id": 718,
     "class": 3,
@@ -10596,8 +9879,7 @@ const data = [{
     "ticketId": "2680",
     "fare": 14.4542,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Greece",
-    "source": "kaggle.com"
+    "destination": "Greece"
 }, {
     "id": 719,
     "class": 3,
@@ -10610,8 +9892,7 @@ const data = [{
     "ticketId": "SOTON/O.Q. 3101307",
     "fare": 7.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Portugal",
-    "source": "kaggle.com"
+    "destination": "Portugal"
 }, {
     "id": 720,
     "class": 3,
@@ -10625,8 +9906,7 @@ const data = [{
     "ticketId": "A/5 3540",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "London Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "London Brooklyn, NY"
 }, {
     "id": 721,
     "class": 3,
@@ -10639,8 +9919,7 @@ const data = [{
     "ticketId": "371109",
     "fare": 7.25,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Limerick, Ireland Sherbrooke, PQ",
-    "source": "kaggle.com"
+    "destination": "Co Limerick, Ireland Sherbrooke, PQ"
 }, {
     "id": 722,
     "class": 3,
@@ -10653,8 +9932,7 @@ const data = [{
     "ticketId": "349210",
     "fare": 7.4958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bulgaria Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Bulgaria Chicago, IL"
 }, {
     "id": 723,
     "class": 3,
@@ -10666,8 +9944,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349209",
     "fare": 7.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 724,
     "class": 3,
@@ -10680,8 +9957,7 @@ const data = [{
     "ticketId": "21332",
     "fare": 7.7333,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Philadelphia, PA"
 }, {
     "id": 725,
     "class": 3,
@@ -10694,8 +9970,7 @@ const data = [{
     "ticketId": "335097",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "Ireland Brooklyn, NY"
 }, {
     "id": 726,
     "class": 3,
@@ -10709,8 +9984,7 @@ const data = [{
     "ticketId": "370373",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland",
-    "source": "kaggle.com"
+    "destination": "Ireland"
 }, {
     "id": 727,
     "class": 3,
@@ -10723,8 +9997,7 @@ const data = [{
     "ticketId": "330972",
     "fare": 7.6292,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland",
-    "source": "kaggle.com"
+    "destination": "Ireland"
 }, {
     "id": 728,
     "class": 3,
@@ -10736,8 +10009,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370369",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 729,
     "class": 3,
@@ -10749,8 +10021,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5 3536",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 730,
     "class": 3,
@@ -10763,8 +10034,7 @@ const data = [{
     "ticketId": "349230",
     "fare": 7.8958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Austria",
-    "source": "kaggle.com"
+    "destination": "Austria"
 }, {
     "id": 731,
     "class": 3,
@@ -10777,8 +10047,7 @@ const data = [{
     "ticketId": "349229",
     "fare": 7.8958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Austria",
-    "source": "kaggle.com"
+    "destination": "Austria"
 }, {
     "id": 732,
     "class": 3,
@@ -10791,8 +10060,7 @@ const data = [{
     "ticketId": "349231",
     "fare": 7.8958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Austria",
-    "source": "kaggle.com"
+    "destination": "Austria"
 }, {
     "id": 733,
     "class": 3,
@@ -10805,8 +10073,7 @@ const data = [{
     "ticketId": "SOTON/OQ 392090",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "London",
-    "source": "kaggle.com"
+    "destination": "London"
 }, {
     "id": 734,
     "class": 3,
@@ -10820,8 +10087,7 @@ const data = [{
     "ticketId": "C.A. 37671",
     "fare": 15.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "England Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "England Brooklyn, NY"
 }, {
     "id": 735,
     "class": 3,
@@ -10835,8 +10101,7 @@ const data = [{
     "ticketId": "C.A. 37671",
     "fare": 15.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "England Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "England Brooklyn, NY"
 }, {
     "id": 736,
     "class": 3,
@@ -10850,8 +10115,7 @@ const data = [{
     "ticketId": "C.A. 37671",
     "fare": 15.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "England Brooklyn, NY",
-    "source": "kaggle.com"
+    "destination": "England Brooklyn, NY"
 }, {
     "id": 737,
     "class": 3,
@@ -10864,8 +10128,7 @@ const data = [{
     "ticketId": "364500",
     "fare": 7.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Merrill, WI",
-    "source": "kaggle.com"
+    "destination": "Merrill, WI"
 }, {
     "id": 738,
     "class": 3,
@@ -10878,8 +10141,7 @@ const data = [{
     "ticketId": "S.P. 3464",
     "fare": 8.1583,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bristol, England Cleveland, OH",
-    "source": "kaggle.com"
+    "destination": "Bristol, England Cleveland, OH"
 }, {
     "id": 739,
     "class": 3,
@@ -10893,8 +10155,7 @@ const data = [{
     "ticketId": "371362",
     "fare": 16.1,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bournemouth, England Newark, NJ",
-    "source": "kaggle.com"
+    "destination": "Bournemouth, England Newark, NJ"
 }, {
     "id": 740,
     "class": 3,
@@ -10907,8 +10168,7 @@ const data = [{
     "ticketId": "371362",
     "fare": 16.1,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bournemouth, England Newark, NJ",
-    "source": "kaggle.com"
+    "destination": "Bournemouth, England Newark, NJ"
 }, {
     "id": 741,
     "class": 3,
@@ -10921,8 +10181,7 @@ const data = [{
     "ticketId": "315090",
     "fare": 8.6625,
     "portOfEmbarkation": "Southampton",
-    "destination": "Austria-Hungary",
-    "source": "kaggle.com"
+    "destination": "Austria-Hungary"
 }, {
     "id": 742,
     "class": 3,
@@ -10934,8 +10193,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2698",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 743,
     "class": 3,
@@ -10949,8 +10207,7 @@ const data = [{
     "ticketId": "7598",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Australia Fingal, ND",
-    "source": "kaggle.com"
+    "destination": "Australia Fingal, ND"
 }, {
     "id": 744,
     "class": 3,
@@ -10963,8 +10220,7 @@ const data = [{
     "ticketId": "7552",
     "fare": 10.5167,
     "portOfEmbarkation": "Southampton",
-    "destination": "Norrlot, Sweden Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Norrlot, Sweden Chicago, IL"
 }, {
     "id": 745,
     "class": 3,
@@ -10977,8 +10233,7 @@ const data = [{
     "ticketId": "349228",
     "fare": 10.1708,
     "portOfEmbarkation": "Southampton",
-    "destination": "Austria",
-    "source": "kaggle.com"
+    "destination": "Austria"
 }, {
     "id": 746,
     "class": 3,
@@ -10992,8 +10247,7 @@ const data = [{
     "ticketId": "382650",
     "fare": 6.95,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Athlone, Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Co Athlone, Ireland New York, NY"
 }, {
     "id": 747,
     "class": 3,
@@ -11007,8 +10261,7 @@ const data = [{
     "ticketId": "382651",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Athlone, Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Co Athlone, Ireland New York, NY"
 }, {
     "id": 748,
     "class": 3,
@@ -11021,8 +10274,7 @@ const data = [{
     "ticketId": "347080",
     "fare": 14.4,
     "portOfEmbarkation": "Southampton",
-    "destination": "Stanton, IA",
-    "source": "kaggle.com"
+    "destination": "Stanton, IA"
 }, {
     "id": 749,
     "class": 3,
@@ -11035,8 +10287,7 @@ const data = [{
     "ticketId": "347080",
     "fare": 14.4,
     "portOfEmbarkation": "Southampton",
-    "destination": "Stanton, IA",
-    "source": "kaggle.com"
+    "destination": "Stanton, IA"
 }, {
     "id": 750,
     "class": 3,
@@ -11049,8 +10300,7 @@ const data = [{
     "ticketId": "347080",
     "fare": 14.4,
     "portOfEmbarkation": "Southampton",
-    "destination": "Stanton, IA",
-    "source": "kaggle.com"
+    "destination": "Stanton, IA"
 }, {
     "id": 751,
     "class": 3,
@@ -11063,8 +10313,7 @@ const data = [{
     "ticketId": "349219",
     "fare": 7.8958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bulgaria Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Bulgaria Chicago, IL"
 }, {
     "id": 752,
     "class": 3,
@@ -11077,8 +10326,7 @@ const data = [{
     "ticketId": "349203",
     "fare": 7.8958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bulgaria Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Bulgaria Chicago, IL"
 }, {
     "id": 753,
     "class": 3,
@@ -11091,8 +10339,7 @@ const data = [{
     "ticketId": "A/4 48871",
     "fare": 24.15,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Bromwich, England Pontiac, MI",
-    "source": "kaggle.com"
+    "destination": "West Bromwich, England Pontiac, MI"
 }, {
     "id": 754,
     "class": 3,
@@ -11104,8 +10351,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SC/A4 23568",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 755,
     "class": 3,
@@ -11118,8 +10364,7 @@ const data = [{
     "ticketId": "A/4 48871",
     "fare": 24.15,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Bromwich, England Pontiac, MI",
-    "source": "kaggle.com"
+    "destination": "West Bromwich, England Pontiac, MI"
 }, {
     "id": 756,
     "class": 3,
@@ -11132,8 +10377,7 @@ const data = [{
     "ticketId": "A/4 48873",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Bromwich, England Pontiac, MI",
-    "source": "kaggle.com"
+    "destination": "West Bromwich, England Pontiac, MI"
 }, {
     "id": 757,
     "class": 3,
@@ -11146,8 +10390,7 @@ const data = [{
     "ticketId": "386525",
     "fare": 16.1,
     "portOfEmbarkation": "Southampton",
-    "destination": "Liverpool, England Bedford, OH",
-    "source": "kaggle.com"
+    "destination": "Liverpool, England Bedford, OH"
 }, {
     "id": 758,
     "class": 3,
@@ -11161,8 +10404,7 @@ const data = [{
     "ticketId": "386525",
     "fare": 16.1,
     "portOfEmbarkation": "Southampton",
-    "destination": "Liverpool, England Bedford, OH",
-    "source": "kaggle.com"
+    "destination": "Liverpool, England Bedford, OH"
 }, {
     "id": 759,
     "class": 3,
@@ -11176,8 +10418,7 @@ const data = [{
     "ticketId": "345572",
     "fare": 17.4,
     "portOfEmbarkation": "Southampton",
-    "destination": "Tampico, MT",
-    "source": "kaggle.com"
+    "destination": "Tampico, MT"
 }, {
     "id": 760,
     "class": 3,
@@ -11191,8 +10432,7 @@ const data = [{
     "ticketId": "345572",
     "fare": 17.4,
     "portOfEmbarkation": "Southampton",
-    "destination": "Tampico, MT",
-    "source": "kaggle.com"
+    "destination": "Tampico, MT"
 }, {
     "id": 761,
     "class": 3,
@@ -11206,8 +10446,7 @@ const data = [{
     "ticketId": "345774",
     "fare": 9.5,
     "portOfEmbarkation": "Southampton",
-    "destination": "Belgium Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Belgium Detroit, MI"
 }, {
     "id": 762,
     "class": 3,
@@ -11219,8 +10458,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345778",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 763,
     "class": 3,
@@ -11234,8 +10472,7 @@ const data = [{
     "ticketId": "C.A. 2315",
     "fare": 20.575,
     "portOfEmbarkation": "Southampton",
-    "destination": "Devon, England Wichita, KS",
-    "source": "kaggle.com"
+    "destination": "Devon, England Wichita, KS"
 }, {
     "id": 764,
     "class": 3,
@@ -11249,8 +10486,7 @@ const data = [{
     "ticketId": "C.A. 2315",
     "fare": 20.575,
     "portOfEmbarkation": "Southampton",
-    "destination": "Devon, England Wichita, KS",
-    "source": "kaggle.com"
+    "destination": "Devon, England Wichita, KS"
 }, {
     "id": 765,
     "class": 3,
@@ -11263,8 +10499,7 @@ const data = [{
     "ticketId": "C.A. 2315",
     "fare": 20.575,
     "portOfEmbarkation": "Southampton",
-    "destination": "Devon, England Wichita, KS",
-    "source": "kaggle.com"
+    "destination": "Devon, England Wichita, KS"
 }, {
     "id": 766,
     "class": 3,
@@ -11278,8 +10513,7 @@ const data = [{
     "ticketId": "C.A. 2315",
     "fare": 20.575,
     "portOfEmbarkation": "Southampton",
-    "destination": "Devon, England Wichita, KS",
-    "source": "kaggle.com"
+    "destination": "Devon, England Wichita, KS"
 }, {
     "id": 767,
     "class": 3,
@@ -11291,8 +10525,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349250",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 768,
     "class": 3,
@@ -11304,8 +10537,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349238",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 769,
     "class": 3,
@@ -11318,8 +10550,7 @@ const data = [{
     "ticketId": "349225",
     "fare": 7.8958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bulgaria Coon Rapids, IA",
-    "source": "kaggle.com"
+    "destination": "Bulgaria Coon Rapids, IA"
 }, {
     "id": 770,
     "class": 3,
@@ -11331,8 +10562,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5 21172",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 771,
     "class": 3,
@@ -11344,8 +10574,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5 21175",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 772,
     "class": 3,
@@ -11359,8 +10588,7 @@ const data = [{
     "ticketId": "330958",
     "fare": 7.8792,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Kilmacowen, Co Sligo, Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Kilmacowen, Co Sligo, Ireland New York, NY"
 }, {
     "id": 773,
     "class": 3,
@@ -11372,8 +10600,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349232",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 774,
     "class": 3,
@@ -11385,8 +10612,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315088",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 775,
     "class": 3,
@@ -11398,8 +10624,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349226",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 776,
     "class": 3,
@@ -11411,8 +10636,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2686",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 777,
     "class": 3,
@@ -11425,8 +10649,7 @@ const data = [{
     "ticketId": "370376",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ireland New York, NY"
 }, {
     "id": 778,
     "class": 3,
@@ -11440,8 +10663,7 @@ const data = [{
     "ticketId": "A/5. 10482",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "England Oglesby, IL",
-    "source": "kaggle.com"
+    "destination": "England Oglesby, IL"
 }, {
     "id": 779,
     "class": 3,
@@ -11455,8 +10677,7 @@ const data = [{
     "ticketId": "364516",
     "fare": 12.475,
     "portOfEmbarkation": "Southampton",
-    "destination": "Union Hill, NJ",
-    "source": "kaggle.com"
+    "destination": "Union Hill, NJ"
 }, {
     "id": 780,
     "class": 3,
@@ -11469,8 +10690,7 @@ const data = [{
     "ticketId": "368702",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ireland New York, NY"
 }, {
     "id": 781,
     "class": 3,
@@ -11483,8 +10703,7 @@ const data = [{
     "ticketId": "SOTON/OQ 392083",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "London New York, NY",
-    "source": "kaggle.com"
+    "destination": "London New York, NY"
 }, {
     "id": 782,
     "class": 3,
@@ -11497,8 +10716,7 @@ const data = [{
     "ticketId": "349241",
     "fare": 7.8958,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Austria Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Austria Niagara Falls, NY"
 }, {
     "id": 783,
     "class": 3,
@@ -11510,8 +10728,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "336439",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 784,
     "class": 3,
@@ -11525,8 +10742,7 @@ const data = [{
     "ticketId": "S.O./P.P. 752",
     "fare": 7.55,
     "portOfEmbarkation": "Southampton",
-    "destination": "England Albion, NY",
-    "source": "kaggle.com"
+    "destination": "England Albion, NY"
 }, {
     "id": 785,
     "class": 3,
@@ -11539,8 +10755,7 @@ const data = [{
     "ticketId": "347072",
     "fare": 13.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Haven, CT",
-    "source": "kaggle.com"
+    "destination": "West Haven, CT"
 }, {
     "id": 786,
     "class": 3,
@@ -11554,8 +10769,7 @@ const data = [{
     "ticketId": "347072",
     "fare": 13.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "West Haven, CT",
-    "source": "kaggle.com"
+    "destination": "West Haven, CT"
 }, {
     "id": 787,
     "class": 3,
@@ -11568,8 +10782,7 @@ const data = [{
     "ticketId": "349912",
     "fare": 7.775,
     "portOfEmbarkation": "Southampton",
-    "destination": "Tofta, Sweden Joliet, IL",
-    "source": "kaggle.com"
+    "destination": "Tofta, Sweden Joliet, IL"
 }, {
     "id": 788,
     "class": 3,
@@ -11582,8 +10795,7 @@ const data = [{
     "ticketId": "347074",
     "fare": 7.775,
     "portOfEmbarkation": "Southampton",
-    "destination": "Karberg, Sweden Jerome Junction, AZ",
-    "source": "kaggle.com"
+    "destination": "Karberg, Sweden Jerome Junction, AZ"
 }, {
     "id": 789,
     "class": 3,
@@ -11596,8 +10808,7 @@ const data = [{
     "ticketId": "347061",
     "fare": 6.975,
     "portOfEmbarkation": "Southampton",
-    "destination": "Effington Rut, SD",
-    "source": "kaggle.com"
+    "destination": "Effington Rut, SD"
 }, {
     "id": 790,
     "class": 3,
@@ -11609,8 +10820,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2674",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 791,
     "class": 3,
@@ -11623,8 +10833,7 @@ const data = [{
     "ticketId": "2675",
     "fare": 7.2292,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria Ottawa, ON",
-    "source": "kaggle.com"
+    "destination": "Syria Ottawa, ON"
 }, {
     "id": 792,
     "class": 3,
@@ -11636,8 +10845,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2690",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 793,
     "class": 3,
@@ -11650,8 +10858,7 @@ const data = [{
     "ticketId": "2695",
     "fare": 7.2292,
     "portOfEmbarkation": "Cherbourg",
-    "destination": "Syria",
-    "source": "kaggle.com"
+    "destination": "Syria"
 }, {
     "id": 794,
     "class": 3,
@@ -11664,8 +10871,7 @@ const data = [{
     "ticketId": "A/5 3902",
     "fare": 7.25,
     "portOfEmbarkation": "Southampton",
-    "destination": "Illinois, USA",
-    "source": "kaggle.com"
+    "destination": "Illinois, USA"
 }, {
     "id": 795,
     "class": 3,
@@ -11679,8 +10885,7 @@ const data = [{
     "ticketId": "364516",
     "fare": 12.475,
     "portOfEmbarkation": "Southampton",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 796,
     "class": 3,
@@ -11692,8 +10897,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2631",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 797,
     "class": 3,
@@ -11705,8 +10909,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C.A. 6212",
     "fare": 15.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 798,
     "class": 3,
@@ -11719,8 +10922,7 @@ const data = [{
     "ticketId": "367232",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Aughnacliff, Co Longford, Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Aughnacliff, Co Longford, Ireland New York, NY"
 }, {
     "id": 799,
     "class": 3,
@@ -11734,8 +10936,7 @@ const data = [{
     "ticketId": "SOTON/O.Q. 3101308",
     "fare": 7.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Italy Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Italy Philadelphia, PA"
 }, {
     "id": 800,
     "class": 3,
@@ -11747,8 +10948,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350036",
     "fare": 7.7958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 801,
     "class": 3,
@@ -11760,8 +10960,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364859",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 802,
     "class": 3,
@@ -11773,8 +10972,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364851",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 803,
     "class": 3,
@@ -11786,8 +10984,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "368323",
     "fare": 6.95,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 804,
     "class": 3,
@@ -11800,8 +10997,7 @@ const data = [{
     "ticketId": "330910",
     "fare": 7.8792,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Ireland Chicago, IL"
 }, {
     "id": 805,
     "class": 3,
@@ -11814,8 +11010,7 @@ const data = [{
     "ticketId": "365235",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland",
-    "source": "kaggle.com"
+    "destination": "Ireland"
 }, {
     "id": 806,
     "class": 3,
@@ -11829,8 +11024,7 @@ const data = [{
     "ticketId": "1601",
     "fare": 56.4958,
     "portOfEmbarkation": "Southampton",
-    "destination": "Hong Kong New York, NY",
-    "source": "kaggle.com"
+    "destination": "Hong Kong New York, NY"
 }, {
     "id": 807,
     "class": 3,
@@ -11843,8 +11037,7 @@ const data = [{
     "ticketId": "W./C. 6608",
     "fare": 34.375,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rotherfield, Sussex, England Essex Co, MA",
-    "source": "kaggle.com"
+    "destination": "Rotherfield, Sussex, England Essex Co, MA"
 }, {
     "id": 808,
     "class": 3,
@@ -11857,8 +11050,7 @@ const data = [{
     "ticketId": "W./C. 6608",
     "fare": 34.375,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rotherfield, Sussex, England Essex Co, MA",
-    "source": "kaggle.com"
+    "destination": "Rotherfield, Sussex, England Essex Co, MA"
 }, {
     "id": 809,
     "class": 3,
@@ -11871,8 +11063,7 @@ const data = [{
     "ticketId": "A/5 1478",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Bridgwater, Somerset, England",
-    "source": "kaggle.com"
+    "destination": "Bridgwater, Somerset, England"
 }, {
     "id": 810,
     "class": 3,
@@ -11885,8 +11076,7 @@ const data = [{
     "ticketId": "W./C. 6608",
     "fare": 34.375,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rotherfield, Sussex, England Essex Co, MA",
-    "source": "kaggle.com"
+    "destination": "Rotherfield, Sussex, England Essex Co, MA"
 }, {
     "id": 811,
     "class": 3,
@@ -11899,8 +11089,7 @@ const data = [{
     "ticketId": "W./C. 6608",
     "fare": 34.375,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rotherfield, Sussex, England Essex Co, MA",
-    "source": "kaggle.com"
+    "destination": "Rotherfield, Sussex, England Essex Co, MA"
 }, {
     "id": 812,
     "class": 3,
@@ -11913,8 +11102,7 @@ const data = [{
     "ticketId": "W./C. 6608",
     "fare": 34.375,
     "portOfEmbarkation": "Southampton",
-    "destination": "Rotherfield, Sussex, England Essex Co, MA",
-    "source": "kaggle.com"
+    "destination": "Rotherfield, Sussex, England Essex Co, MA"
 }, {
     "id": 813,
     "class": 3,
@@ -11927,8 +11115,7 @@ const data = [{
     "ticketId": "368573",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ireland New York, NY"
 }, {
     "id": 814,
     "class": 3,
@@ -11940,8 +11127,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/O.Q. 3101314",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 815,
     "class": 3,
@@ -11954,8 +11140,7 @@ const data = [{
     "ticketId": "36864",
     "fare": 7.7417,
     "portOfEmbarkation": "Queenstown",
-    "destination": "New York, NY",
-    "source": "kaggle.com"
+    "destination": "New York, NY"
 }, {
     "id": 816,
     "class": 3,
@@ -11967,8 +11152,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "358585",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 817,
     "class": 3,
@@ -11980,8 +11164,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349254",
     "fare": 7.8958,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 818,
     "class": 3,
@@ -11993,8 +11176,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "14973",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 819,
     "class": 3,
@@ -12008,8 +11190,7 @@ const data = [{
     "ticketId": "35851",
     "fare": 7.7333,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Longford, Ireland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Co Longford, Ireland New York, NY"
 }, {
     "id": 820,
     "class": 3,
@@ -12023,8 +11204,7 @@ const data = [{
     "ticketId": "335677",
     "fare": 7.75,
     "portOfEmbarkation": "Queenstown",
-    "destination": "Co Clare, Ireland Washington, DC",
-    "source": "kaggle.com"
+    "destination": "Co Clare, Ireland Washington, DC"
 }, {
     "id": 821,
     "class": 3,
@@ -12038,8 +11218,7 @@ const data = [{
     "ticketId": "363291",
     "fare": 20.525,
     "portOfEmbarkation": "Southampton",
-    "destination": "Strood, Kent, England Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Strood, Kent, England Detroit, MI"
 }, {
     "id": 822,
     "class": 3,
@@ -12052,8 +11231,7 @@ const data = [{
     "ticketId": "363291",
     "fare": 20.525,
     "portOfEmbarkation": "Southampton",
-    "destination": "Strood, Kent, England Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Strood, Kent, England Detroit, MI"
 }, {
     "id": 823,
     "class": 3,
@@ -12066,8 +11244,7 @@ const data = [{
     "ticketId": "SOTON/O.Q. 3101263",
     "fare": 7.85,
     "portOfEmbarkation": "Southampton",
-    "destination": "Philadelphia, PA",
-    "source": "kaggle.com"
+    "destination": "Philadelphia, PA"
 }, {
     "id": 824,
     "class": 3,
@@ -12081,8 +11258,7 @@ const data = [{
     "ticketId": "363291",
     "fare": 20.525,
     "portOfEmbarkation": "Southampton",
-    "destination": "Strood, Kent, England Detroit, MI",
-    "source": "kaggle.com"
+    "destination": "Strood, Kent, England Detroit, MI"
 }, {
     "id": 825,
     "class": 3,
@@ -12095,8 +11271,7 @@ const data = [{
     "ticketId": "SOTON/O.Q. 3101306",
     "fare": 7.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Portugal",
-    "source": "kaggle.com"
+    "destination": "Portugal"
 }, {
     "id": 826,
     "class": 3,
@@ -12109,8 +11284,7 @@ const data = [{
     "ticketId": "CA 2144",
     "fare": 46.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "Wiltshire, England Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Wiltshire, England Niagara Falls, NY"
 }, {
     "id": 827,
     "class": 3,
@@ -12123,8 +11297,7 @@ const data = [{
     "ticketId": "CA 2144",
     "fare": 46.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "Wiltshire, England Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Wiltshire, England Niagara Falls, NY"
 }, {
     "id": 828,
     "class": 3,
@@ -12137,8 +11310,7 @@ const data = [{
     "ticketId": "CA 2144",
     "fare": 46.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "Wiltshire, England Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Wiltshire, England Niagara Falls, NY"
 }, {
     "id": 829,
     "class": 3,
@@ -12151,8 +11323,7 @@ const data = [{
     "ticketId": "CA 2144",
     "fare": 46.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "Wiltshire, England Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Wiltshire, England Niagara Falls, NY"
 }, {
     "id": 830,
     "class": 3,
@@ -12165,8 +11336,7 @@ const data = [{
     "ticketId": "CA 2144",
     "fare": 46.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "Wiltshire, England Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Wiltshire, England Niagara Falls, NY"
 }, {
     "id": 831,
     "class": 3,
@@ -12179,8 +11349,7 @@ const data = [{
     "ticketId": "CA 2144",
     "fare": 46.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "Wiltshire, England Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Wiltshire, England Niagara Falls, NY"
 }, {
     "id": 832,
     "class": 3,
@@ -12193,8 +11362,7 @@ const data = [{
     "ticketId": "CA 2144",
     "fare": 46.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "Wiltshire, England Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Wiltshire, England Niagara Falls, NY"
 }, {
     "id": 833,
     "class": 3,
@@ -12207,8 +11375,7 @@ const data = [{
     "ticketId": "CA 2144",
     "fare": 46.9,
     "portOfEmbarkation": "Southampton",
-    "destination": "Wiltshire, England Niagara Falls, NY",
-    "source": "kaggle.com"
+    "destination": "Wiltshire, England Niagara Falls, NY"
 }, {
     "id": 834,
     "class": 3,
@@ -12221,8 +11388,7 @@ const data = [{
     "ticketId": "21440",
     "fare": 8.05,
     "portOfEmbarkation": "Southampton",
-    "destination": "Dorking, Surrey, England",
-    "source": "kaggle.com"
+    "destination": "Dorking, Surrey, England"
 }, {
     "id": 835,
     "class": 3,
@@ -12235,8 +11401,7 @@ const data = [{
     "ticketId": "8471",
     "fare": 8.3625,
     "portOfEmbarkation": "Southampton",
-    "destination": "Foresvik, Norway Portland, ND",
-    "source": "kaggle.com"
+    "destination": "Foresvik, Norway Portland, ND"
 }, {
     "id": 836,
     "class": 3,
@@ -12248,8 +11413,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "376563",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 837,
     "class": 3,
@@ -12262,8 +11426,7 @@ const data = [{
     "ticketId": "7534",
     "fare": 9.8458,
     "portOfEmbarkation": "Southampton",
-    "destination": "Waukegan, Chicago, IL",
-    "source": "kaggle.com"
+    "destination": "Waukegan, Chicago, IL"
 }, {
     "id": 838,
     "class": 3,
@@ -12276,8 +11439,7 @@ const data = [{
     "ticketId": "3101276",
     "fare": 7.925,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ruotsinphytaa, Finland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ruotsinphytaa, Finland New York, NY"
 }, {
     "id": 839,
     "class": 3,
@@ -12290,8 +11452,7 @@ const data = [{
     "ticketId": "3101277",
     "fare": 7.925,
     "portOfEmbarkation": "Southampton",
-    "destination": "Ruotsinphytaa, Finland New York, NY",
-    "source": "kaggle.com"
+    "destination": "Ruotsinphytaa, Finland New York, NY"
 }, {
     "id": 840,
     "class": 3,
@@ -12304,8 +11465,7 @@ const data = [{
     "ticketId": "347069",
     "fare": 7.775,
     "portOfEmbarkation": "Southampton",
-    "destination": "Myren, Sweden New York, NY",
-    "source": "kaggle.com"
+    "destination": "Myren, Sweden New York, NY"
 }, {
     "id": 841,
     "class": 3,
@@ -12317,8 +11477,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349236",
     "fare": 8.85,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 842,
     "class": 3,
@@ -12330,8 +11489,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "AQ/3. 30631",
     "fare": 7.7333,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 843,
     "class": 3,
@@ -12343,8 +11501,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "65303",
     "fare": 19.9667,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 844,
     "class": 3,
@@ -12356,8 +11513,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "65304",
     "fare": 19.9667,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 845,
     "class": 3,
@@ -12369,8 +11525,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O2. 3101279",
     "fare": 15.85,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 846,
     "class": 3,
@@ -12383,8 +11538,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O2. 3101279",
     "fare": 15.85,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 847,
     "class": 3,
@@ -12396,8 +11550,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345769",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 848,
     "class": 3,
@@ -12409,8 +11562,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2693",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 849,
     "class": 3,
@@ -12422,8 +11574,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350026",
     "fare": 14.1083,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 850,
     "class": 3,
@@ -12435,8 +11586,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350025",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 851,
     "class": 3,
@@ -12448,8 +11598,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350029",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 852,
     "class": 3,
@@ -12462,8 +11611,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350026",
     "fare": 14.1083,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 853,
     "class": 3,
@@ -12475,8 +11623,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "W./C. 6609",
     "fare": 7.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 854,
     "class": 3,
@@ -12488,8 +11635,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "374887",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 855,
     "class": 3,
@@ -12501,8 +11647,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "394140",
     "fare": 6.8583,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 856,
     "class": 3,
@@ -12514,8 +11659,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2699",
     "fare": 18.7875,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 857,
     "class": 3,
@@ -12528,8 +11672,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370375",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 858,
     "class": 3,
@@ -12542,8 +11685,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347089",
     "fare": 6.975,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 859,
     "class": 3,
@@ -12556,8 +11698,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "1601",
     "fare": 56.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 860,
     "class": 3,
@@ -12569,8 +11710,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "365226",
     "fare": 6.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 861,
     "class": 3,
@@ -12582,8 +11722,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O2. 3101282",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 862,
     "class": 3,
@@ -12595,8 +11734,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O2. 3101290",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 863,
     "class": 3,
@@ -12609,8 +11747,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7548",
     "fare": 8.9625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 864,
     "class": 3,
@@ -12622,8 +11759,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349243",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 865,
     "class": 3,
@@ -12635,8 +11771,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347086",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 866,
     "class": 3,
@@ -12648,8 +11783,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "382649",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 867,
     "class": 3,
@@ -12662,8 +11796,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "3101298",
     "fare": 12.2875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 868,
     "class": 3,
@@ -12676,8 +11809,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "3101298",
     "fare": 12.2875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 869,
     "class": 3,
@@ -12689,8 +11821,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C 7075",
     "fare": 6.45,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 870,
     "class": 3,
@@ -12702,8 +11833,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C 4001",
     "fare": 22.525,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 871,
     "class": 3,
@@ -12715,8 +11845,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O2. 3101283",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 872,
     "class": 3,
@@ -12728,8 +11857,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370377",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 873,
     "class": 3,
@@ -12742,8 +11870,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A. 2. 39186",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 874,
     "class": 3,
@@ -12756,8 +11883,7 @@ const data = [{
     "ticketId": "348121",
     "fare": 7.65,
     "cabin": "F G63",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 875,
     "class": 3,
@@ -12770,8 +11896,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3470",
     "fare": 7.8875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 876,
     "class": 3,
@@ -12783,8 +11908,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2685",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 877,
     "class": 3,
@@ -12796,8 +11920,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349220",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 878,
     "class": 3,
@@ -12809,8 +11932,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O2. 3101270",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 879,
     "class": 3,
@@ -12822,8 +11944,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O2. 3101271",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 880,
     "class": 3,
@@ -12835,8 +11956,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349201",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 881,
     "class": 3,
@@ -12849,8 +11969,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349240",
     "fare": 7.8958,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 882,
     "class": 3,
@@ -12863,8 +11982,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350034",
     "fare": 7.7958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 883,
     "class": 3,
@@ -12876,8 +11994,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/O.Q. 3101305",
     "fare": 7.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 884,
     "class": 3,
@@ -12889,8 +12006,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350050",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 885,
     "class": 3,
@@ -12902,8 +12018,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350047",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 886,
     "class": 3,
@@ -12915,8 +12030,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350048",
     "fare": 7.0542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 887,
     "class": 3,
@@ -12929,8 +12043,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "14313",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 888,
     "class": 3,
@@ -12943,8 +12056,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "65306",
     "fare": 8.1125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 889,
     "class": 3,
@@ -12956,8 +12068,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3101264",
     "fare": 6.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 890,
     "class": 3,
@@ -12970,8 +12081,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347070",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 891,
     "class": 3,
@@ -12983,8 +12093,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350052",
     "fare": 7.7958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 892,
     "class": 3,
@@ -12996,8 +12105,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7540",
     "fare": 8.6542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 893,
     "class": 3,
@@ -13009,8 +12117,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347063",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 894,
     "class": 3,
@@ -13022,8 +12129,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347467",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 895,
     "class": 3,
@@ -13036,8 +12142,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "347742",
     "fare": 11.1333,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 896,
     "class": 3,
@@ -13050,8 +12155,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "347742",
     "fare": 11.1333,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 897,
     "class": 3,
@@ -13063,8 +12167,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "LINE",
     "fare": 0.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 898,
     "class": 3,
@@ -13076,8 +12179,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347062",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 899,
     "class": 3,
@@ -13089,8 +12191,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "LINE",
     "fare": 0.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 900,
     "class": 3,
@@ -13103,8 +12204,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "347742",
     "fare": 11.1333,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 901,
     "class": 3,
@@ -13116,8 +12216,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "W./C. 6607",
     "fare": 23.45,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 902,
     "class": 3,
@@ -13129,8 +12228,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "W./C. 6607",
     "fare": 23.45,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 903,
     "class": 3,
@@ -13142,8 +12240,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "W./C. 6607",
     "fare": 23.45,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 904,
     "class": 3,
@@ -13155,8 +12252,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "W./C. 6607",
     "fare": 23.45,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 905,
     "class": 3,
@@ -13168,8 +12264,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349204",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 906,
     "class": 3,
@@ -13182,8 +12277,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350417",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 907,
     "class": 3,
@@ -13195,8 +12289,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350408",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 908,
     "class": 3,
@@ -13208,8 +12301,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "4136",
     "fare": 9.825,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 909,
     "class": 3,
@@ -13221,8 +12313,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "4137",
     "fare": 9.825,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 910,
     "class": 3,
@@ -13235,8 +12326,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101286",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 911,
     "class": 3,
@@ -13248,8 +12338,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101274",
     "fare": 7.125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 912,
     "class": 3,
@@ -13261,8 +12350,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "8475",
     "fare": 8.4333,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 913,
     "class": 3,
@@ -13274,8 +12362,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349246",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 914,
     "class": 3,
@@ -13288,8 +12375,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350053",
     "fare": 7.7958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 915,
     "class": 3,
@@ -13301,8 +12387,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347465",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 916,
     "class": 3,
@@ -13314,8 +12399,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350060",
     "fare": 7.5208,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 917,
     "class": 3,
@@ -13328,8 +12412,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "349256",
     "fare": 13.4167,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 918,
     "class": 3,
@@ -13342,8 +12425,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "349256",
     "fare": 13.4167,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 919,
     "class": 3,
@@ -13355,8 +12437,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2700",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 920,
     "class": 3,
@@ -13368,8 +12449,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2682",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 921,
     "class": 3,
@@ -13381,8 +12461,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "12460",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 922,
     "class": 3,
@@ -13394,8 +12473,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "323592",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 923,
     "class": 3,
@@ -13408,8 +12486,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "9234",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 924,
     "class": 3,
@@ -13422,8 +12499,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "14312",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 925,
     "class": 3,
@@ -13435,8 +12511,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330911",
     "fare": 7.8292,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 926,
     "class": 3,
@@ -13448,8 +12523,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "363592",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 927,
     "class": 3,
@@ -13461,8 +12535,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "368783",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 928,
     "class": 3,
@@ -13474,8 +12547,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2660",
     "fare": 14.4542,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 929,
     "class": 3,
@@ -13487,8 +12559,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2660",
     "fare": 14.4542,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 930,
     "class": 3,
@@ -13500,8 +12571,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367227",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 931,
     "class": 3,
@@ -13513,8 +12583,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367229",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 932,
     "class": 3,
@@ -13526,8 +12595,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "36865",
     "fare": 7.7375,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 933,
     "class": 3,
@@ -13539,8 +12607,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315152",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 934,
     "class": 3,
@@ -13552,8 +12619,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315151",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 935,
     "class": 3,
@@ -13566,8 +12632,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "315153",
     "fare": 22.025,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 936,
     "class": 3,
@@ -13580,8 +12645,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "315153",
     "fare": 22.025,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 937,
     "class": 3,
@@ -13594,8 +12658,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "315153",
     "fare": 22.025,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 938,
     "class": 3,
@@ -13607,8 +12670,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "350405",
     "fare": 12.1833,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 939,
     "class": 3,
@@ -13620,8 +12682,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "350404",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 940,
     "class": 3,
@@ -13633,8 +12694,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "350405",
     "fare": 12.1833,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 941,
     "class": 3,
@@ -13646,8 +12706,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349253",
     "fare": 7.8958,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 942,
     "class": 3,
@@ -13661,8 +12720,7 @@ const data = [{
     "ticketId": "2654",
     "fare": 7.2292,
     "cabin": "F E57",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 943,
     "class": 3,
@@ -13674,8 +12732,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2624",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 944,
     "class": 3,
@@ -13687,8 +12744,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "4135",
     "fare": 9.5875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 945,
     "class": 3,
@@ -13700,8 +12756,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349217",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 946,
     "class": 3,
@@ -13714,8 +12769,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "1601",
     "fare": 56.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 947,
     "class": 3,
@@ -13727,8 +12781,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "1601",
     "fare": 56.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 948,
     "class": 3,
@@ -13741,8 +12794,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C 7077",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 949,
     "class": 3,
@@ -13754,8 +12806,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7935",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 950,
     "class": 3,
@@ -13768,8 +12819,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "1601",
     "fare": 56.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 951,
     "class": 3,
@@ -13781,8 +12831,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7545",
     "fare": 9.4833,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 952,
     "class": 3,
@@ -13794,8 +12843,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347067",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 953,
     "class": 3,
@@ -13807,8 +12855,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347065",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 954,
     "class": 3,
@@ -13821,8 +12868,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2620",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 955,
     "class": 3,
@@ -13834,8 +12880,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "4133",
     "fare": 25.4667,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 956,
     "class": 3,
@@ -13847,8 +12892,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "4133",
     "fare": 25.4667,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 957,
     "class": 3,
@@ -13860,8 +12904,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "4133",
     "fare": 25.4667,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 958,
     "class": 3,
@@ -13873,8 +12916,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "4133",
     "fare": 25.4667,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 959,
     "class": 3,
@@ -13886,8 +12928,7 @@ const data = [{
     "parentsOrChildren": 4,
     "ticketId": "4133",
     "fare": 25.4667,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 960,
     "class": 3,
@@ -13899,8 +12940,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101292",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 961,
     "class": 3,
@@ -13912,8 +12952,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2683",
     "fare": 6.4375,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 962,
     "class": 3,
@@ -13925,8 +12964,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370371",
     "fare": 15.5,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 963,
     "class": 3,
@@ -13938,8 +12976,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370371",
     "fare": 15.5,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 964,
     "class": 3,
@@ -13951,8 +12988,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "LINE",
     "fare": 0.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 965,
     "class": 3,
@@ -13964,8 +13000,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/4 48871",
     "fare": 24.15,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 966,
     "class": 3,
@@ -13977,8 +13012,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345781",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 967,
     "class": 3,
@@ -13990,8 +13024,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347071",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 968,
     "class": 3,
@@ -14003,8 +13036,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347073",
     "fare": 7.75,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 969,
     "class": 3,
@@ -14016,8 +13048,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349910",
     "fare": 15.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 970,
     "class": 3,
@@ -14029,8 +13060,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349910",
     "fare": 15.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 971,
     "class": 3,
@@ -14043,8 +13073,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101285",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 972,
     "class": 3,
@@ -14056,8 +13085,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330971",
     "fare": 7.8792,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 973,
     "class": 3,
@@ -14069,8 +13097,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "1601",
     "fare": 56.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 974,
     "class": 3,
@@ -14082,8 +13109,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "S.O./P.P. 251",
     "fare": 7.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 975,
     "class": 3,
@@ -14095,8 +13121,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5. 3336",
     "fare": 16.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 976,
     "class": 3,
@@ -14108,8 +13133,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5. 3336",
     "fare": 16.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 977,
     "class": 3,
@@ -14121,8 +13145,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "1222",
     "fare": 7.8792,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 978,
     "class": 3,
@@ -14134,8 +13157,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5 21173",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 979,
     "class": 3,
@@ -14148,8 +13170,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315098",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 980,
     "class": 3,
@@ -14161,8 +13182,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347743",
     "fare": 7.0542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 981,
     "class": 3,
@@ -14175,8 +13195,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347469",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 982,
     "class": 3,
@@ -14189,8 +13208,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350403",
     "fare": 7.5792,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 983,
     "class": 3,
@@ -14202,8 +13220,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349235",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 984,
     "class": 3,
@@ -14215,8 +13232,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C.A. 42795",
     "fare": 7.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 985,
     "class": 3,
@@ -14229,8 +13245,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370370",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 986,
     "class": 3,
@@ -14243,8 +13258,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C 17369",
     "fare": 7.1417,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 987,
     "class": 3,
@@ -14256,8 +13270,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101275",
     "fare": 7.125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 988,
     "class": 3,
@@ -14269,8 +13282,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330924",
     "fare": 7.8792,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 989,
     "class": 3,
@@ -14282,8 +13294,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "AQ/4 3130",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 990,
     "class": 3,
@@ -14295,8 +13306,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/S 2816",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 991,
     "class": 3,
@@ -14308,8 +13318,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101268",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 992,
     "class": 3,
@@ -14322,8 +13331,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2677",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 993,
     "class": 3,
@@ -14335,8 +13343,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364850",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 994,
     "class": 3,
@@ -14349,8 +13356,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "36866",
     "fare": 7.7375,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 995,
     "class": 3,
@@ -14363,8 +13369,7 @@ const data = [{
     "ticketId": "2655",
     "fare": 7.2292,
     "cabin": "F E46",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 996,
     "class": 3,
@@ -14376,8 +13381,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349213",
     "fare": 7.8958,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 997,
     "class": 3,
@@ -14389,8 +13393,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349257",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 998,
     "class": 3,
@@ -14403,8 +13406,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2649",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 999,
     "class": 3,
@@ -14416,8 +13418,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349255",
     "fare": 7.8958,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1000,
     "class": 3,
@@ -14430,8 +13431,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "383123",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1001,
     "class": 3,
@@ -14443,8 +13443,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367228",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1002,
     "class": 3,
@@ -14457,8 +13456,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367226",
     "fare": 23.25,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1003,
     "class": 3,
@@ -14471,8 +13469,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367226",
     "fare": 23.25,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1004,
     "class": 3,
@@ -14485,8 +13482,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367226",
     "fare": 23.25,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1005,
     "class": 3,
@@ -14499,8 +13495,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330932",
     "fare": 7.7875,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1006,
     "class": 3,
@@ -14512,8 +13507,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "36568",
     "fare": 15.5,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1007,
     "class": 3,
@@ -14526,8 +13520,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330931",
     "fare": 7.8792,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1008,
     "class": 3,
@@ -14539,8 +13532,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330923",
     "fare": 8.0292,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1009,
     "class": 3,
@@ -14552,8 +13544,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "9232",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1010,
     "class": 3,
@@ -14565,8 +13556,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370372",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1011,
     "class": 3,
@@ -14578,8 +13568,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "376566",
     "fare": 16.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1012,
     "class": 3,
@@ -14591,8 +13580,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "376566",
     "fare": 16.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1013,
     "class": 3,
@@ -14604,8 +13592,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370368",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1014,
     "class": 3,
@@ -14617,8 +13604,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/O.Q. 392087",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1015,
     "class": 3,
@@ -14630,8 +13616,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "343095",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1016,
     "class": 3,
@@ -14643,8 +13628,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A.5. 11206",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1017,
     "class": 3,
@@ -14656,8 +13640,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "368703",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1018,
     "class": 3,
@@ -14670,8 +13653,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345501",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1019,
     "class": 3,
@@ -14683,8 +13665,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "359306",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1020,
     "class": 3,
@@ -14696,8 +13677,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349233",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1021,
     "class": 3,
@@ -14709,8 +13689,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349211",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1022,
     "class": 3,
@@ -14722,8 +13701,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349207",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1023,
     "class": 3,
@@ -14735,8 +13713,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349221",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1024,
     "class": 3,
@@ -14749,8 +13726,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330980",
     "fare": 7.8792,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1025,
     "class": 3,
@@ -14763,8 +13739,7 @@ const data = [{
     "ticketId": "348123",
     "fare": 7.65,
     "cabin": "F G73",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1026,
     "class": 3,
@@ -14778,8 +13753,7 @@ const data = [{
     "ticketId": "392096",
     "fare": 12.475,
     "cabin": "E121",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1027,
     "class": 3,
@@ -14793,8 +13767,7 @@ const data = [{
     "ticketId": "392096",
     "fare": 12.475,
     "cabin": "E121",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1028,
     "class": 3,
@@ -14806,8 +13779,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A4. 54510",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1029,
     "class": 3,
@@ -14820,8 +13792,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "371110",
     "fare": 24.15,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1030,
     "class": 3,
@@ -14833,8 +13804,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "371110",
     "fare": 24.15,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1031,
     "class": 3,
@@ -14846,8 +13816,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330877",
     "fare": 8.4583,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1032,
     "class": 3,
@@ -14859,8 +13828,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364506",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1033,
     "class": 3,
@@ -14872,8 +13840,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "372622",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1034,
     "class": 3,
@@ -14886,8 +13853,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "312991",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1035,
     "class": 3,
@@ -14900,8 +13866,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2661",
     "fare": 15.2458,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1036,
     "class": 3,
@@ -14914,8 +13879,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2661",
     "fare": 15.2458,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1037,
     "class": 3,
@@ -14928,8 +13892,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "2661",
     "fare": 15.2458,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1038,
     "class": 3,
@@ -14941,8 +13904,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2626",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1039,
     "class": 3,
@@ -14954,8 +13916,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "374746",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1040,
     "class": 3,
@@ -14968,8 +13929,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "35852",
     "fare": 7.7333,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1041,
     "class": 3,
@@ -14982,8 +13942,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "382653",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1042,
     "class": 3,
@@ -14995,8 +13954,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A./5. 3235",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1043,
     "class": 3,
@@ -15009,8 +13967,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367230",
     "fare": 15.5,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1044,
     "class": 3,
@@ -15023,8 +13980,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367230",
     "fare": 15.5,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1045,
     "class": 3,
@@ -15037,8 +13993,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "36568",
     "fare": 15.5,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1046,
     "class": 3,
@@ -15050,8 +14005,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347078",
     "fare": 7.75,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1047,
     "class": 3,
@@ -15063,8 +14017,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349206",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1048,
     "class": 3,
@@ -15077,8 +14030,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2667",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1049,
     "class": 3,
@@ -15091,8 +14043,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "2653",
     "fare": 15.7417,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1050,
     "class": 3,
@@ -15105,8 +14056,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2653",
     "fare": 15.7417,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1051,
     "class": 3,
@@ -15119,8 +14069,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2653",
     "fare": 15.7417,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1052,
     "class": 3,
@@ -15132,8 +14081,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A./5. 3338",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1053,
     "class": 3,
@@ -15145,8 +14093,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349218",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1054,
     "class": 3,
@@ -15158,8 +14105,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2652",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1055,
     "class": 3,
@@ -15171,8 +14117,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "365237",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1056,
     "class": 3,
@@ -15184,8 +14129,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349234",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1057,
     "class": 3,
@@ -15198,8 +14142,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2651",
     "fare": 11.2417,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1058,
     "class": 3,
@@ -15212,8 +14155,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2651",
     "fare": 11.2417,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1059,
     "class": 3,
@@ -15225,8 +14167,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3101297",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1060,
     "class": 3,
@@ -15238,8 +14179,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "363611",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1061,
     "class": 3,
@@ -15252,8 +14192,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347066",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1062,
     "class": 3,
@@ -15266,8 +14205,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347470",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1063,
     "class": 3,
@@ -15279,8 +14217,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350410",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1064,
     "class": 3,
@@ -15293,8 +14230,7 @@ const data = [{
     "ticketId": "SOTON/O2 3101272",
     "fare": 7.125,
     "portOfEmbarkation": "Southampton",
-    "destination": "Finland Sudbury, ON",
-    "source": "kaggle.com"
+    "destination": "Finland Sudbury, ON"
 }, {
     "id": 1065,
     "class": 3,
@@ -15307,8 +14243,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101289",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1066,
     "class": 3,
@@ -15320,8 +14255,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/4. 39886",
     "fare": 7.8,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1067,
     "class": 3,
@@ -15333,8 +14267,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2697",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1068,
     "class": 3,
@@ -15347,8 +14280,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347081",
     "fare": 7.75,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1069,
     "class": 3,
@@ -15360,8 +14292,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345364",
     "fare": 6.2375,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1070,
     "class": 3,
@@ -15373,8 +14304,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370365",
     "fare": 15.5,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1071,
     "class": 3,
@@ -15386,8 +14316,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330979",
     "fare": 7.8292,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1072,
     "class": 3,
@@ -15399,8 +14328,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370365",
     "fare": 15.5,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1073,
     "class": 3,
@@ -15412,8 +14340,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "334912",
     "fare": 7.7333,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1074,
     "class": 3,
@@ -15425,8 +14352,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "371060",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1075,
     "class": 3,
@@ -15438,8 +14364,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "366713",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1076,
     "class": 3,
@@ -15451,8 +14376,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7267",
     "fare": 9.225,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1077,
     "class": 3,
@@ -15464,8 +14388,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364856",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1078,
     "class": 3,
@@ -15478,8 +14401,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "14311",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1079,
     "class": 3,
@@ -15491,8 +14413,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330959",
     "fare": 7.8792,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1080,
     "class": 3,
@@ -15505,8 +14426,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347085",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1081,
     "class": 3,
@@ -15519,8 +14439,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "368402",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1082,
     "class": 3,
@@ -15533,8 +14452,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330919",
     "fare": 7.8292,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1083,
     "class": 3,
@@ -15547,8 +14465,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "C 17368",
     "fare": 3.1708,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1084,
     "class": 3,
@@ -15560,8 +14477,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C 4001",
     "fare": 22.525,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1085,
     "class": 3,
@@ -15573,8 +14489,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "4579",
     "fare": 8.4042,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1086,
     "class": 3,
@@ -15586,8 +14501,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "Fa 265302",
     "fare": 7.3125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1087,
     "class": 3,
@@ -15599,8 +14513,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350407",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1088,
     "class": 3,
@@ -15612,8 +14525,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347464",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1089,
     "class": 3,
@@ -15626,8 +14538,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347079",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1090,
     "class": 3,
@@ -15640,8 +14551,7 @@ const data = [{
     "ticketId": "6563",
     "fare": 9.225,
     "portOfEmbarkation": "Southampton",
-    "destination": "Oslo, Norway Cameron, WI",
-    "source": "kaggle.com"
+    "destination": "Oslo, Norway Cameron, WI"
 }, {
     "id": 1091,
     "class": 3,
@@ -15653,8 +14563,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315085",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1092,
     "class": 3,
@@ -15666,8 +14575,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315096",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1093,
     "class": 3,
@@ -15679,8 +14587,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315094",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1094,
     "class": 3,
@@ -15692,8 +14599,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7534",
     "fare": 9.2167,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1095,
     "class": 3,
@@ -15705,8 +14611,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349244",
     "fare": 8.6833,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1096,
     "class": 3,
@@ -15718,8 +14623,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330909",
     "fare": 7.6292,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1097,
     "class": 3,
@@ -15731,8 +14635,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "349909",
     "fare": 21.075,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1098,
     "class": 3,
@@ -15744,8 +14647,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "349909",
     "fare": 21.075,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1099,
     "class": 3,
@@ -15757,8 +14659,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "349909",
     "fare": 21.075,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1100,
     "class": 3,
@@ -15770,8 +14671,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "349909",
     "fare": 21.075,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1101,
     "class": 3,
@@ -15783,8 +14683,7 @@ const data = [{
     "parentsOrChildren": 4,
     "ticketId": "349909",
     "fare": 21.075,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1102,
     "class": 3,
@@ -15796,8 +14695,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "3101295",
     "fare": 39.6875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1103,
     "class": 3,
@@ -15809,8 +14707,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "3101295",
     "fare": 39.6875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1104,
     "class": 3,
@@ -15822,8 +14719,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "3101295",
     "fare": 39.6875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1105,
     "class": 3,
@@ -15835,8 +14731,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "3101295",
     "fare": 39.6875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1106,
     "class": 3,
@@ -15848,8 +14743,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "3101295",
     "fare": 39.6875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1107,
     "class": 3,
@@ -15861,8 +14755,7 @@ const data = [{
     "parentsOrChildren": 5,
     "ticketId": "3101295",
     "fare": 39.6875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1108,
     "class": 3,
@@ -15874,8 +14767,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315097",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1109,
     "class": 3,
@@ -15887,8 +14779,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "358585",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1110,
     "class": 3,
@@ -15900,8 +14791,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3411",
     "fare": 8.7125,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1111,
     "class": 3,
@@ -15913,8 +14803,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349242",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1112,
     "class": 3,
@@ -15926,8 +14815,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "SOTON/O.Q. 3101315",
     "fare": 13.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1113,
     "class": 3,
@@ -15939,8 +14827,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "SOTON/O.Q. 3101315",
     "fare": 13.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1114,
     "class": 3,
@@ -15952,8 +14839,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "SOTON/O.Q. 3101315",
     "fare": 13.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1115,
     "class": 3,
@@ -15965,8 +14851,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "343271",
     "fare": 7.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1116,
     "class": 3,
@@ -15978,8 +14863,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345498",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1117,
     "class": 3,
@@ -15991,8 +14875,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5 2817",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1118,
     "class": 3,
@@ -16004,8 +14887,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101294",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1119,
     "class": 3,
@@ -16017,8 +14899,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101291",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1120,
     "class": 3,
@@ -16030,8 +14911,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5 21174",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1121,
     "class": 3,
@@ -16044,8 +14924,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347083",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1122,
     "class": 3,
@@ -16058,8 +14937,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2668",
     "fare": 22.3583,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1123,
     "class": 3,
@@ -16073,8 +14951,7 @@ const data = [{
     "ticketId": "2668",
     "fare": 22.3583,
     "cabin": "F E69",
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1124,
     "class": 3,
@@ -16087,8 +14964,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "2668",
     "fare": 22.3583,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1125,
     "class": 3,
@@ -16100,8 +14976,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330935",
     "fare": 8.1375,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1126,
     "class": 3,
@@ -16113,8 +14988,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "342441",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1127,
     "class": 3,
@@ -16126,8 +15000,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349245",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1128,
     "class": 3,
@@ -16139,8 +15012,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349212",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1129,
     "class": 3,
@@ -16152,8 +15024,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349215",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1130,
     "class": 3,
@@ -16165,8 +15036,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347076",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1131,
     "class": 3,
@@ -16178,8 +15048,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347087",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1132,
     "class": 3,
@@ -16193,8 +15062,7 @@ const data = [{
     "ticketId": "SOTON/O.Q. 392078",
     "fare": 8.05,
     "cabin": "E10",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1133,
     "class": 3,
@@ -16206,8 +15074,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349227",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1134,
     "class": 3,
@@ -16219,8 +15086,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315095",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1135,
     "class": 3,
@@ -16232,8 +15098,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315092",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1136,
     "class": 3,
@@ -16245,8 +15110,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349223",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1137,
     "class": 3,
@@ -16258,8 +15122,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "65305",
     "fare": 8.1125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1138,
     "class": 3,
@@ -16271,8 +15134,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2629",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1139,
     "class": 3,
@@ -16284,8 +15146,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "362316",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1140,
     "class": 3,
@@ -16297,8 +15158,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349249",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1141,
     "class": 3,
@@ -16310,8 +15170,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "342684",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1142,
     "class": 3,
@@ -16323,8 +15182,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "382652",
     "fare": 29.125,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1143,
     "class": 3,
@@ -16336,8 +15194,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "382652",
     "fare": 29.125,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1144,
     "class": 3,
@@ -16349,8 +15206,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "382652",
     "fare": 29.125,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1145,
     "class": 3,
@@ -16362,8 +15218,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "382652",
     "fare": 29.125,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1146,
     "class": 3,
@@ -16375,8 +15230,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "382652",
     "fare": 29.125,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1147,
     "class": 3,
@@ -16388,8 +15242,7 @@ const data = [{
     "parentsOrChildren": 5,
     "ticketId": "382652",
     "fare": 29.125,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1148,
     "class": 3,
@@ -16401,8 +15254,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3101295",
     "fare": 39.6875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1149,
     "class": 3,
@@ -16414,8 +15266,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101273",
     "fare": 7.125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1150,
     "class": 3,
@@ -16428,8 +15279,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "334915",
     "fare": 7.7208,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1151,
     "class": 3,
@@ -16441,8 +15291,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364498",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1152,
     "class": 3,
@@ -16454,8 +15303,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364498",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1153,
     "class": 3,
@@ -16467,8 +15315,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5. 3337",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1154,
     "class": 3,
@@ -16480,8 +15327,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5. 3337",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1155,
     "class": 3,
@@ -16493,8 +15339,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "S.C./A.4. 23567",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1156,
     "class": 3,
@@ -16506,8 +15351,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "312993",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1157,
     "class": 3,
@@ -16519,8 +15363,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "370129",
     "fare": 20.2125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1158,
     "class": 3,
@@ -16532,8 +15375,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "370129",
     "fare": 20.2125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1159,
     "class": 3,
@@ -16545,8 +15387,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "370129",
     "fare": 20.2125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1160,
     "class": 3,
@@ -16559,8 +15400,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "342712",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1161,
     "class": 3,
@@ -16572,8 +15412,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5 3594",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1162,
     "class": 3,
@@ -16585,8 +15424,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/4. 20589",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1163,
     "class": 3,
@@ -16599,8 +15437,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "383162",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1164,
     "class": 3,
@@ -16612,8 +15449,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "371110",
     "fare": 24.15,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1165,
     "class": 3,
@@ -16625,8 +15461,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2671",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1166,
     "class": 3,
@@ -16638,8 +15473,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2672",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1167,
     "class": 3,
@@ -16651,8 +15485,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2676",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1168,
     "class": 3,
@@ -16664,8 +15497,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "367655",
     "fare": 7.7292,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1169,
     "class": 3,
@@ -16677,8 +15509,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "LP 1588",
     "fare": 7.575,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1170,
     "class": 3,
@@ -16690,8 +15521,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/O.Q. 3101262",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1171,
     "class": 3,
@@ -16703,8 +15533,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1172,
     "class": 3,
@@ -16716,8 +15545,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1173,
     "class": 3,
@@ -16729,8 +15557,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1174,
     "class": 3,
@@ -16742,8 +15569,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1175,
     "class": 3,
@@ -16755,8 +15581,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1176,
     "class": 3,
@@ -16768,8 +15593,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1177,
     "class": 3,
@@ -16781,8 +15605,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1178,
     "class": 3,
@@ -16794,8 +15617,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1179,
     "class": 3,
@@ -16807,8 +15629,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1180,
     "class": 3,
@@ -16820,8 +15641,7 @@ const data = [{
     "parentsOrChildren": 9,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1181,
     "class": 3,
@@ -16833,8 +15653,7 @@ const data = [{
     "parentsOrChildren": 9,
     "ticketId": "CA. 2343",
     "fare": 69.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1182,
     "class": 3,
@@ -16846,8 +15665,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7266",
     "fare": 9.325,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1183,
     "class": 3,
@@ -16860,8 +15678,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "343120",
     "fare": 7.65,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1184,
     "class": 3,
@@ -16873,8 +15690,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3101296",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1185,
     "class": 3,
@@ -16886,8 +15702,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2662",
     "fare": 21.6792,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1186,
     "class": 3,
@@ -16899,8 +15714,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2662",
     "fare": 21.6792,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1187,
     "class": 3,
@@ -16912,8 +15726,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2662",
     "fare": 21.6792,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1188,
     "class": 3,
@@ -16927,8 +15740,7 @@ const data = [{
     "ticketId": "PP 9549",
     "fare": 16.7,
     "cabin": "G6",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1189,
     "class": 3,
@@ -16942,8 +15754,7 @@ const data = [{
     "ticketId": "PP 9549",
     "fare": 16.7,
     "cabin": "G6",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1190,
     "class": 3,
@@ -16957,8 +15768,7 @@ const data = [{
     "ticketId": "PP 9549",
     "fare": 16.7,
     "cabin": "G6",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1191,
     "class": 3,
@@ -16971,8 +15781,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345768",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1192,
     "class": 3,
@@ -16984,8 +15793,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5. 2151",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1193,
     "class": 3,
@@ -16997,8 +15805,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "342826",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1194,
     "class": 3,
@@ -17010,8 +15817,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "36209",
     "fare": 7.725,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1195,
     "class": 3,
@@ -17023,8 +15829,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349222",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1196,
     "class": 3,
@@ -17036,8 +15841,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "370374",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1197,
     "class": 3,
@@ -17050,8 +15854,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345779",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1198,
     "class": 3,
@@ -17063,8 +15866,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C.A. 6212",
     "fare": 15.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1199,
     "class": 3,
@@ -17076,8 +15878,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "330968",
     "fare": 7.7792,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1200,
     "class": 3,
@@ -17089,8 +15890,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "374910",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1201,
     "class": 3,
@@ -17102,8 +15902,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/OQ 392082",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1202,
     "class": 3,
@@ -17115,8 +15914,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2669",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1203,
     "class": 3,
@@ -17128,8 +15926,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "392092",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1204,
     "class": 3,
@@ -17141,8 +15938,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349251",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1205,
     "class": 3,
@@ -17154,8 +15950,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101280",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1206,
     "class": 3,
@@ -17168,8 +15963,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3101265",
     "fare": 7.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1207,
     "class": 3,
@@ -17181,8 +15975,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "347088",
     "fare": 27.9,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1208,
     "class": 3,
@@ -17194,8 +15987,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "347088",
     "fare": 27.9,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1209,
     "class": 3,
@@ -17207,8 +15999,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "347088",
     "fare": 27.9,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1210,
     "class": 3,
@@ -17220,8 +16011,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "347088",
     "fare": 27.9,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1211,
     "class": 3,
@@ -17233,8 +16023,7 @@ const data = [{
     "parentsOrChildren": 4,
     "ticketId": "347088",
     "fare": 27.9,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1212,
     "class": 3,
@@ -17246,8 +16035,7 @@ const data = [{
     "parentsOrChildren": 4,
     "ticketId": "347088",
     "fare": 27.9,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1213,
     "class": 3,
@@ -17259,8 +16047,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349214",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1214,
     "class": 3,
@@ -17272,8 +16059,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/OQ 392086",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1215,
     "class": 3,
@@ -17285,8 +16071,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315037",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1216,
     "class": 3,
@@ -17298,8 +16083,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "384461",
     "fare": 7.75,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1217,
     "class": 3,
@@ -17312,8 +16096,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "335432",
     "fare": 7.7333,
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1218,
     "class": 3,
@@ -17326,8 +16109,7 @@ const data = [{
     "ticketId": "348124",
     "fare": 7.65,
     "cabin": "F G73",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1219,
     "class": 3,
@@ -17339,8 +16121,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A.5. 18509",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1220,
     "class": 3,
@@ -17352,8 +16133,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A.5. 3236",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1221,
     "class": 3,
@@ -17365,8 +16145,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/OQ. 369943",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1222,
     "class": 3,
@@ -17378,8 +16157,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349208",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1223,
     "class": 3,
@@ -17391,8 +16169,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349239",
     "fare": 8.6625,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1224,
     "class": 3,
@@ -17405,8 +16182,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "CA. 2314",
     "fare": 7.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1225,
     "class": 3,
@@ -17418,8 +16194,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/4 45380",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1226,
     "class": 3,
@@ -17431,8 +16206,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3701",
     "fare": 0.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1227,
     "class": 3,
@@ -17444,8 +16218,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349205",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1228,
     "class": 3,
@@ -17457,8 +16230,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7553",
     "fare": 9.8375,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1229,
     "class": 3,
@@ -17471,8 +16243,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101288",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1230,
     "class": 3,
@@ -17484,8 +16255,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315083",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1231,
     "class": 3,
@@ -17498,8 +16268,7 @@ const data = [{
     "ticketId": "347054",
     "fare": 10.4625,
     "cabin": "G6",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1232,
     "class": 3,
@@ -17512,8 +16281,7 @@ const data = [{
     "ticketId": "347054",
     "fare": 10.4625,
     "cabin": "G6",
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1233,
     "class": 3,
@@ -17526,8 +16294,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/OQ 392089",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1234,
     "class": 3,
@@ -17540,8 +16307,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101269",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1235,
     "class": 3,
@@ -17553,8 +16319,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/OQ 392076",
     "fare": 7.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1236,
     "class": 3,
@@ -17566,8 +16331,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347060",
     "fare": 7.775,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1237,
     "class": 3,
@@ -17580,8 +16344,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "7538",
     "fare": 9.225,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1238,
     "class": 3,
@@ -17593,8 +16356,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350035",
     "fare": 7.7958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1239,
     "class": 3,
@@ -17607,8 +16369,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350033",
     "fare": 7.7958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1240,
     "class": 3,
@@ -17620,8 +16381,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "363294",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1241,
     "class": 3,
@@ -17634,8 +16394,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2625",
     "fare": 8.5167,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1242,
     "class": 3,
@@ -17647,8 +16406,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2621",
     "fare": 6.4375,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1243,
     "class": 3,
@@ -17660,8 +16418,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2681",
     "fare": 6.4375,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1244,
     "class": 3,
@@ -17673,8 +16430,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2684",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1245,
     "class": 3,
@@ -17687,8 +16443,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2625",
     "fare": 8.5167,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1246,
     "class": 3,
@@ -17700,8 +16455,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "32302",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1247,
     "class": 3,
@@ -17713,8 +16467,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "376564",
     "fare": 16.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1248,
     "class": 3,
@@ -17727,8 +16480,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "376564",
     "fare": 16.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1249,
     "class": 3,
@@ -17740,8 +16492,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "STON/O 2. 3101293",
     "fare": 7.925,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1250,
     "class": 3,
@@ -17754,8 +16505,7 @@ const data = [{
     "ticketId": "383121",
     "fare": 7.75,
     "cabin": "F38",
-    "portOfEmbarkation": "Queenstown",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Queenstown"
 }, {
     "id": 1251,
     "class": 3,
@@ -17767,8 +16517,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349216",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1252,
     "class": 3,
@@ -17780,8 +16529,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364499",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1253,
     "class": 3,
@@ -17793,8 +16541,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "364511",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1254,
     "class": 3,
@@ -17806,8 +16553,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2673",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1255,
     "class": 3,
@@ -17820,8 +16566,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "LINE",
     "fare": 0.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1256,
     "class": 3,
@@ -17833,8 +16578,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2641",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1257,
     "class": 3,
@@ -17847,8 +16591,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2650",
     "fare": 15.2458,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1258,
     "class": 3,
@@ -17861,8 +16604,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "2650",
     "fare": 15.2458,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1259,
     "class": 3,
@@ -17875,8 +16617,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "2650",
     "fare": 15.2458,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1260,
     "class": 3,
@@ -17888,8 +16629,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349247",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1261,
     "class": 3,
@@ -17902,8 +16642,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "4138",
     "fare": 9.8417,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1262,
     "class": 3,
@@ -17916,8 +16655,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "4134",
     "fare": 9.5875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1263,
     "class": 3,
@@ -17929,8 +16667,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "A/5. 851",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1264,
     "class": 3,
@@ -17942,8 +16679,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "A/5. 851",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1265,
     "class": 3,
@@ -17955,8 +16691,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "A/5. 851",
     "fare": 14.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1266,
     "class": 3,
@@ -17968,8 +16703,7 @@ const data = [{
     "parentsOrChildren": 2,
     "ticketId": "345773",
     "fare": 24.15,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1267,
     "class": 3,
@@ -17981,8 +16715,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "345773",
     "fare": 24.15,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1268,
     "class": 3,
@@ -17994,8 +16727,7 @@ const data = [{
     "parentsOrChildren": 1,
     "ticketId": "345773",
     "fare": 24.15,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1269,
     "class": 3,
@@ -18007,8 +16739,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345777",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1270,
     "class": 3,
@@ -18020,8 +16751,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345780",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1271,
     "class": 3,
@@ -18033,8 +16763,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345770",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1272,
     "class": 3,
@@ -18046,8 +16775,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345783",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1273,
     "class": 3,
@@ -18059,8 +16787,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345765",
     "fare": 9.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1274,
     "class": 3,
@@ -18072,8 +16799,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345764",
     "fare": 18.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1275,
     "class": 3,
@@ -18085,8 +16811,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345763",
     "fare": 18.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1276,
     "class": 3,
@@ -18098,8 +16823,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345764",
     "fare": 18.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1277,
     "class": 3,
@@ -18111,8 +16835,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345763",
     "fare": 18.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1278,
     "class": 3,
@@ -18125,8 +16848,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2658",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1279,
     "class": 3,
@@ -18138,8 +16860,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350416",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1280,
     "class": 3,
@@ -18151,8 +16872,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "350406",
     "fare": 7.8542,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1281,
     "class": 3,
@@ -18164,8 +16884,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "349252",
     "fare": 7.8958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1282,
     "class": 3,
@@ -18178,8 +16897,7 @@ const data = [{
     "ticketId": "345767",
     "fare": 9.0,
     "portOfEmbarkation": "Southampton",
-    "destination": "Antwerp, Belgium / Stanton, OH",
-    "source": "kaggle.com"
+    "destination": "Antwerp, Belgium / Stanton, OH"
 }, {
     "id": 1283,
     "class": 3,
@@ -18191,8 +16909,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "359309",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1284,
     "class": 3,
@@ -18204,8 +16921,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "C.A. 49867",
     "fare": 7.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1285,
     "class": 3,
@@ -18217,8 +16933,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/OQ 3101316",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1286,
     "class": 3,
@@ -18230,8 +16945,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345775",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1287,
     "class": 3,
@@ -18244,8 +16958,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2688",
     "fare": 7.2292,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1288,
     "class": 3,
@@ -18257,8 +16970,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "347064",
     "fare": 7.75,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1289,
     "class": 3,
@@ -18270,8 +16982,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3101267",
     "fare": 6.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1290,
     "class": 3,
@@ -18283,8 +16994,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3101266",
     "fare": 6.4958,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1291,
     "class": 3,
@@ -18296,8 +17006,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "363272",
     "fare": 7.0,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1292,
     "class": 3,
@@ -18309,8 +17018,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "3410",
     "fare": 8.7125,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1293,
     "class": 3,
@@ -18322,8 +17030,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "S.O./P.P. 751",
     "fare": 7.55,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1294,
     "class": 3,
@@ -18335,8 +17042,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/5 2466",
     "fare": 8.05,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1295,
     "class": 3,
@@ -18348,8 +17054,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "54636",
     "fare": 16.1,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1296,
     "class": 3,
@@ -18361,8 +17066,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "SOTON/OQ 3101317",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1297,
     "class": 3,
@@ -18374,8 +17078,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315154",
     "fare": 8.6625,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1298,
     "class": 3,
@@ -18387,8 +17090,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "A/4. 34244",
     "fare": 7.25,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1299,
     "class": 3,
@@ -18400,8 +17102,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "345771",
     "fare": 9.5,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }, {
     "id": 1300,
     "class": 3,
@@ -18413,8 +17114,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2659",
     "fare": 14.4542,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1301,
     "class": 3,
@@ -18426,8 +17126,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2659",
     "fare": 14.4542,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1302,
     "class": 3,
@@ -18439,8 +17138,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2628",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1303,
     "class": 3,
@@ -18452,8 +17150,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2647",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1304,
     "class": 3,
@@ -18465,8 +17162,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2627",
     "fare": 14.4583,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1305,
     "class": 3,
@@ -18478,8 +17174,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2665",
     "fare": 14.4542,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1306,
     "class": 3,
@@ -18491,8 +17186,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2665",
     "fare": 14.4542,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1307,
     "class": 3,
@@ -18504,8 +17198,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2656",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1308,
     "class": 3,
@@ -18517,8 +17210,7 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "2670",
     "fare": 7.225,
-    "portOfEmbarkation": "Cherbourg",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Cherbourg"
 }, {
     "id": 1309,
     "class": 3,
@@ -18530,10 +17222,8 @@ const data = [{
     "parentsOrChildren": 0,
     "ticketId": "315082",
     "fare": 7.875,
-    "portOfEmbarkation": "Southampton",
-    "source": "kaggle.com"
+    "portOfEmbarkation": "Southampton"
 }
 ];
-
 
 module.exports = data;
