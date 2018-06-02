@@ -37,6 +37,9 @@ exports.get_prediction = (req, res, next) => {
     deviation = avgSurvivalRatio * randomness / 100.0;
     minSurvivalRatio = avgSurvivalRatio - deviation;
     maxSurvivalRatio = avgSurvivalRatio + deviation;
+    if (maxSurvivalRatio > 100.0) {
+      maxSurvivalRatio = 100.0;
+    }
   }
 
   res.status(200).json({
